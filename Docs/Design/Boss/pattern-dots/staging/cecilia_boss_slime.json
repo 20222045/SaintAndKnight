@@ -1,0 +1,17 @@
+{
+  "schemaVersion":1,
+  "character":"cecilia",
+  "trap":"boss_slime",
+  "frameWidth":128,
+  "frameHeight":96,
+  "columns":8,
+  "rows":3,
+  "usedFrames":23,
+  "ppu":48,
+  "pivotX":0.5,
+  "pivotY":0.26625,
+  "swallowStart":0, "swallowCount":6,
+  "resistStart":6, "resistStages":6, "resistFramesPerStage":2,
+  "escapeStart":18, "escapeCount":3,
+  "consumedStart":21, "consumedCount":2
+}

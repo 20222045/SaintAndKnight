@@ -1,0 +1,67 @@
+# Unity 생성물
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/output/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+.vs/
+.vscode/
+__pycache__/
+*.pyc
+
+# 비밀값(API 키)
+.mcp.json
+
+# 원작 분석 증거(원작 바이너리에서 뽑은 자료)
+/Docs/Research/Evidence/
+
+# ── 저장소 수위: 15세 이용가 기준 ──
+# 사용자가 수위를 올린 그림·문구를 넣는 자리는 Git에 올리지 않는다(로컬에만 둔다).
+# 그림이 없으면 게임은 기존 그림으로 대체하므로 이 파일들이 없어도 빌드·검사는 된다.
+# 사망 HUD 일러스트
+/Assets/SaintKnightDay15/Resources/SaintKnightDay15/DefeatPortraits/*.png
+/Assets/SaintKnightDay15/Resources/SaintKnightDay15/DefeatPortraits/*.png.meta
+# 사망 컷씬
+/Assets/SaintKnightDay15/Resources/SaintKnightDay15/DeathCutscenes/
+/Assets/SaintKnightDay15/Resources/SaintKnightDay15/DeathCutscenes.meta
+# 움직이는 사망 장면(같은 이름으로 수위를 올린 판이 덮어쓰임)
+/Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/*_death_*.png
+/Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/*_death_*.png.meta
+# 측면 HUD 손상 단계 일러스트(노출이 있음) — .meta는 GUID 기록용으로 남긴다
+/Assets/SaintKnightDay06/Art/Portraits/*.png
+/Docs/Design/Characters/reference/
+/Docs/Design/Characters/portraits_preview.png
+# 28일차 갤러리용 3D 일러스트 원본
+/Docs/Design/Gallery/Source/
+# 사용자가 적는 묘사 문구, 그 밖의 비공개 자료
+Private/
+Private.meta
+
+# Unity 테스트 실행이 남기는 임시 씬
+/Assets/InitTestScene*.unity
+/Assets/InitTestScene*.unity.meta
+
+# 포트폴리오 공개용: 수위 관련 작업 기록·제작 스크립트는 로컬에만 둔다
+/CLAUDE.md
+/Planning/CHANGELOG.md
+/Planning/DAILY_PROGRESS_LOG.csv
+/Docs/Design/REFERENCE_UNREASONX.md
+/Docs/Design/REFERENCE_FLOWER.md
+/Docs/Design/ART_REQUEST_DAY15.md
+/Docs/Design/NEXT_TODO_20261122.md
+/Docs/Design/Characters/make_salon_novelai.py
+/Docs/Design/Characters/fix_salon_rune.py
+/Docs/Design/Characters/preview_bust_morph.py
+/Docs/Design/Characters/make_rune_tear_video.py
+/Docs/Design/Characters/make_gamble_assets.py
+/Docs/Design/Characters/make_hud_novelai.py

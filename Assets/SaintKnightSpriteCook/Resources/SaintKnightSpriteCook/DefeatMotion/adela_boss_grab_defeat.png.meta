@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: c99674d51d0c8db4d8e6728b3c018ab6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6215055497013191784
+    second: adela_boss_grab_defeat_0
+  - first:
+      213: 132609300881409453
+    second: adela_boss_grab_defeat_1
+  - first:
+      213: -2813708160763565670
+    second: adela_boss_grab_defeat_2
+  - first:
+      213: -3250160919077954249
+    second: adela_boss_grab_defeat_3
+  - first:
+      213: 3548398681176158758
+    second: adela_boss_grab_defeat_4
+  - first:
+      213: 2741859957410125417
+    second: adela_boss_grab_defeat_5
+  - first:
+      213: -756890833110641637
+    second: adela_boss_grab_defeat_6
+  - first:
+      213: -3645128499856924050
+    second: adela_boss_grab_defeat_7
+  - first:
+      213: -1065898206249513880
+    second: adela_boss_grab_defeat_8
+  - first:
+      213: -110010311651048780
+    second: adela_boss_grab_defeat_9
+  - first:
+      213: -5509995892729594019
+    second: adela_boss_grab_defeat_10
+  - first:
+      213: 3434119227217709282
+    second: adela_boss_grab_defeat_11
+  - first:
+      213: 8939605363520748710
+    second: adela_boss_grab_defeat_12
+  - first:
+      213: -4164821910869069338
+    second: adela_boss_grab_defeat_13
+  - first:
+      213: 2352844936047525212
+    second: adela_boss_grab_defeat_14
+  - first:
+      213: -6763699162857715172
+    second: adela_boss_grab_defeat_15
+  - first:
+      213: -4316777839245321117
+    second: adela_boss_grab_defeat_16
+  - first:
+      213: -7770647169138230935
+    second: adela_boss_grab_defeat_17
+  - first:
+      213: 4752656556994954790
+    second: adela_boss_grab_defeat_18
+  - first:
+      213: -6862438357415547041
+    second: adela_boss_grab_defeat_19
+  - first:
+      213: -2884364087728014270
+    second: adela_boss_grab_defeat_20
+  - first:
+      213: -7734877090849010279
+    second: adela_boss_grab_defeat_21
+  - first:
+      213: -2998415264365225057
+    second: adela_boss_grab_defeat_22
+  - first:
+      213: -6716447412183764018
+    second: adela_boss_grab_defeat_23
+  - first:
+      213: 5150916128067372266
+    second: adela_boss_grab_defeat_24
+  - first:
+      213: -6191373025406838381
+    second: adela_boss_grab_defeat_25
+  - first:
+      213: 743871965062296739
+    second: adela_boss_grab_defeat_26
+  - first:
+      213: -236564769328200913
+    second: adela_boss_grab_defeat_27
+  - first:
+      213: -2647660852340209438
+    second: adela_boss_grab_defeat_28
+  - first:
+      213: -7324559130497434313
+    second: adela_boss_grab_defeat_29
+  - first:
+      213: -888050684726601708
+    second: adela_boss_grab_defeat_30
+  - first:
+      213: 287242076218323604
+    second: adela_boss_grab_defeat_31
+  - first:
+      213: 4396401163856760607
+    second: adela_boss_grab_defeat_32
+  - first:
+      213: 5523021413028517789
+    second: adela_boss_grab_defeat_33
+  - first:
+      213: -2007868120012577222
+    second: adela_boss_grab_defeat_34
+  - first:
+      213: 6343744215136089263
+    second: adela_boss_grab_defeat_35
+  - first:
+      213: -1060919257982768733
+    second: adela_boss_grab_defeat_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8646fc6bb00504650800000000000000
+      internalID: 6215055497013191784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da503f0e47f17d100800000000000000
+      internalID: 132609300881409453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99e110e553b3f8d0800000000000000
+      internalID: -2813708160763565670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d508b3ddb15e2d0800000000000000
+      internalID: -3250160919077954249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62238f0ecc17e3130800000000000000
+      internalID: 3548398681176158758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9665c41ba1b0d0620800000000000000
+      internalID: 2741859957410125417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14d0b62ccbfe75f0800000000000000
+      internalID: -756890833110641637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 4
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62206d21f6e96dc0800000000000000
+      internalID: -3645128499856924050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c85c19a3b2531f0800000000000000
+      internalID: -1065898206249513880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2c864543a297ef0800000000000000
+      internalID: -110010311651048780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_10
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fbdf3cdef8883b0800000000000000
+      internalID: -5509995892729594019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e886ae0e3178af20800000000000000
+      internalID: 3434119227217709282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_12
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acb4dcc6bbdf0c70800000000000000
+      internalID: 8939605363520748710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1b2e9c9849336c0800000000000000
+      internalID: -4164821910869069338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_14
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d70b0e00cf6a020800000000000000
+      internalID: 2352844936047525212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_15
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a424e62738222a0800000000000000
+      internalID: -6763699162857715172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_16
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c118d2d69b714c0800000000000000
+      internalID: -4316777839245321117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_17
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969fe90029d192490800000000000000
+      internalID: -7770647169138230935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_18
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6268d1b35f3d4f140800000000000000
+      internalID: 4752656556994954790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_19
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f2b353ca8b3c0a0800000000000000
+      internalID: -6862438357415547041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_20
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cf31ce42ea8f7d0800000000000000
+      internalID: -2884364087728014270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_21
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d43aa544238a490800000000000000
+      internalID: -7734877090849010279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_22
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bd66e043d7366d0800000000000000
+      internalID: -2998415264365225057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_23
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3f134f9a26ac2a0800000000000000
+      internalID: -6716447412183764018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_24
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 1
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae449418deabb7740800000000000000
+      internalID: 5150916128067372266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_25
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 0
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39990b46903d31aa0800000000000000
+      internalID: -6191373025406838381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_26
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 0
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4f8eb6c93c25a00800000000000000
+      internalID: 743871965062296739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_27
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 0
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2302dd789d87bcf0800000000000000
+      internalID: -236564769328200913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_28
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 0
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8cd829b7e914bd0800000000000000
+      internalID: -2647660852340209438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_29
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 0
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d3b5a2740f95a90800000000000000
+      internalID: -7324559130497434313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_30
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 0
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418145a7b920da3f0800000000000000
+      internalID: -888050684726601708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_31
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 0
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492f98d752d7cf300800000000000000
+      internalID: 287242076218323604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_32
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 0
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fcbcdb097230d30800000000000000
+      internalID: 4396401163856760607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_33
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 0
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97d07286b6b5ac40800000000000000
+      internalID: 5523021413028517789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_34
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 0
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36a1de359e9224e0800000000000000
+      internalID: -2007868120012577222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_35
+      rect:
+        serializedVersion: 2
+        x: 3866
+        y: 0
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa43029c0c1890850800000000000000
+      internalID: 6343744215136089263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_defeat_36
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 0
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9e09c4e8bd641f0800000000000000
+      internalID: -1060919257982768733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      adela_boss_grab_defeat_0: 6215055497013191784
+      adela_boss_grab_defeat_1: 132609300881409453
+      adela_boss_grab_defeat_10: -5509995892729594019
+      adela_boss_grab_defeat_11: 3434119227217709282
+      adela_boss_grab_defeat_12: 8939605363520748710
+      adela_boss_grab_defeat_13: -4164821910869069338
+      adela_boss_grab_defeat_14: 2352844936047525212
+      adela_boss_grab_defeat_15: -6763699162857715172
+      adela_boss_grab_defeat_16: -4316777839245321117
+      adela_boss_grab_defeat_17: -7770647169138230935
+      adela_boss_grab_defeat_18: 4752656556994954790
+      adela_boss_grab_defeat_19: -6862438357415547041
+      adela_boss_grab_defeat_2: -2813708160763565670
+      adela_boss_grab_defeat_20: -2884364087728014270
+      adela_boss_grab_defeat_21: -7734877090849010279
+      adela_boss_grab_defeat_22: -2998415264365225057
+      adela_boss_grab_defeat_23: -6716447412183764018
+      adela_boss_grab_defeat_24: 5150916128067372266
+      adela_boss_grab_defeat_25: -6191373025406838381
+      adela_boss_grab_defeat_26: 743871965062296739
+      adela_boss_grab_defeat_27: -236564769328200913
+      adela_boss_grab_defeat_28: -2647660852340209438
+      adela_boss_grab_defeat_29: -7324559130497434313
+      adela_boss_grab_defeat_3: -3250160919077954249
+      adela_boss_grab_defeat_30: -888050684726601708
+      adela_boss_grab_defeat_31: 287242076218323604
+      adela_boss_grab_defeat_32: 4396401163856760607
+      adela_boss_grab_defeat_33: 5523021413028517789
+      adela_boss_grab_defeat_34: -2007868120012577222
+      adela_boss_grab_defeat_35: 6343744215136089263
+      adela_boss_grab_defeat_36: -1060919257982768733
+      adela_boss_grab_defeat_4: 3548398681176158758
+      adela_boss_grab_defeat_5: 2741859957410125417
+      adela_boss_grab_defeat_6: -756890833110641637
+      adela_boss_grab_defeat_7: -3645128499856924050
+      adela_boss_grab_defeat_8: -1065898206249513880
+      adela_boss_grab_defeat_9: -110010311651048780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

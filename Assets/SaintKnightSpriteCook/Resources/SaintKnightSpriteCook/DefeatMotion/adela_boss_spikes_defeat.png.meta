@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 0368cb3ccddf8044d8d48d4f4e198a3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5043900978152485148
+    second: adela_boss_spikes_defeat_0
+  - first:
+      213: -8311379650969742040
+    second: adela_boss_spikes_defeat_1
+  - first:
+      213: -5389614689018351340
+    second: adela_boss_spikes_defeat_2
+  - first:
+      213: -7739782419251296552
+    second: adela_boss_spikes_defeat_3
+  - first:
+      213: 6043913573002123785
+    second: adela_boss_spikes_defeat_4
+  - first:
+      213: -843815332675358379
+    second: adela_boss_spikes_defeat_5
+  - first:
+      213: 7549132657329280679
+    second: adela_boss_spikes_defeat_6
+  - first:
+      213: 270608290333914143
+    second: adela_boss_spikes_defeat_7
+  - first:
+      213: 8298417965054817254
+    second: adela_boss_spikes_defeat_8
+  - first:
+      213: -4700281323724274312
+    second: adela_boss_spikes_defeat_9
+  - first:
+      213: 4942240334998559703
+    second: adela_boss_spikes_defeat_10
+  - first:
+      213: 2350398381841455799
+    second: adela_boss_spikes_defeat_11
+  - first:
+      213: -7952989907213963159
+    second: adela_boss_spikes_defeat_12
+  - first:
+      213: 13518053684396916
+    second: adela_boss_spikes_defeat_13
+  - first:
+      213: 7254059279594578313
+    second: adela_boss_spikes_defeat_14
+  - first:
+      213: -7653490327349833196
+    second: adela_boss_spikes_defeat_15
+  - first:
+      213: -9002567377070804600
+    second: adela_boss_spikes_defeat_16
+  - first:
+      213: -3797012809736902334
+    second: adela_boss_spikes_defeat_17
+  - first:
+      213: 1142410357842490042
+    second: adela_boss_spikes_defeat_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11360547398ff540800000000000000
+      internalID: 5043900978152485148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825d9863e3c08ac80800000000000000
+      internalID: -8311379650969742040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41175d8eefd3435b0800000000000000
+      internalID: -5389614689018351340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d686b595e4c69490800000000000000
+      internalID: -7739782419251296552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a14f36f5b40e350800000000000000
+      internalID: 6043913573002123785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5517bd7fc6a2a44f0800000000000000
+      internalID: -843815332675358379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a69962a728e3c860800000000000000
+      internalID: 7549132657329280679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_7
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 0
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14f0aa6ec461c300800000000000000
+      internalID: 270608290333914143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_8
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3ffcc1c27e92370800000000000000
+      internalID: 8298417965054817254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875030b0a0f35ceb0800000000000000
+      internalID: -4700281323724274312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_10
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db523a466d569440800000000000000
+      internalID: 4942240334998559703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_11
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 0
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba105610ea4e9020800000000000000
+      internalID: 2350398381841455799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_12
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 0
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960be3ee0dd41a190800000000000000
+      internalID: -7952989907213963159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_13
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 0
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473c9e32996003000800000000000000
+      internalID: 13518053684396916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_14
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 0
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9816cdb2b789ba460800000000000000
+      internalID: 7254059279594578313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_15
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 0
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412dc62e81759c590800000000000000
+      internalID: -7653490327349833196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_16
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 0
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881bc2f0ba4701380800000000000000
+      internalID: -9002567377070804600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_17
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 0
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249260c87fc4e4bc0800000000000000
+      internalID: -3797012809736902334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_spikes_defeat_18
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 0
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2bdeeea28aadf00800000000000000
+      internalID: 1142410357842490042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      adela_boss_spikes_defeat_0: 5043900978152485148
+      adela_boss_spikes_defeat_1: -8311379650969742040
+      adela_boss_spikes_defeat_10: 4942240334998559703
+      adela_boss_spikes_defeat_11: 2350398381841455799
+      adela_boss_spikes_defeat_12: -7952989907213963159
+      adela_boss_spikes_defeat_13: 13518053684396916
+      adela_boss_spikes_defeat_14: 7254059279594578313
+      adela_boss_spikes_defeat_15: -7653490327349833196
+      adela_boss_spikes_defeat_16: -9002567377070804600
+      adela_boss_spikes_defeat_17: -3797012809736902334
+      adela_boss_spikes_defeat_18: 1142410357842490042
+      adela_boss_spikes_defeat_2: -5389614689018351340
+      adela_boss_spikes_defeat_3: -7739782419251296552
+      adela_boss_spikes_defeat_4: 6043913573002123785
+      adela_boss_spikes_defeat_5: -843815332675358379
+      adela_boss_spikes_defeat_6: 7549132657329280679
+      adela_boss_spikes_defeat_7: 270608290333914143
+      adela_boss_spikes_defeat_8: 8298417965054817254
+      adela_boss_spikes_defeat_9: -4700281323724274312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

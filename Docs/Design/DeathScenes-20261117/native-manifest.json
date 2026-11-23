@@ -1,0 +1,300 @@
+{
+    "cellWidth": 128,
+    "cellHeight": 96,
+    "frameCount": 18,
+    "loopStart": 8,
+    "framesPerSecond": 8.0,
+    "method": "Seven painted boss poses per character with marked arm and boot contacts. Original game figures supply stage and legacy scenes. Live captures have separate sheets.",
+    "clips": [
+        {
+            "character": "cecilia",
+            "key": "monk",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_monk.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "executioner",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_executioner.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "tentacle",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_tentacle.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "fleshwall",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_fleshwall.png",
+            "frames": 18,
+            "width": 160,
+            "height": 112
+        },
+        {
+            "character": "cecilia",
+            "key": "boss_spikes",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_boss_spikes_defeat.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "boss_grab",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_boss_grab_defeat.png",
+            "frames": 32,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "boss_spit",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_boss_spit_defeat.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "boss1",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_boss1.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "boss2",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_boss2.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "boss3",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_boss3.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "boss4",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_boss4.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "boss5",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_boss5.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "cecilia",
+            "key": "boss6",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/cecilia_boss6.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "monk",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_monk.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "executioner",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_executioner.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "tentacle",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_tentacle.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "fleshwall",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_fleshwall.png",
+            "frames": 18,
+            "width": 160,
+            "height": 112
+        },
+        {
+            "character": "adela",
+            "key": "boss_spikes",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_boss_spikes_defeat.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "boss_grab",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_boss_grab_defeat.png",
+            "frames": 32,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "boss_spit",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_boss_spit_defeat.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "boss1",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_boss1.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "boss2",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_boss2.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "boss3",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_boss3.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "boss4",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_boss4.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "boss5",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_boss5.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        },
+        {
+            "character": "adela",
+            "key": "boss6",
+            "path": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/adela_boss6.png",
+            "frames": 18,
+            "width": 128,
+            "height": 96
+        }
+    ],
+    "sources": [
+        {
+            "path": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/adela_motion.png",
+            "sha256": "f87dcdf742cc4caaf4404b4684853885bc976cbfea5f50a8e5784a11eb036baa"
+        },
+        {
+            "path": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/cecilia_motion.png",
+            "sha256": "9ab32982cb56643cb50640591dfbc0c364987b4c566c83d54b63ca00a1d57935"
+        },
+        {
+            "path": "Assets/SaintKnightDay09/Art/Boss/boss_grab_reach_f00_NOT_FINAL.png",
+            "sha256": "fc3165d57dc9e7839cad0c184de44bdb9bc1588354c9247dbc61bd8ff7956a46"
+        },
+        {
+            "path": "Assets/SaintKnightDay09/Art/Enemies/executioner/idle_f00.png",
+            "sha256": "fa43df4854ddb6d22271f42e9c35668265246554f4d1908738379ba0ef501e02"
+        },
+        {
+            "path": "Assets/SaintKnightDay09/Art/Enemies/executioner/recovery_f00.png",
+            "sha256": "c29736667c691992efdd0eb6720a210a24c784d3bb40c5d9ca6aa99e517a41af"
+        },
+        {
+            "path": "Assets/SaintKnightDay09/Art/Enemies/monk/grab-windup_f00.png",
+            "sha256": "6aeec0fe6630bf22cc50a48c85dc4a5a5f16188b58858e2575d97eab93407abe"
+        },
+        {
+            "path": "Assets/SaintKnightDay09/Art/Enemies/monk/idle_f00.png",
+            "sha256": "28a18ef318fda2d3c0701f41b1570366ae344a69ea0db4b365b497e2e8f448dd"
+        },
+        {
+            "path": "Assets/SaintKnightDay10/Resources/SaintKnightDay10/TrapMotion/adela_bossslime.png",
+            "sha256": "32451c166a25d5da95fb53eb4f81d394671387871381129b282755346f8f136e"
+        },
+        {
+            "path": "Assets/SaintKnightDay10/Resources/SaintKnightDay10/TrapMotion/adela_tentacle.png",
+            "sha256": "58edc0270b74f5cc69c6f87ae68bcdb9543b5c1dbeab637b2968a5484bfcb7d6"
+        },
+        {
+            "path": "Assets/SaintKnightDay10/Resources/SaintKnightDay10/TrapMotion/adela_wall.png",
+            "sha256": "fdd336772fd4f2cd61d6f780e52975e652ef540684d44dcf480f4f35602a88e4"
+        },
+        {
+            "path": "Assets/SaintKnightDay10/Resources/SaintKnightDay10/TrapMotion/cecilia_bossslime.png",
+            "sha256": "1b8f5b69620f9cf06f5dbe448d345133bcdf53c713214d5915926886d52075e6"
+        },
+        {
+            "path": "Assets/SaintKnightDay10/Resources/SaintKnightDay10/TrapMotion/cecilia_tentacle.png",
+            "sha256": "3743297a07b0071f0227992530637ec1fed9c446825722de917959028ef72d89"
+        },
+        {
+            "path": "Assets/SaintKnightDay10/Resources/SaintKnightDay10/TrapMotion/cecilia_wall.png",
+            "sha256": "3db5c1cfab520992e6070e62d33065ff8d36d488a3d163c1683560f328420fd7"
+        },
+        {
+            "path": "Assets/SaintKnightSpriteCook/Editor/BossPoseMarks.json",
+            "sha256": "1a136bc5c1ec347f52e548b4fd9ef8e9f4035614e9aadda9f79891487430f80f"
+        },
+        {
+            "path": "Assets/SaintKnightSpriteCook/Editor/GrabEntranceMarks.json",
+            "sha256": "663b6bf34a6e51d419afa79efa163685d00014dd782292ca934d0c05ef548920"
+        },
+        {
+            "path": "Assets/SaintKnightSpriteCook/Editor/InkDrip.png",
+            "sha256": "2570260423b37290f4566d1bfee16f9d34aea3e17c43eaf80b76d4c8c1ccaa14"
+        },
+        {
+            "path": "Assets/SaintKnightSpriteCook/Editor/adela_boss_pose_keys.png",
+            "sha256": "13ed7fc29495f88111aa7630421a0cb493a45875789b181c706ac333c9e334ef"
+        },
+        {
+            "path": "Assets/SaintKnightSpriteCook/Editor/adela_grab_entrance.png",
+            "sha256": "ae8d4851ff02caf2e5b6687198f3851849240ff35e5b52611362e886be9fcfc5"
+        },
+        {
+            "path": "Assets/SaintKnightSpriteCook/Editor/cecilia_boss_pose_keys.png",
+            "sha256": "94f9f29e1abc8d1c00a1706e8d4b0265affca0e6565ca00ef68570867e54ae6a"
+        },
+        {
+            "path": "Assets/SaintKnightSpriteCook/Editor/cecilia_grab_entrance.png",
+            "sha256": "070ccfca37174e707ff273062154403122da214ce46676a6d515e70ad6616166"
+        }
+    ]
+}

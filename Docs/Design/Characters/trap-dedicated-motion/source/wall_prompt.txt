@@ -1,0 +1,12 @@
+Use case: identity-preserve, production pixel-art game material sheet.
+Using the existing flesh-wall sprite as the design reference, create SIX CHARACTER-FREE stages of a GOTHIC FLESH WALL swallowing into its LEFT SIDE, in an exact regular 3-column by 2-row transparent sprite sheet, read left to right then next row.
+Keep the SAME vertical fleshy wall/pillar silhouette, grounded roots, dark organic pixel texture and muted burgundy palette #160D17 #2C1724 #492330 #73383E #A25350 #C77765. It is a heavy upright mass fixed against a stone wall, not a freestanding slime sack, cocoon, flower, worm or jaw with teeth. Use sharp chunky native game pixels and flat limited shading like the reference.
+No person, human parts, face, clothing, bones, gore, blood or text. Existing fully clothed game character pixels will later be inserted on the left side and pulled horizontally into the wall, so leave a changing LEFT-SIDE opening/pocket in the front folds.
+Same scale, root baseline and wall position in all six equal cells, generous transparent gutters, no cells overlap. The solid wall body at the right stays stable and reaches about 85% of the cell height.
+Frame 1: resting wall with a narrow left-side seam and two thin tendrils reaching left at waist and calf height.
+Frame 2: seam opens on the lower-left/center-left side into a dark concave pocket; curved folds reach left toward where a character's legs would be.
+Frame 3: the left pocket grips from calf to waist height, layered fleshy folds curl inward and pull toward the stable wall on the right. The upper-left opening remains wide.
+Frame 4: left-side folds wrap inward at waist and shoulder height, the opening is much narrower and farther inside the wall; just the upper-left region would let a head and raised arm remain visible.
+Frame 5: the pocket has almost sealed, only a small top-left slit remains; surface bulges slightly as the figure would have been drawn inside.
+Frame 6: seam fully closed, a subtle rounded swelling and new overlapping fibre folds where the pocket was, no remaining opening or human trace. It should be unmistakably the SAME original wall now closed over the absorbed character.
+The action is LATERAL INTO THE WALL, not sinking down into a puddle. Curved organic folds, irregular branching roots, tactile dark pixel-art ridges, no parallel cage bars and no simple growing rectangle. No smooth painting, gradients, antialiasing, background, labels, borders or shadows outside the wall. True transparent alpha. Approximately 1536x1024 canvas, six square cells.

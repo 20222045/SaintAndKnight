@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 472aa2475051a2b4f95527048a9d0542
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5014028218468929648
+    second: cecilia_monk_0
+  - first:
+      213: 5711411793209244072
+    second: cecilia_monk_1
+  - first:
+      213: 6961494530294749154
+    second: cecilia_monk_2
+  - first:
+      213: 1138544166412727584
+    second: cecilia_monk_3
+  - first:
+      213: -5975942410394739083
+    second: cecilia_monk_4
+  - first:
+      213: 8100162509826307788
+    second: cecilia_monk_5
+  - first:
+      213: 4578454062356483589
+    second: cecilia_monk_6
+  - first:
+      213: -3833475306171434336
+    second: cecilia_monk_7
+  - first:
+      213: -3737601462978316394
+    second: cecilia_monk_8
+  - first:
+      213: -1017946522793992473
+    second: cecilia_monk_9
+  - first:
+      213: 3346570006098740586
+    second: cecilia_monk_10
+  - first:
+      213: 8482584579821267874
+    second: cecilia_monk_11
+  - first:
+      213: -7684066461859042871
+    second: cecilia_monk_12
+  - first:
+      213: 7252081268401956015
+    second: cecilia_monk_13
+  - first:
+      213: 1265745026014186664
+    second: cecilia_monk_14
+  - first:
+      213: 4072084699194200528
+    second: cecilia_monk_15
+  - first:
+      213: 3012783732430945959
+    second: cecilia_monk_16
+  - first:
+      213: -8993444264904831007
+    second: cecilia_monk_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecilia_monk_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fef5896e79a6ab0800000000000000
+      internalID: -5014028218468929648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b63cf3c2034f40800000000000000
+      internalID: 5711411793209244072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e71b0844623c9060800000000000000
+      internalID: 6961494530294749154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025bf1813ebeccf00800000000000000
+      internalID: 1138544166412727584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eda362a00311da0800000000000000
+      internalID: -5975942410394739083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6322dd2ee896070800000000000000
+      internalID: 8100162509826307788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_6
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ec33746bfe98f30800000000000000
+      internalID: 4578454062356483589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa7b680582cccac0800000000000000
+      internalID: -3833475306171434336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_8
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6977237a54f512cc0800000000000000
+      internalID: -3737601462978316394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_9
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee1584e7078fd1f0800000000000000
+      internalID: -1017946522793992473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_10
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a650e7d80b7617e20800000000000000
+      internalID: 3346570006098740586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_11
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abe3719bb138b570800000000000000
+      internalID: 8482584579821267874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_12
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 2
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9266ec346bc5590800000000000000
+      internalID: -7684066461859042871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_13
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4ec5d8d7194a460800000000000000
+      internalID: 7252081268401956015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_14
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 2
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac0bcb1564d09110800000000000000
+      internalID: 1265745026014186664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_15
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d116c68573f28830800000000000000
+      internalID: 4072084699194200528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_16
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 2
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae3f9c97de8fc920800000000000000
+      internalID: 3012783732430945959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_monk_17
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 2
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc213271ed03380800000000000000
+      internalID: -8993444264904831007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cecilia_monk_0: -5014028218468929648
+      cecilia_monk_1: 5711411793209244072
+      cecilia_monk_10: 3346570006098740586
+      cecilia_monk_11: 8482584579821267874
+      cecilia_monk_12: -7684066461859042871
+      cecilia_monk_13: 7252081268401956015
+      cecilia_monk_14: 1265745026014186664
+      cecilia_monk_15: 4072084699194200528
+      cecilia_monk_16: 3012783732430945959
+      cecilia_monk_17: -8993444264904831007
+      cecilia_monk_2: 6961494530294749154
+      cecilia_monk_3: 1138544166412727584
+      cecilia_monk_4: -5975942410394739083
+      cecilia_monk_5: 8100162509826307788
+      cecilia_monk_6: 4578454062356483589
+      cecilia_monk_7: -3833475306171434336
+      cecilia_monk_8: -3737601462978316394
+      cecilia_monk_9: -1017946522793992473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

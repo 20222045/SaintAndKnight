@@ -1,0 +1,831 @@
+{
+ "frames": [
+  {
+   "filename": "chimney-smoke 0",
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 1",
+   "frame": {
+    "x": 48,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 2",
+   "frame": {
+    "x": 96,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 3",
+   "frame": {
+    "x": 144,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 4",
+   "frame": {
+    "x": 192,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 5",
+   "frame": {
+    "x": 240,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 6",
+   "frame": {
+    "x": 288,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 7",
+   "frame": {
+    "x": 336,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 8",
+   "frame": {
+    "x": 0,
+    "y": 72,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 9",
+   "frame": {
+    "x": 48,
+    "y": 72,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 10",
+   "frame": {
+    "x": 96,
+    "y": 72,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 11",
+   "frame": {
+    "x": 144,
+    "y": 72,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 12",
+   "frame": {
+    "x": 192,
+    "y": 72,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 13",
+   "frame": {
+    "x": 240,
+    "y": 72,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 14",
+   "frame": {
+    "x": 288,
+    "y": 72,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 15",
+   "frame": {
+    "x": 336,
+    "y": 72,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 16",
+   "frame": {
+    "x": 0,
+    "y": 144,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 17",
+   "frame": {
+    "x": 48,
+    "y": 144,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 18",
+   "frame": {
+    "x": 96,
+    "y": 144,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 19",
+   "frame": {
+    "x": 144,
+    "y": 144,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 20",
+   "frame": {
+    "x": 192,
+    "y": 144,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 21",
+   "frame": {
+    "x": 240,
+    "y": 144,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 22",
+   "frame": {
+    "x": 288,
+    "y": 144,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 23",
+   "frame": {
+    "x": 336,
+    "y": 144,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 24",
+   "frame": {
+    "x": 0,
+    "y": 216,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 25",
+   "frame": {
+    "x": 48,
+    "y": 216,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 26",
+   "frame": {
+    "x": 96,
+    "y": 216,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 27",
+   "frame": {
+    "x": 144,
+    "y": 216,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 28",
+   "frame": {
+    "x": 192,
+    "y": 216,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 29",
+   "frame": {
+    "x": 240,
+    "y": 216,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 30",
+   "frame": {
+    "x": 288,
+    "y": 216,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 31",
+   "frame": {
+    "x": 336,
+    "y": 216,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 32",
+   "frame": {
+    "x": 0,
+    "y": 288,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 33",
+   "frame": {
+    "x": 48,
+    "y": 288,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 34",
+   "frame": {
+    "x": 96,
+    "y": 288,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  },
+  {
+   "filename": "chimney-smoke 35",
+   "frame": {
+    "x": 144,
+    "y": 288,
+    "w": 48,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 72
+   },
+   "duration": 83
+  }
+ ],
+ "meta": {
+  "app": "https://github.com/patch-gg/pixelfx",
+  "version": "1",
+  "image": "chimney-smoke.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 384,
+   "h": 360
+  },
+  "scale": "1",
+  "frameTags": [
+   {
+    "name": "chimney-smoke",
+    "from": 0,
+    "to": 35,
+    "direction": "forward"
+   }
+  ],
+  "pixelfx": {
+   "id": "fire/chimney-smoke",
+   "name": "Chimney smoke",
+   "fps": 12,
+   "loop": true,
+   "frames": 36,
+   "frameSize": [
+    48,
+    72
+   ],
+   "pivot": [
+    16,
+    68
+   ],
+   "columns": 8
+  }
+ }
+}

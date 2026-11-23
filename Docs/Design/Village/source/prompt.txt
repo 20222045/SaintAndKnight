@@ -1,0 +1,7 @@
+NovelAI free trial (last of 30), 2026-11-19. V4.5 Curated, Anime mode, 1216x832, steps 23, guidance 7, seed 51001, Euler Ancestral, UC preset Heavy.
+
+Prompt:
+no humans, scenery, side view, 2d side-scrolling game background, flat horizontal composition, wide shot, bustling medieval fantasy town main street at dusk, dense european village, long row of many timber-framed houses and shops pressed together, bakery, blacksmith, tavern inn, potion shop, hanging wooden shop signs, flower boxes, laundry lines between houses, chimneys with smoke, warm glowing windows, street lanterns, market stalls with awnings, crates and barrels, well, cobblestone street running straight along the bottom edge, on the far left an onsen bathhouse with steam rising and noren curtain, in the center a red velvet saloon with red paper lanterns and a white rabbit sign, on the far right a stone church gate archway with warm light, distant gothic cathedral spires and layered town rooftops behind, purple starry dusk sky, crescent moon, highly detailed, pixel art style, retro game
+
+Undesired:
+1girl, 1boy, people, humans, character, crowd, animal, text, letters, watermark, signature, logo, aerial view, from above, fisheye, strong perspective, vanishing point, empty street, sparse, blurry, lowres, jpeg artifacts, 3d, realistic, photo

@@ -1,0 +1,154 @@
+{
+  "canonicalSha256": "9ab32982cb56643cb50640591dfbc0c364987b4c566c83d54b63ca00a1d57935",
+  "sourceSha256": "389544bed22b8c6cc6e20fc6042a5958416d8fb776a053c562c6155f5c58c6e9",
+  "outputSha256": "ce762ffbfba7ceff129c5618a71e11c27c707c5bc3e7be0a2662b64894244576",
+  "sourceSize": [
+    1560,
+    1008
+  ],
+  "outputSize": [
+    512,
+    192
+  ],
+  "uniformScale": 0.19434628975265017,
+  "paletteColors": 32,
+  "standingHeight": 55,
+  "frames": [
+    {
+      "index": 0,
+      "sourceRect": [
+        147,
+        125,
+        297,
+        414
+      ],
+      "bounds": [
+        50,
+        38,
+        78,
+        93
+      ],
+      "opaquePixels": 940
+    },
+    {
+      "index": 1,
+      "sourceRect": [
+        491,
+        139,
+        644,
+        414
+      ],
+      "bounds": [
+        49,
+        41,
+        78,
+        93
+      ],
+      "opaquePixels": 879
+    },
+    {
+      "index": 2,
+      "sourceRect": [
+        820,
+        183,
+        1004,
+        414
+      ],
+      "bounds": [
+        47,
+        49,
+        81,
+        93
+      ],
+      "opaquePixels": 804
+    },
+    {
+      "index": 3,
+      "sourceRect": [
+        1131,
+        314,
+        1424,
+        417
+      ],
+      "bounds": [
+        36,
+        74,
+        92,
+        93
+      ],
+      "opaquePixels": 620
+    },
+    {
+      "index": 4,
+      "sourceRect": [
+        136,
+        541,
+        288,
+        847
+      ],
+      "bounds": [
+        50,
+        35,
+        78,
+        93
+      ],
+      "opaquePixels": 903
+    },
+    {
+      "index": 5,
+      "sourceRect": [
+        425,
+        668,
+        681,
+        848
+      ],
+      "bounds": [
+        39,
+        59,
+        88,
+        93
+      ],
+      "opaquePixels": 842
+    },
+    {
+      "index": 6,
+      "sourceRect": [
+        756,
+        719,
+        1053,
+        850
+      ],
+      "bounds": [
+        35,
+        69,
+        92,
+        93
+      ],
+      "opaquePixels": 712
+    },
+    {
+      "index": 7,
+      "sourceRect": [
+        1121,
+        766,
+        1427,
+        851
+      ],
+      "bounds": [
+        35,
+        78,
+        93,
+        93
+      ],
+      "opaquePixels": 537
+    }
+  ],
+  "checks": {
+    "eightDistinctFrames": true,
+    "noClippedCells": true,
+    "canonicalPaletteOnly": true,
+    "hardAlpha": true,
+    "feetAligned": true,
+    "canonicalUnchanged": true
+  }
+}

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 3d70685fe34716d43a86b53aaf5c0eb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7852523288268691784
+    second: adela_executioner_0
+  - first:
+      213: -8810439723080809959
+    second: adela_executioner_1
+  - first:
+      213: 933304813739815873
+    second: adela_executioner_2
+  - first:
+      213: 2347740730561182676
+    second: adela_executioner_3
+  - first:
+      213: -1421125102805703306
+    second: adela_executioner_4
+  - first:
+      213: 6751514979467453977
+    second: adela_executioner_5
+  - first:
+      213: 1497634047684133065
+    second: adela_executioner_6
+  - first:
+      213: 8060294117372435942
+    second: adela_executioner_7
+  - first:
+      213: 370542589448991428
+    second: adela_executioner_8
+  - first:
+      213: 7900468530121477528
+    second: adela_executioner_9
+  - first:
+      213: -3087533195610389570
+    second: adela_executioner_10
+  - first:
+      213: 8018428165084893811
+    second: adela_executioner_11
+  - first:
+      213: -4587180664179640090
+    second: adela_executioner_12
+  - first:
+      213: 9220365128501845647
+    second: adela_executioner_13
+  - first:
+      213: 6190099375984517809
+    second: adela_executioner_14
+  - first:
+      213: 8650997827483988543
+    second: adela_executioner_15
+  - first:
+      213: 3437969808860722110
+    second: adela_executioner_16
+  - first:
+      213: 2175895388709353878
+    second: adela_executioner_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adela_executioner_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849dcb38354c9fc60800000000000000
+      internalID: 7852523288268691784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91207c660c70bb580800000000000000
+      internalID: -8810439723080809959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3bf1288c3c3fc00800000000000000
+      internalID: 933304813739815873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbb0dd61c9d49020800000000000000
+      internalID: 2347740730561182676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67520e99f36274ce0800000000000000
+      internalID: -1421125102805703306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916e2ee4a1332bd50800000000000000
+      internalID: 6751514979467453977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c04eb74b3aa8c410800000000000000
+      internalID: 1497634047684133065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed97236bcaebdf60800000000000000
+      internalID: 8060294117372435942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_8
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2b24a958e642500800000000000000
+      internalID: 370542589448991428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_9
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d0b09054a14ad60800000000000000
+      internalID: 7900468530121477528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb38a63cae0e625d0800000000000000
+      internalID: -3087533195610389570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_11
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3725fd4ceed274f60800000000000000
+      internalID: 8018428165084893811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_12
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e838076d7f0750c0800000000000000
+      internalID: -4587180664179640090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_13
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e50c79b3155ff70800000000000000
+      internalID: 9220365128501845647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_14
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2acedf596a7e550800000000000000
+      internalID: 6190099375984517809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_15
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32fbdb60b48e0870800000000000000
+      internalID: 8650997827483988543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_16
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb339a5735f16bf20800000000000000
+      internalID: 3437969808860722110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_executioner_17
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6997e60e355523e10800000000000000
+      internalID: 2175895388709353878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      adela_executioner_0: 7852523288268691784
+      adela_executioner_1: -8810439723080809959
+      adela_executioner_10: -3087533195610389570
+      adela_executioner_11: 8018428165084893811
+      adela_executioner_12: -4587180664179640090
+      adela_executioner_13: 9220365128501845647
+      adela_executioner_14: 6190099375984517809
+      adela_executioner_15: 8650997827483988543
+      adela_executioner_16: 3437969808860722110
+      adela_executioner_17: 2175895388709353878
+      adela_executioner_2: 933304813739815873
+      adela_executioner_3: 2347740730561182676
+      adela_executioner_4: -1421125102805703306
+      adela_executioner_5: 6751514979467453977
+      adela_executioner_6: 1497634047684133065
+      adela_executioner_7: 8060294117372435942
+      adela_executioner_8: 370542589448991428
+      adela_executioner_9: 7900468530121477528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

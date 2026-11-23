@@ -1,0 +1,913 @@
+{
+  "sheetCount": 7,
+  "characterFrames": 56,
+  "uiComponents": 3,
+  "totalSlicedSprites": 59,
+  "gameIntegrated": false,
+  "sheets": [
+    {
+      "name": "4_enemy_death_cecilia_v3",
+      "count": 8,
+      "frozen": true,
+      "outputSha256": "ce762ffbfba7ceff129c5618a71e11c27c707c5bc3e7be0a2662b64894244576"
+    },
+    {
+      "name": "4_enemy_death_adela_v2",
+      "count": 8,
+      "sourceSize": [
+        374,
+        209
+      ],
+      "outputSize": [
+        512,
+        192
+      ],
+      "sourceSha256": "5c104bfb75882d2cc747011e6f2edf591b499fb848906a5b012d08283c3867c5",
+      "outputSha256": "b8b392de50708d266adabefc89220bc9074abac6d312257b86a076415f1c41c5",
+      "uniformScale": 0.8732394366197183,
+      "paletteColors": 32,
+      "frames": [
+        {
+          "index": 0,
+          "sourceRect": [
+            18,
+            20,
+            73,
+            91
+          ],
+          "bounds": [
+            40,
+            31,
+            88,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 1,
+          "sourceRect": [
+            106,
+            28,
+            165,
+            91
+          ],
+          "bounds": [
+            38,
+            38,
+            90,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 2,
+          "sourceRect": [
+            195,
+            33,
+            263,
+            91
+          ],
+          "bounds": [
+            34,
+            42,
+            93,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 3,
+          "sourceRect": [
+            286,
+            45,
+            359,
+            92
+          ],
+          "bounds": [
+            34,
+            52,
+            96,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 4,
+          "sourceRect": [
+            14,
+            114,
+            80,
+            194
+          ],
+          "bounds": [
+            35,
+            23,
+            93,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 5,
+          "sourceRect": [
+            102,
+            131,
+            168,
+            194
+          ],
+          "bounds": [
+            35,
+            38,
+            93,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 6,
+          "sourceRect": [
+            193,
+            135,
+            273,
+            197
+          ],
+          "bounds": [
+            29,
+            39,
+            99,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 7,
+          "sourceRect": [
+            287,
+            167,
+            365,
+            194
+          ],
+          "bounds": [
+            30,
+            69,
+            98,
+            93
+          ],
+          "footLift": 0
+        }
+      ]
+    },
+    {
+      "name": "2_boss_pattern_cecilia_v2",
+      "count": 11,
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "outputSize": [
+        512,
+        288
+      ],
+      "sourceSha256": "8ff9ee56021caadeda41227d179a680845a82b95b487277c0d37ca6c01a7a895",
+      "outputSha256": "58aae35d21a4d9824f84ac11a51154258784b05ae921b945344170284c2a77c9",
+      "uniformScale": 0.24336283185840707,
+      "paletteColors": 32,
+      "frames": [
+        {
+          "index": 0,
+          "sourceRect": [
+            69,
+            76,
+            268,
+            302
+          ],
+          "bounds": [
+            40,
+            38,
+            88,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 1,
+          "sourceRect": [
+            383,
+            94,
+            629,
+            279
+          ],
+          "bounds": [
+            34,
+            36,
+            94,
+            81
+          ],
+          "footLift": 12
+        },
+        {
+          "index": 2,
+          "sourceRect": [
+            724,
+            167,
+            992,
+            302
+          ],
+          "bounds": [
+            31,
+            57,
+            96,
+            90
+          ],
+          "footLift": 3
+        },
+        {
+          "index": 3,
+          "sourceRect": [
+            1083,
+            225,
+            1390,
+            298
+          ],
+          "bounds": [
+            26,
+            75,
+            101,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 4,
+          "sourceRect": [
+            81,
+            369,
+            225,
+            608
+          ],
+          "bounds": [
+            46,
+            23,
+            81,
+            81
+          ],
+          "footLift": 12
+        },
+        {
+          "index": 5,
+          "sourceRect": [
+            402,
+            361,
+            589,
+            625
+          ],
+          "bounds": [
+            41,
+            17,
+            87,
+            81
+          ],
+          "footLift": 12
+        },
+        {
+          "index": 6,
+          "sourceRect": [
+            733,
+            369,
+            973,
+            611
+          ],
+          "bounds": [
+            35,
+            22,
+            93,
+            81
+          ],
+          "footLift": 12
+        },
+        {
+          "index": 7,
+          "sourceRect": [
+            1088,
+            370,
+            1303,
+            610
+          ],
+          "bounds": [
+            38,
+            23,
+            90,
+            81
+          ],
+          "footLift": 12
+        },
+        {
+          "index": 8,
+          "sourceRect": [
+            78,
+            761,
+            291,
+            958
+          ],
+          "bounds": [
+            38,
+            45,
+            90,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 9,
+          "sourceRect": [
+            413,
+            798,
+            658,
+            959
+          ],
+          "bounds": [
+            34,
+            54,
+            94,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 10,
+          "sourceRect": [
+            751,
+            882,
+            1078,
+            962
+          ],
+          "bounds": [
+            24,
+            74,
+            104,
+            93
+          ],
+          "footLift": 0
+        }
+      ]
+    },
+    {
+      "name": "2_boss_pattern_adela_v2",
+      "count": 11,
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "outputSize": [
+        512,
+        288
+      ],
+      "sourceSha256": "b77199e87cc1f82a4076ba491c4fbc3d4b4e8d37b279c6e43687126f250c5736",
+      "outputSha256": "64b5d52cfdf2314226cc7505122493de829ff2b36e4dfff7f6683a1e707c5ce2",
+      "uniformScale": 0.33513513513513515,
+      "paletteColors": 32,
+      "frames": [
+        {
+          "index": 0,
+          "sourceRect": [
+            154,
+            90,
+            344,
+            275
+          ],
+          "bounds": [
+            32,
+            31,
+            96,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 1,
+          "sourceRect": [
+            509,
+            94,
+            742,
+            263
+          ],
+          "bounds": [
+            25,
+            24,
+            103,
+            81
+          ],
+          "footLift": 12
+        },
+        {
+          "index": 2,
+          "sourceRect": [
+            894,
+            161,
+            1149,
+            272
+          ],
+          "bounds": [
+            21,
+            53,
+            106,
+            90
+          ],
+          "footLift": 3
+        },
+        {
+          "index": 3,
+          "sourceRect": [
+            1285,
+            211,
+            1553,
+            278
+          ],
+          "bounds": [
+            19,
+            71,
+            109,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 4,
+          "sourceRect": [
+            168,
+            371,
+            300,
+            581
+          ],
+          "bounds": [
+            42,
+            11,
+            86,
+            81
+          ],
+          "footLift": 12
+        },
+        {
+          "index": 5,
+          "sourceRect": [
+            540,
+            352,
+            707,
+            582
+          ],
+          "bounds": [
+            36,
+            4,
+            92,
+            81
+          ],
+          "footLift": 12
+        },
+        {
+          "index": 6,
+          "sourceRect": [
+            939,
+            363,
+            1127,
+            587
+          ],
+          "bounds": [
+            32,
+            6,
+            95,
+            81
+          ],
+          "footLift": 12
+        },
+        {
+          "index": 7,
+          "sourceRect": [
+            1341,
+            349,
+            1502,
+            574
+          ],
+          "bounds": [
+            37,
+            6,
+            91,
+            81
+          ],
+          "footLift": 12
+        },
+        {
+          "index": 8,
+          "sourceRect": [
+            145,
+            669,
+            347,
+            849
+          ],
+          "bounds": [
+            30,
+            33,
+            98,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 9,
+          "sourceRect": [
+            525,
+            709,
+            779,
+            851
+          ],
+          "bounds": [
+            21,
+            45,
+            106,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 10,
+          "sourceRect": [
+            924,
+            781,
+            1192,
+            851
+          ],
+          "bounds": [
+            19,
+            70,
+            109,
+            93
+          ],
+          "footLift": 0
+        }
+      ]
+    },
+    {
+      "name": "3_trap_reaction_cecilia_v2",
+      "count": 9,
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "outputSize": [
+        384,
+        288
+      ],
+      "sourceSha256": "738a83bdeb18aa97af1fffae57da4d6f53a81f98c28fea6b99313ecf2b3ff958",
+      "outputSha256": "e6d0a86c1f5a0c80a645bd15c4af6b3b06f76f878427952b7de2a903bf3ab75a",
+      "uniformScale": 0.20522388059701493,
+      "paletteColors": 32,
+      "frames": [
+        {
+          "index": 0,
+          "sourceRect": [
+            195,
+            26,
+            400,
+            294
+          ],
+          "bounds": [
+            43,
+            36,
+            85,
+            91
+          ],
+          "footLift": 2
+        },
+        {
+          "index": 1,
+          "sourceRect": [
+            604,
+            49,
+            839,
+            294
+          ],
+          "bounds": [
+            40,
+            38,
+            88,
+            88
+          ],
+          "footLift": 5
+        },
+        {
+          "index": 2,
+          "sourceRect": [
+            1040,
+            60,
+            1237,
+            296
+          ],
+          "bounds": [
+            44,
+            43,
+            84,
+            91
+          ],
+          "footLift": 2
+        },
+        {
+          "index": 3,
+          "sourceRect": [
+            154,
+            363,
+            428,
+            639
+          ],
+          "bounds": [
+            36,
+            36,
+            92,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 4,
+          "sourceRect": [
+            577,
+            360,
+            867,
+            639
+          ],
+          "bounds": [
+            34,
+            36,
+            94,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 5,
+          "sourceRect": [
+            1017,
+            358,
+            1305,
+            639
+          ],
+          "bounds": [
+            34,
+            35,
+            93,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 6,
+          "sourceRect": [
+            154,
+            722,
+            442,
+            991
+          ],
+          "bounds": [
+            34,
+            38,
+            93,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 7,
+          "sourceRect": [
+            590,
+            716,
+            867,
+            992
+          ],
+          "bounds": [
+            35,
+            36,
+            92,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 8,
+          "sourceRect": [
+            1021,
+            717,
+            1297,
+            991
+          ],
+          "bounds": [
+            35,
+            37,
+            92,
+            93
+          ],
+          "footLift": 0
+        }
+      ]
+    },
+    {
+      "name": "3_trap_reaction_adela_v2",
+      "count": 9,
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "outputSize": [
+        384,
+        288
+      ],
+      "sourceSha256": "d8644589626b5eae88d16e590cdfc2cbe0547bbadc3ab878368b76a5e69ffe96",
+      "outputSha256": "b2c51b605838aa79f637166185af05c017885ae8a583d4bbc51027b91f4b5832",
+      "uniformScale": 0.22962962962962963,
+      "paletteColors": 32,
+      "frames": [
+        {
+          "index": 0,
+          "sourceRect": [
+            139,
+            66,
+            373,
+            336
+          ],
+          "bounds": [
+            37,
+            29,
+            91,
+            91
+          ],
+          "footLift": 2
+        },
+        {
+          "index": 1,
+          "sourceRect": [
+            564,
+            95,
+            846,
+            335
+          ],
+          "bounds": [
+            31,
+            33,
+            96,
+            88
+          ],
+          "footLift": 5
+        },
+        {
+          "index": 2,
+          "sourceRect": [
+            1019,
+            81,
+            1263,
+            336
+          ],
+          "bounds": [
+            36,
+            32,
+            92,
+            91
+          ],
+          "footLift": 2
+        },
+        {
+          "index": 3,
+          "sourceRect": [
+            121,
+            400,
+            405,
+            661
+          ],
+          "bounds": [
+            31,
+            33,
+            96,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 4,
+          "sourceRect": [
+            572,
+            399,
+            862,
+            661
+          ],
+          "bounds": [
+            30,
+            33,
+            97,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 5,
+          "sourceRect": [
+            1018,
+            400,
+            1308,
+            661
+          ],
+          "bounds": [
+            30,
+            33,
+            97,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 6,
+          "sourceRect": [
+            113,
+            727,
+            409,
+            991
+          ],
+          "bounds": [
+            30,
+            32,
+            98,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 7,
+          "sourceRect": [
+            564,
+            724,
+            834,
+            991
+          ],
+          "bounds": [
+            33,
+            32,
+            95,
+            93
+          ],
+          "footLift": 0
+        },
+        {
+          "index": 8,
+          "sourceRect": [
+            1009,
+            728,
+            1294,
+            991
+          ],
+          "bounds": [
+            31,
+            33,
+            96,
+            93
+          ],
+          "footLift": 0
+        }
+      ]
+    },
+    {
+      "name": "5_hp_orb_ornaments_v2",
+      "count": 3,
+      "sourceRects": [
+        [
+          193,
+          176,
+          555,
+          548
+        ],
+        [
+          848,
+          15,
+          1323,
+          680
+        ],
+        [
+          1544,
+          57,
+          2054,
+          640
+        ]
+      ],
+      "innerHoles": [
+        [
+          76,
+          186,
+          399,
+          506
+        ],
+        [
+          98,
+          144,
+          404,
+          458
+        ]
+      ],
+      "overlapPixels": 0,
+      "outputSha256": "537734fac2a653781ac3b3c970c01741d04f45f3e698fe6c6ee4b0af697e9ae8"
+    }
+  ]
+}

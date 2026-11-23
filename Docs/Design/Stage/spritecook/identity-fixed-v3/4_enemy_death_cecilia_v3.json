@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "character": "cecilia",
+  "frameWidth": 128,
+  "frameHeight": 96,
+  "columns": 4,
+  "rows": 2,
+  "usedFrames": 8,
+  "ppu": 48,
+  "pivotX": 0.5,
+  "pivotY": 0.26625,
+  "groundPixelY": 92,
+  "standingHeight": 55,
+  "heldCollapse": {
+    "start": 0,
+    "count": 4
+  },
+  "executionerKnockdown": {
+    "start": 4,
+    "count": 4
+  }
+}

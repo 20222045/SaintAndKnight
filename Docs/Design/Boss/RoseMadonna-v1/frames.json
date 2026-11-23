@@ -1,0 +1,99 @@
+{
+  "ppu": 48,
+  "coordinates": "top-left",
+  "bodyRoomAnchor": [
+    415,
+    310
+  ],
+  "heartRoomAnchor": [
+    415,
+    274
+  ],
+  "frames": 23,
+  "groups": [
+    {
+      "id": "body",
+      "cell": [
+        192,
+        256
+      ],
+      "anchor": [
+        96,
+        252
+      ],
+      "files": {
+        "body_idle.png": 4
+      }
+    },
+    {
+      "id": "heart",
+      "cell": [
+        64,
+        64
+      ],
+      "anchor": [
+        32,
+        32
+      ],
+      "files": {
+        "shell_closed.png": 1,
+        "shell_crack.png": 2,
+        "shell_open.png": 2
+      }
+    },
+    {
+      "id": "highSweep",
+      "cell": [
+        256,
+        96
+      ],
+      "anchor": [
+        16,
+        88
+      ],
+      "files": {
+        "sweep_telegraph.png": 2,
+        "sweep_strike.png": 3,
+        "sweep_recovery.png": 2
+      }
+    },
+    {
+      "id": "floorTentacle",
+      "cell": [
+        32,
+        96
+      ],
+      "anchor": [
+        16,
+        88
+      ],
+      "files": {
+        "floor_telegraph.png": 2,
+        "floor_rise.png": 3,
+        "floor_retract.png": 2
+      }
+    }
+  ],
+  "check": {
+    "bodySize": [
+      136,
+      220
+    ],
+    "sweepReachPx": 216,
+    "sweepForwardBandY": [
+      [
+        27,
+        39
+      ],
+      [
+        29,
+        39
+      ],
+      [
+        28,
+        39
+      ]
+    ],
+    "floorHeightPx": 67
+  }
+}

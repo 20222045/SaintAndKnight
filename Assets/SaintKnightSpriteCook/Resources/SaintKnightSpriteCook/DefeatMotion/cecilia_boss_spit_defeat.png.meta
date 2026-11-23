@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 42438d072d64c1549abc06c18b43bc4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1794729293410362451
+    second: cecilia_boss_spit_defeat_0
+  - first:
+      213: -8289446494641686517
+    second: cecilia_boss_spit_defeat_1
+  - first:
+      213: -8641055095722999638
+    second: cecilia_boss_spit_defeat_2
+  - first:
+      213: 8249993474621654213
+    second: cecilia_boss_spit_defeat_3
+  - first:
+      213: 826657783886218350
+    second: cecilia_boss_spit_defeat_4
+  - first:
+      213: -7344287031900765642
+    second: cecilia_boss_spit_defeat_5
+  - first:
+      213: 8839151574175285709
+    second: cecilia_boss_spit_defeat_6
+  - first:
+      213: 5886820106271050238
+    second: cecilia_boss_spit_defeat_7
+  - first:
+      213: 553402694697514347
+    second: cecilia_boss_spit_defeat_8
+  - first:
+      213: -2983971633840692533
+    second: cecilia_boss_spit_defeat_9
+  - first:
+      213: -8120959003457199053
+    second: cecilia_boss_spit_defeat_10
+  - first:
+      213: 2678309670883891515
+    second: cecilia_boss_spit_defeat_11
+  - first:
+      213: 671737299343744426
+    second: cecilia_boss_spit_defeat_12
+  - first:
+      213: -5160077832013401157
+    second: cecilia_boss_spit_defeat_13
+  - first:
+      213: 4381347410214197251
+    second: cecilia_boss_spit_defeat_14
+  - first:
+      213: 1657353950713313757
+    second: cecilia_boss_spit_defeat_15
+  - first:
+      213: 5297214391115997405
+    second: cecilia_boss_spit_defeat_16
+  - first:
+      213: -5941475112173022090
+    second: cecilia_boss_spit_defeat_17
+  - first:
+      213: -2983245640921498177
+    second: cecilia_boss_spit_defeat_18
+  - first:
+      213: -8119378428954069175
+    second: cecilia_boss_spit_defeat_19
+  - first:
+      213: 2163650253217804384
+    second: cecilia_boss_spit_defeat_20
+  - first:
+      213: -8850158460181058806
+    second: cecilia_boss_spit_defeat_21
+  - first:
+      213: -1003268823914147968
+    second: cecilia_boss_spit_defeat_22
+  - first:
+      213: 7755555373277201186
+    second: cecilia_boss_spit_defeat_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab994e6737d717e0800000000000000
+      internalID: -1794729293410362451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 56
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08764e1558f5fc80800000000000000
+      internalID: -8289446494641686517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 54
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00ad63c2ec41880800000000000000
+      internalID: -8641055095722999638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c44d16da5ddd7270800000000000000
+      internalID: 8249993474621654213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 51
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e648957efd0e87b00800000000000000
+      internalID: 826657783886218350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6320c0f2bd9d31a90800000000000000
+      internalID: -7344287031900765642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_6
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 54
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc18d8e5689faaa70800000000000000
+      internalID: 8839151574175285709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9c9ea62bf22b150800000000000000
+      internalID: 5886820106271050238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 93
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65703b91d41ea700800000000000000
+      internalID: 553402694697514347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_9
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc26519db9dc696d0800000000000000
+      internalID: -2983971633840692533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_10
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3346c6320de8c4f80800000000000000
+      internalID: -8120959003457199053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_11
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39178394744b2520800000000000000
+      internalID: 2678309670883891515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_12
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 0
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad93c5c38d725900800000000000000
+      internalID: 671737299343744426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_13
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb339711d88b368b0800000000000000
+      internalID: -5160077832013401157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_14
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 0
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3081567914cadcc30800000000000000
+      internalID: 4381347410214197251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_15
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd97b5b13aa100710800000000000000
+      internalID: 1657353950713313757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_16
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 0
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd06e814c6c738940800000000000000
+      internalID: 5297214391115997405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_17
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 0
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6745a116dd3ab8da0800000000000000
+      internalID: -5941475112173022090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_18
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 0
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd342f35e16996d0800000000000000
+      internalID: -2983245640921498177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_19
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 0
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9473931565c225f80800000000000000
+      internalID: -8119378428954069175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_20
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 0
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0603b391174d60e10800000000000000
+      internalID: 2163650253217804384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b6df645cbed2580800000000000000
+      internalID: -8850158460181058806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f8f58f15ca312f0800000000000000
+      internalID: -1003268823914147968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spit_defeat_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2234f04758441ab60800000000000000
+      internalID: 7755555373277201186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cecilia_boss_spit_defeat_0: -1794729293410362451
+      cecilia_boss_spit_defeat_1: -8289446494641686517
+      cecilia_boss_spit_defeat_10: -8120959003457199053
+      cecilia_boss_spit_defeat_11: 2678309670883891515
+      cecilia_boss_spit_defeat_12: 671737299343744426
+      cecilia_boss_spit_defeat_13: -5160077832013401157
+      cecilia_boss_spit_defeat_14: 4381347410214197251
+      cecilia_boss_spit_defeat_15: 1657353950713313757
+      cecilia_boss_spit_defeat_16: 5297214391115997405
+      cecilia_boss_spit_defeat_17: -5941475112173022090
+      cecilia_boss_spit_defeat_18: -2983245640921498177
+      cecilia_boss_spit_defeat_19: -8119378428954069175
+      cecilia_boss_spit_defeat_2: -8641055095722999638
+      cecilia_boss_spit_defeat_20: 2163650253217804384
+      cecilia_boss_spit_defeat_21: -8850158460181058806
+      cecilia_boss_spit_defeat_22: -1003268823914147968
+      cecilia_boss_spit_defeat_23: 7755555373277201186
+      cecilia_boss_spit_defeat_3: 8249993474621654213
+      cecilia_boss_spit_defeat_4: 826657783886218350
+      cecilia_boss_spit_defeat_5: -7344287031900765642
+      cecilia_boss_spit_defeat_6: 8839151574175285709
+      cecilia_boss_spit_defeat_7: 5886820106271050238
+      cecilia_boss_spit_defeat_8: 553402694697514347
+      cecilia_boss_spit_defeat_9: -2983971633840692533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

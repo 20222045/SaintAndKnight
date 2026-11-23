@@ -1,0 +1,22 @@
+[
+  {
+    "path": "Docs/Design/Characters/trap-dedicated-motion/source/slime_material.png",
+    "sha256": "3FDB19E6E337BD8ABE615E10BE282524A81975BD56510435B54F312756EB20C6"
+  },
+  {
+    "path": "Docs/Design/Characters/trap-dedicated-motion/source/tentacle_material.png",
+    "sha256": "B21FA9A124746BE29D4099E125A5C77A73BDBC4FECE4EADE790104C83576BDBC"
+  },
+  {
+    "path": "Docs/Design/Characters/trap-dedicated-motion/source/wall_material.png",
+    "sha256": "9395AD945B305157DD6F7BB392B150906C1726859945CDFB87ED5CF60CD01C1A"
+  },
+  {
+    "path": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/cecilia_motion.png",
+    "sha256": "9AB32982CB56643CB50640591DFBC0C364987B4C566C83D54B63CA00A1D57935"
+  },
+  {
+    "path": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/adela_motion.png",
+    "sha256": "F87DCDF742CC4CAAF4404B4684853885BC976CBFEA5F50A8E5784A11EB036BAA"
+  }
+]

@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 2471d75e55455184fa4e84feb0b9e5b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6361851638243196853
+    second: village_lights_0
+  - first:
+      213: -7404690193534289385
+    second: village_lights_1
+  - first:
+      213: -7730209225716236519
+    second: village_lights_2
+  - first:
+      213: 8642906360467192088
+    second: village_lights_3
+  - first:
+      213: 1119571643856333550
+    second: village_lights_4
+  - first:
+      213: 5628098350085157077
+    second: village_lights_5
+  - first:
+      213: 558317971300250558
+    second: village_lights_6
+  - first:
+      213: -372453821953863193
+    second: village_lights_7
+  - first:
+      213: 4803748019246144188
+    second: village_lights_8
+  - first:
+      213: 6296236432883493699
+    second: village_lights_9
+  - first:
+      213: -5527140557277218787
+    second: village_lights_10
+  - first:
+      213: -8687353961975727515
+    second: village_lights_11
+  - first:
+      213: 2575236981633043437
+    second: village_lights_12
+  - first:
+      213: 7079336011850445245
+    second: village_lights_13
+  - first:
+      213: 8175294770463100522
+    second: village_lights_14
+  - first:
+      213: -8544652797542195875
+    second: village_lights_15
+  - first:
+      213: 7856635896966055071
+    second: village_lights_16
+  - first:
+      213: 4593847734205325703
+    second: village_lights_17
+  - first:
+      213: 250890600596770804
+    second: village_lights_18
+  - first:
+      213: -7797494146858249866
+    second: village_lights_19
+  - first:
+      213: -6001971361050812462
+    second: village_lights_20
+  - first:
+      213: 3832989484218167834
+    second: village_lights_21
+  - first:
+      213: 3996213498018299123
+    second: village_lights_22
+  - first:
+      213: -1751173885063909626
+    second: village_lights_23
+  - first:
+      213: 8422769683595768834
+    second: village_lights_24
+  - first:
+      213: -989765207362045531
+    second: village_lights_25
+  - first:
+      213: 5109334820239365923
+    second: village_lights_26
+  - first:
+      213: -7120851599142133303
+    second: village_lights_27
+  - first:
+      213: -8909681951724746182
+    second: village_lights_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village_lights_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 146
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bff833cb56d94850800000000000000
+      internalID: 6361851638243196853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 37
+        width: 487
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71af19e20814d3990800000000000000
+      internalID: -7404690193534289385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 162
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f7cb56aa7c8b490800000000000000
+      internalID: -7730209225716236519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 157
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8197c92fa85c1f770800000000000000
+      internalID: 8642906360467192088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea28a47a74898f00800000000000000
+      internalID: 1119571643856333550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0b9c561a50b1e40800000000000000
+      internalID: 5628098350085157077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 38
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3711f9c3b8fb700800000000000000
+      internalID: 558317971300250558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 130
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e11437e837c4daf0800000000000000
+      internalID: -372453821953863193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba17a54f575aa240800000000000000
+      internalID: 4803748019246144188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 135
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ba4e34da9b06750800000000000000
+      internalID: 6296236432883493699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1836db72f6ab43b0800000000000000
+      internalID: -5527140557277218787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aba526991507780800000000000000
+      internalID: -8687353961975727515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debcfaef3641db320800000000000000
+      internalID: 2575236981633043437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 37
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1f9f7489ade3260800000000000000
+      internalID: 7079336011850445245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 56
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ecf87774b747170800000000000000
+      internalID: 8175294770463100522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 87
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d13795d8b4b6980800000000000000
+      internalID: -8544652797542195875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f948e38d8b0680d60800000000000000
+      internalID: 7856635896966055071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 93
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781aa8dcc20a0cf30800000000000000
+      internalID: 4593847734205325703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 68
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff0e060ca75b7300800000000000000
+      internalID: 250890600596770804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6719356e26cb9c390800000000000000
+      internalID: -7797494146858249866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_20
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 76
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df9f70d8d6b4bca0800000000000000
+      internalID: -6001971361050812462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 64
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12b1aab0a3813530800000000000000
+      internalID: 3832989484218167834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 54
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc700ce007657730800000000000000
+      internalID: 3996213498018299123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_23
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 51
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f23d031a492b7e0800000000000000
+      internalID: -1751173885063909626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 51
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b7a7c660b3e470800000000000000
+      internalID: 8422769683595768834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_25
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9f424b9c5a342f0800000000000000
+      internalID: -989765207362045531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 38
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327d6e6d2f008e640800000000000000
+      internalID: 5109334820239365923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 37
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c16cdec237ad2d90800000000000000
+      internalID: -7120851599142133303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_lights_28
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 37
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3accbd68737a5480800000000000000
+      internalID: -8909681951724746182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      village_lights_0: 6361851638243196853
+      village_lights_1: -7404690193534289385
+      village_lights_10: -5527140557277218787
+      village_lights_11: -8687353961975727515
+      village_lights_12: 2575236981633043437
+      village_lights_13: 7079336011850445245
+      village_lights_14: 8175294770463100522
+      village_lights_15: -8544652797542195875
+      village_lights_16: 7856635896966055071
+      village_lights_17: 4593847734205325703
+      village_lights_18: 250890600596770804
+      village_lights_19: -7797494146858249866
+      village_lights_2: -7730209225716236519
+      village_lights_20: -6001971361050812462
+      village_lights_21: 3832989484218167834
+      village_lights_22: 3996213498018299123
+      village_lights_23: -1751173885063909626
+      village_lights_24: 8422769683595768834
+      village_lights_25: -989765207362045531
+      village_lights_26: 5109334820239365923
+      village_lights_27: -7120851599142133303
+      village_lights_28: -8909681951724746182
+      village_lights_3: 8642906360467192088
+      village_lights_4: 1119571643856333550
+      village_lights_5: 5628098350085157077
+      village_lights_6: 558317971300250558
+      village_lights_7: -372453821953863193
+      village_lights_8: 4803748019246144188
+      village_lights_9: 6296236432883493699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

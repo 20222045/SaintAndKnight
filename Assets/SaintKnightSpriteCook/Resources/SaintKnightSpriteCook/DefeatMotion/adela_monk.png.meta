@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 6c28c19c6033b7c4f8cc0e68b254af5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6482904797254520732
+    second: adela_monk_0
+  - first:
+      213: 8046830991675594130
+    second: adela_monk_1
+  - first:
+      213: 755343516425023457
+    second: adela_monk_2
+  - first:
+      213: -5206552082262765365
+    second: adela_monk_3
+  - first:
+      213: -8546762054062246410
+    second: adela_monk_4
+  - first:
+      213: 8961106247075978202
+    second: adela_monk_5
+  - first:
+      213: -8839282133072871575
+    second: adela_monk_6
+  - first:
+      213: -9189222871676546423
+    second: adela_monk_7
+  - first:
+      213: 266102926566370317
+    second: adela_monk_8
+  - first:
+      213: -2425422083352601363
+    second: adela_monk_9
+  - first:
+      213: -7216919531449004068
+    second: adela_monk_10
+  - first:
+      213: -4647855461422508642
+    second: adela_monk_11
+  - first:
+      213: -58681911198213312
+    second: adela_monk_12
+  - first:
+      213: 6362644326884965268
+    second: adela_monk_13
+  - first:
+      213: -9030486167222366352
+    second: adela_monk_14
+  - first:
+      213: 7898502330985518900
+    second: adela_monk_15
+  - first:
+      213: 8805465349422716911
+    second: adela_monk_16
+  - first:
+      213: -2261610165928666611
+    second: adela_monk_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adela_monk_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f0801b097e7f950800000000000000
+      internalID: 6482904797254520732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2959d6a27261caf60800000000000000
+      internalID: 8046830991675594130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef68eb1de48b7a00800000000000000
+      internalID: 755343516425023457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc05828777c9eb7b0800000000000000
+      internalID: -5206552082262765365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f4dbc13dc36980800000000000000
+      internalID: -8546762054062246410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb5f7b57ae3c5c70800000000000000
+      internalID: 8961106247075978202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_6
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ffbb48bbf845580800000000000000
+      internalID: -8839282133072871575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98213db1c72597080800000000000000
+      internalID: -9189222871676546423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_8
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c2eaba33361b300800000000000000
+      internalID: 266102926566370317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_9
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec5163377b275ed0800000000000000
+      internalID: -2425422083352601363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_10
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf476b4ce958db90800000000000000
+      internalID: -7216919531449004068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_11
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e955d8e45108f7fb0800000000000000
+      internalID: -4647855461422508642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_12
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 2
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b1a48dc158f2ff0800000000000000
+      internalID: -58681911198213312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_13
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bf128fd47ac4850800000000000000
+      internalID: 6362644326884965268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_14
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 2
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fc1ad2da44da280800000000000000
+      internalID: -9030486167222366352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_15
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4379cff950e1d9d60800000000000000
+      internalID: 7898502330985518900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_16
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 2
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe71a5af41c433a70800000000000000
+      internalID: 8805465349422716911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_monk_17
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 2
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ad86f59852d90e0800000000000000
+      internalID: -2261610165928666611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      adela_monk_0: 6482904797254520732
+      adela_monk_1: 8046830991675594130
+      adela_monk_10: -7216919531449004068
+      adela_monk_11: -4647855461422508642
+      adela_monk_12: -58681911198213312
+      adela_monk_13: 6362644326884965268
+      adela_monk_14: -9030486167222366352
+      adela_monk_15: 7898502330985518900
+      adela_monk_16: 8805465349422716911
+      adela_monk_17: -2261610165928666611
+      adela_monk_2: 755343516425023457
+      adela_monk_3: -5206552082262765365
+      adela_monk_4: -8546762054062246410
+      adela_monk_5: 8961106247075978202
+      adela_monk_6: -8839282133072871575
+      adela_monk_7: -9189222871676546423
+      adela_monk_8: 266102926566370317
+      adela_monk_9: -2425422083352601363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

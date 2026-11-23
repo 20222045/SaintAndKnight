@@ -1,0 +1,5 @@
+{
+  "name": "SaintKnight.Day04.Editor",
+  "references": ["SaintKnight.Runtime", "Unity.ugui"],
+  "includePlatforms": ["Editor"]
+}

@@ -1,0 +1,19 @@
+{
+  "clips": [
+    {"motion":"Idle","frames":[{"cell":0,"ms":220}, {"cell":1,"ms":150}, {"cell":2,"ms":165}, {"cell":3,"ms":190}, {"cell":4,"ms":150}, {"cell":5,"ms":205}]},
+    {"motion":"Run","frames":[{"cell":6,"ms":38}, {"cell":7,"ms":39}, {"cell":8,"ms":39}, {"cell":9,"ms":37}, {"cell":10,"ms":37}, {"cell":11,"ms":34}, {"cell":12,"ms":26}, {"cell":13,"ms":38}, {"cell":14,"ms":39}, {"cell":15,"ms":39}, {"cell":16,"ms":37}, {"cell":17,"ms":37}, {"cell":18,"ms":34}, {"cell":19,"ms":26}]},
+    {"motion":"Windup","frames":[{"cell":20,"ms":27}, {"cell":21,"ms":25}, {"cell":22,"ms":24}, {"cell":23,"ms":40}, {"cell":24,"ms":24}]},
+    {"motion":"Attack","frames":[{"cell":25,"ms":70}, {"cell":26,"ms":68}, {"cell":27,"ms":62}]},
+    {"motion":"FollowThrough","frames":[{"cell":28,"ms":24}, {"cell":29,"ms":24}, {"cell":30,"ms":22}, {"cell":31,"ms":30}]},
+    {"motion":"Hurt","frames":[{"cell":32,"ms":38}, {"cell":33,"ms":48}, {"cell":34,"ms":40}, {"cell":35,"ms":34}]},
+    {"motion":"Jump","frames":[{"cell":36,"ms":48}, {"cell":37,"ms":40}, {"cell":38,"ms":54}, {"cell":39,"ms":69}, {"cell":40,"ms":72}, {"cell":41,"ms":62}, {"cell":42,"ms":40}, {"cell":43,"ms":54}, {"cell":44,"ms":73}, {"cell":45,"ms":60}, {"cell":46,"ms":44}, {"cell":47,"ms":34}]},
+    {"motion":"Pounced","frames":[{"cell":53,"ms":34}, {"cell":54,"ms":46}, {"cell":55,"ms":53}, {"cell":56,"ms":53}, {"cell":57,"ms":55}, {"cell":58,"ms":63}, {"cell":59,"ms":76}]},
+    {"motion":"Held","frames":[{"cell":48,"ms":140}, {"cell":49,"ms":110}, {"cell":50,"ms":100}, {"cell":51,"ms":140}, {"cell":52,"ms":110}]},
+    {"motion":"Resist","frames":[{"cell":60,"ms":74}, {"cell":61,"ms":59}, {"cell":62,"ms":58}, {"cell":63,"ms":57}, {"cell":64,"ms":62}, {"cell":65,"ms":68}, {"cell":66,"ms":58}, {"cell":67,"ms":59}, {"cell":68,"ms":64}]},
+    {"motion":"Escape","frames":[{"cell":69,"ms":38}, {"cell":70,"ms":44}, {"cell":71,"ms":48}, {"cell":72,"ms":52}, {"cell":73,"ms":46}, {"cell":74,"ms":55}, {"cell":75,"ms":65}, {"cell":76,"ms":74}, {"cell":77,"ms":90}]},
+    {"motion": "Crouch", "frames": [{"cell": 36, "ms": 200}]},
+    {"motion":"SpikeHurt","frames":[{"cell":84,"ms":40}, {"cell":85,"ms":70}, {"cell":86,"ms":50}]},
+    {"motion":"SlimeWalk","frames":[{"cell":87,"ms":120}, {"cell":88,"ms":120}, {"cell":89,"ms":120}, {"cell":90,"ms":120}]},
+    {"motion":"SlimeIdle","frames":[{"cell":91,"ms":320}, {"cell":92,"ms":320}]}
+  ]
+}

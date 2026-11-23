@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 03c8ecc35d1ecc34887445d3d4328faa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7126550567694715248
+    second: cecilia_boss_spikes_0
+  - first:
+      213: -614367950988838880
+    second: cecilia_boss_spikes_1
+  - first:
+      213: 7355840961693131035
+    second: cecilia_boss_spikes_2
+  - first:
+      213: -6970395025600306391
+    second: cecilia_boss_spikes_3
+  - first:
+      213: -872719439333640849
+    second: cecilia_boss_spikes_4
+  - first:
+      213: 6583842122839044171
+    second: cecilia_boss_spikes_5
+  - first:
+      213: 1773624277601046073
+    second: cecilia_boss_spikes_6
+  - first:
+      213: 2505731770353670329
+    second: cecilia_boss_spikes_7
+  - first:
+      213: 8621280784495748494
+    second: cecilia_boss_spikes_8
+  - first:
+      213: -6190759432400130950
+    second: cecilia_boss_spikes_9
+  - first:
+      213: -2715450410183924768
+    second: cecilia_boss_spikes_10
+  - first:
+      213: -7593878056258417498
+    second: cecilia_boss_spikes_11
+  - first:
+      213: -3121587597045207208
+    second: cecilia_boss_spikes_12
+  - first:
+      213: -1798758270104197267
+    second: cecilia_boss_spikes_13
+  - first:
+      213: 7129239357055473075
+    second: cecilia_boss_spikes_14
+  - first:
+      213: 4704506199360876109
+    second: cecilia_boss_spikes_15
+  - first:
+      213: -2457806658889551535
+    second: cecilia_boss_spikes_16
+  - first:
+      213: 8657731062330945101
+    second: cecilia_boss_spikes_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096b2ba4408691d90800000000000000
+      internalID: -7126550567694715248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028fce78a935977f0800000000000000
+      internalID: -614367950988838880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11acf9b162351660800000000000000
+      internalID: 7355840961693131035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923a1faa7ae244f90800000000000000
+      internalID: -6970395025600306391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b0f53b4a73e3f0800000000000000
+      internalID: -872719439333640849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40331d27818e5b50800000000000000
+      internalID: 6583842122839044171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 0
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e4b6722ed2d9810800000000000000
+      internalID: 1773624277601046073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_7
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8575ae4c526c220800000000000000
+      internalID: 2505731770353670329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_8
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8525cc2231f4a770800000000000000
+      internalID: 8621280784495748494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_9
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c24e5a811061aa0800000000000000
+      internalID: -6190759432400130950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_10
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 0
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e36ccf2d38c05ad0800000000000000
+      internalID: -2715450410183924768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_11
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 0
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac451554202d9690800000000000000
+      internalID: -7593878056258417498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_12
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 0
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85feade8e94eda4d0800000000000000
+      internalID: -3121587597045207208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_13
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 0
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67a4a132e68907e0800000000000000
+      internalID: -1798758270104197267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_14
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 0
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b596044c6520f260800000000000000
+      internalID: 7129239357055473075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_15
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 0
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e27887673c94140800000000000000
+      internalID: 4704506199360876109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_16
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 0
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1517c42addd14edd0800000000000000
+      internalID: -2457806658889551535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_17
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 0
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ee913d780762870800000000000000
+      internalID: 8657731062330945101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cecilia_boss_spikes_0: -7126550567694715248
+      cecilia_boss_spikes_1: -614367950988838880
+      cecilia_boss_spikes_10: -2715450410183924768
+      cecilia_boss_spikes_11: -7593878056258417498
+      cecilia_boss_spikes_12: -3121587597045207208
+      cecilia_boss_spikes_13: -1798758270104197267
+      cecilia_boss_spikes_14: 7129239357055473075
+      cecilia_boss_spikes_15: 4704506199360876109
+      cecilia_boss_spikes_16: -2457806658889551535
+      cecilia_boss_spikes_17: 8657731062330945101
+      cecilia_boss_spikes_2: 7355840961693131035
+      cecilia_boss_spikes_3: -6970395025600306391
+      cecilia_boss_spikes_4: -872719439333640849
+      cecilia_boss_spikes_5: 6583842122839044171
+      cecilia_boss_spikes_6: 1773624277601046073
+      cecilia_boss_spikes_7: 2505731770353670329
+      cecilia_boss_spikes_8: 8621280784495748494
+      cecilia_boss_spikes_9: -6190759432400130950
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

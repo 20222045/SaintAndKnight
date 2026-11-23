@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: dde1ca7c9c9fc7b42a6a3d7926af1d3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8850253332537433863
+    second: cecilia_fleshwall_0
+  - first:
+      213: 5486053565722841281
+    second: cecilia_fleshwall_1
+  - first:
+      213: -1856958534471915418
+    second: cecilia_fleshwall_2
+  - first:
+      213: 2927612476782479016
+    second: cecilia_fleshwall_3
+  - first:
+      213: 5512480823821722174
+    second: cecilia_fleshwall_4
+  - first:
+      213: 7129055152189241019
+    second: cecilia_fleshwall_5
+  - first:
+      213: -7481183606629477424
+    second: cecilia_fleshwall_6
+  - first:
+      213: -4710776281421567502
+    second: cecilia_fleshwall_7
+  - first:
+      213: -2528629835572531782
+    second: cecilia_fleshwall_8
+  - first:
+      213: -4451606615695146034
+    second: cecilia_fleshwall_9
+  - first:
+      213: -4148047014794674254
+    second: cecilia_fleshwall_10
+  - first:
+      213: -687856859846429729
+    second: cecilia_fleshwall_11
+  - first:
+      213: 4153255631154497654
+    second: cecilia_fleshwall_12
+  - first:
+      213: -9073159106847854439
+    second: cecilia_fleshwall_13
+  - first:
+      213: -5312352820841969292
+    second: cecilia_fleshwall_14
+  - first:
+      213: 7136283835101104246
+    second: cecilia_fleshwall_15
+  - first:
+      213: 9144836677397383253
+    second: cecilia_fleshwall_16
+  - first:
+      213: 8714267914244711502
+    second: cecilia_fleshwall_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecilia_fleshwall_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0a3e51c759d2580800000000000000
+      internalID: -8850253332537433863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0dca3d6a0622c40800000000000000
+      internalID: 5486053565722841281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668eb2e2d02ca36e0800000000000000
+      internalID: -1856958534471915418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a60f965908f0a820800000000000000
+      internalID: 2927612476782479016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32eb075a14408c40800000000000000
+      internalID: 5512480823821722174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6786ab3ed7fe260800000000000000
+      internalID: 7129055152189241019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3df53952f7d2890800000000000000
+      internalID: -7481183606629477424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_7
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f928894ee5ff9eb0800000000000000
+      internalID: -4710776281421567502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdae32df8088ecd0800000000000000
+      internalID: -2528629835572531782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_9
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec346bf5e57b832c0800000000000000
+      internalID: -4451606615695146034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_10
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 2
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf3b83a73d2f66c0800000000000000
+      internalID: -4148047014794674254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_11
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3b98494dd3476f0800000000000000
+      internalID: -687856859846429729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_12
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678ca5cddf353a930800000000000000
+      internalID: 4153255631154497654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_13
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 2
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990bbbd2dd9a51280800000000000000
+      internalID: -9073159106847854439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_14
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4798b28614bb646b0800000000000000
+      internalID: -5312352820841969292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_15
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678409f965c290360800000000000000
+      internalID: 7136283835101104246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_16
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 2
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580c35b18cf8ee70800000000000000
+      internalID: 9144836677397383253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_fleshwall_17
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 2
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44e3227f7c4fe870800000000000000
+      internalID: 8714267914244711502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cecilia_fleshwall_0: -8850253332537433863
+      cecilia_fleshwall_1: 5486053565722841281
+      cecilia_fleshwall_10: -4148047014794674254
+      cecilia_fleshwall_11: -687856859846429729
+      cecilia_fleshwall_12: 4153255631154497654
+      cecilia_fleshwall_13: -9073159106847854439
+      cecilia_fleshwall_14: -5312352820841969292
+      cecilia_fleshwall_15: 7136283835101104246
+      cecilia_fleshwall_16: 9144836677397383253
+      cecilia_fleshwall_17: 8714267914244711502
+      cecilia_fleshwall_2: -1856958534471915418
+      cecilia_fleshwall_3: 2927612476782479016
+      cecilia_fleshwall_4: 5512480823821722174
+      cecilia_fleshwall_5: 7129055152189241019
+      cecilia_fleshwall_6: -7481183606629477424
+      cecilia_fleshwall_7: -4710776281421567502
+      cecilia_fleshwall_8: -2528629835572531782
+      cecilia_fleshwall_9: -4451606615695146034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

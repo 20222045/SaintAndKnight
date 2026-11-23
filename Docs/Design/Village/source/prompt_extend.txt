@@ -1,0 +1,8 @@
+NovelAI 2026-11-22 (Claude, user account). Image2Image -> Inpaint: base = village_novelai_51001.png bottom 16:9 crop, mirrored, 910x512, centred at x=441 on a 1792x512 canvas (sides = blurred edge stretch); mask = both sides (left 0..441, right 1351..1792). V4.5 Full, steps 23, guidance 5, seed 777413539, Euler Ancestral, UC preset Heavy, 15 Anlas. Middle kept (mean diff 0.4/255).
+(Before this, two new-street tries were rejected by the user's intent "extend the existing one": source/rejected_new_20261122/.)
+
+Prompt:
+no humans, scenery, side view, 2d side-scrolling game background, flat horizontal composition, wide shot, medieval fantasy town main street at dusk, the same street continuing to the left and to the right, dense european village, long row of many timber-framed houses and shops pressed together, half-timbered gabled facades, hanging wooden shop signs, flower boxes, laundry lines between houses, chimneys with smoke, warm glowing windows, street lanterns, market stalls with awnings, crates and barrels, cobblestone street running straight along the bottom edge at the same height, distant gothic cathedral spires and layered town rooftops behind, purple and orange dusk sky with clouds, highly detailed, pixel art style, retro game, seamless continuation
+
+Undesired:
+1girl, 1boy, people, humans, character, crowd, animal, text, letters, watermark, signature, logo, aerial view, from above, fisheye, strong perspective, vanishing point, empty street, sparse, seam, border, frame, blurry, lowres, jpeg artifacts, 3d, realistic, photo

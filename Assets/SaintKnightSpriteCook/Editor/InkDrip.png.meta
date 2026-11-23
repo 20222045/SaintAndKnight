@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 1b198f039336d08488678e15a9623707
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5838856679628545029
+    second: InkDrip_0
+  - first:
+      213: 5786671261928975319
+    second: InkDrip_1
+  - first:
+      213: 6794229195298486491
+    second: InkDrip_2
+  - first:
+      213: 6524086772006892737
+    second: InkDrip_3
+  - first:
+      213: -6888182729407984206
+    second: InkDrip_4
+  - first:
+      213: -4716581591610892386
+    second: InkDrip_5
+  - first:
+      213: 4449545884336413439
+    second: InkDrip_6
+  - first:
+      213: -2824795462319632017
+    second: InkDrip_7
+  - first:
+      213: -2174190313143841819
+    second: InkDrip_8
+  - first:
+      213: -6349531364116562632
+    second: InkDrip_9
+  - first:
+      213: -2197955853882656548
+    second: InkDrip_10
+  - first:
+      213: -5592898304779612501
+    second: InkDrip_11
+  - first:
+      213: 7817143310019406772
+    second: InkDrip_12
+  - first:
+      213: -3574540304995018867
+    second: InkDrip_13
+  - first:
+      213: 5862931756640511136
+    second: InkDrip_14
+  - first:
+      213: 7495964834644395759
+    second: InkDrip_15
+  - first:
+      213: 4348521001848527170
+    second: InkDrip_16
+  - first:
+      213: -1836188532889509607
+    second: InkDrip_17
+  - first:
+      213: 3146182343394023147
+    second: InkDrip_18
+  - first:
+      213: -8400685703740534806
+    second: InkDrip_19
+  - first:
+      213: -5745570826472505884
+    second: InkDrip_20
+  - first:
+      213: -1571799484156790295
+    second: InkDrip_21
+  - first:
+      213: -6759086465578080731
+    second: InkDrip_22
+  - first:
+      213: -2397702839979335463
+    second: InkDrip_23
+  - first:
+      213: 4093194156352477801
+    second: InkDrip_24
+  - first:
+      213: -1497210489386471186
+    second: InkDrip_25
+  - first:
+      213: 6123000581653497038
+    second: InkDrip_26
+  - first:
+      213: 5835647680130208991
+    second: InkDrip_27
+  - first:
+      213: -927652390225420826
+    second: InkDrip_28
+  - first:
+      213: -4966776285358969697
+    second: InkDrip_29
+  - first:
+      213: 4041897284710121723
+    second: InkDrip_30
+  - first:
+      213: 1302675758204957263
+    second: InkDrip_31
+  - first:
+      213: -1475391252030586725
+    second: InkDrip_32
+  - first:
+      213: 1559811209407881125
+    second: InkDrip_33
+  - first:
+      213: 2133645841665277465
+    second: InkDrip_34
+  - first:
+      213: 5410560365203773165
+    second: InkDrip_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InkDrip_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c1dabe639c70150800000000000000
+      internalID: 5838856679628545029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbec378ad26e4050800000000000000
+      internalID: 5786671261928975319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8ba5ca473f94e50800000000000000
+      internalID: 6794229195298486491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4bb416a563a8a50800000000000000
+      internalID: 6524086772006892737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 294
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd08a18d424860a0800000000000000
+      internalID: -6888182729407984206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 265
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fd2ed28065b8eb0800000000000000
+      internalID: -4716581591610892386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 265
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa5ca73866ffbd30800000000000000
+      internalID: 4449545884336413439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 265
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f619d415e7f4cc8d0800000000000000
+      internalID: -2824795462319632017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 265
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb47f6fd69b3d1e0800000000000000
+      internalID: -2174190313143841819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 265
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d71a79ddee1e7a0800000000000000
+      internalID: -6349531364116562632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd87551dbca4f71e0800000000000000
+      internalID: -2197955853882656548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae0abecf980262b0800000000000000
+      internalID: -5592898304779612501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb27086c621c7c60800000000000000
+      internalID: 7817143310019406772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 204
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d879475088ea46ec0800000000000000
+      internalID: -3574540304995018867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 177
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a42ae89e515d5150800000000000000
+      internalID: 5862931756640511136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 177
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe68cc14d44070860800000000000000
+      internalID: 7495964834644395759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 177
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249d18dcfcc095c30800000000000000
+      internalID: 4348521001848527170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 177
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911a974024c8486e0800000000000000
+      internalID: -1836188532889509607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 177
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be65b901c2c79ab20800000000000000
+      internalID: 3146182343394023147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 117
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc7d67cd4ca6b80800000000000000
+      internalID: -8400685703740534806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 89
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed324056c1a340b0800000000000000
+      internalID: -5745570826472505884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e931b862b8df2ae0800000000000000
+      internalID: -1571799484156790295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266115bba6e232a0800000000000000
+      internalID: -6759086465578080731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 118
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0261a78f5a9bed0800000000000000
+      internalID: -2397702839979335463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 89
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a18160662fdc830800000000000000
+      internalID: 4093194156352477801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 89
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee071221ef6d83be0800000000000000
+      internalID: -1497210489386471186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 88
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec487f4869449f450800000000000000
+      internalID: 6123000581653497038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 88
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd45e7085a26cf050800000000000000
+      internalID: 5835647680130208991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed5295e0115023f0800000000000000
+      internalID: -927652390225420826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c28589847721bb0800000000000000
+      internalID: -4966776285358969697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf043c16a24b71830800000000000000
+      internalID: 4041897284710121723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 30
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42b15143b8041210800000000000000
+      internalID: 1302675758204957263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b908ff5297b568be0800000000000000
+      internalID: -1475391252030586725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afdd6dd70095a510800000000000000
+      internalID: 1559811209407881125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91eb2f4a69b3c9d10800000000000000
+      internalID: 2133645841665277465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InkDrip_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de657cb5cfb261b40800000000000000
+      internalID: 5410560365203773165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InkDrip_0: 5838856679628545029
+      InkDrip_1: 5786671261928975319
+      InkDrip_10: -2197955853882656548
+      InkDrip_11: -5592898304779612501
+      InkDrip_12: 7817143310019406772
+      InkDrip_13: -3574540304995018867
+      InkDrip_14: 5862931756640511136
+      InkDrip_15: 7495964834644395759
+      InkDrip_16: 4348521001848527170
+      InkDrip_17: -1836188532889509607
+      InkDrip_18: 3146182343394023147
+      InkDrip_19: -8400685703740534806
+      InkDrip_2: 6794229195298486491
+      InkDrip_20: -5745570826472505884
+      InkDrip_21: -1571799484156790295
+      InkDrip_22: -6759086465578080731
+      InkDrip_23: -2397702839979335463
+      InkDrip_24: 4093194156352477801
+      InkDrip_25: -1497210489386471186
+      InkDrip_26: 6123000581653497038
+      InkDrip_27: 5835647680130208991
+      InkDrip_28: -927652390225420826
+      InkDrip_29: -4966776285358969697
+      InkDrip_3: 6524086772006892737
+      InkDrip_30: 4041897284710121723
+      InkDrip_31: 1302675758204957263
+      InkDrip_32: -1475391252030586725
+      InkDrip_33: 1559811209407881125
+      InkDrip_34: 2133645841665277465
+      InkDrip_35: 5410560365203773165
+      InkDrip_4: -6888182729407984206
+      InkDrip_5: -4716581591610892386
+      InkDrip_6: 4449545884336413439
+      InkDrip_7: -2824795462319632017
+      InkDrip_8: -2174190313143841819
+      InkDrip_9: -6349531364116562632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

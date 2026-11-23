@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: db28480e9ef72524fba62c0725be77e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2598029738616736766
+    second: cecilia_executioner_0
+  - first:
+      213: -642643919031241759
+    second: cecilia_executioner_1
+  - first:
+      213: -7881372971555947641
+    second: cecilia_executioner_2
+  - first:
+      213: 3670061718568279108
+    second: cecilia_executioner_3
+  - first:
+      213: 2774394601574215752
+    second: cecilia_executioner_4
+  - first:
+      213: -7984944059774541056
+    second: cecilia_executioner_5
+  - first:
+      213: -4571343136838396547
+    second: cecilia_executioner_6
+  - first:
+      213: 7571508816041176835
+    second: cecilia_executioner_7
+  - first:
+      213: -972131458865777185
+    second: cecilia_executioner_8
+  - first:
+      213: 3649072927056292818
+    second: cecilia_executioner_9
+  - first:
+      213: 4528955705756661954
+    second: cecilia_executioner_10
+  - first:
+      213: 5688371550754677615
+    second: cecilia_executioner_11
+  - first:
+      213: -8246036349786335933
+    second: cecilia_executioner_12
+  - first:
+      213: -6022359645285856245
+    second: cecilia_executioner_13
+  - first:
+      213: 1396296826882216391
+    second: cecilia_executioner_14
+  - first:
+      213: 7569664625340636023
+    second: cecilia_executioner_15
+  - first:
+      213: 7127991242010405610
+    second: cecilia_executioner_16
+  - first:
+      213: -3077771991957927062
+    second: cecilia_executioner_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecilia_executioner_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20439d9b7b1f1fbd0800000000000000
+      internalID: -2598029738616736766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3f311b2ced417f0800000000000000
+      internalID: -642643919031241759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bfa082a0dbf9290800000000000000
+      internalID: -7881372971555947641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c950f20bdaee230800000000000000
+      internalID: 3670061718568279108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840b795d031a08620800000000000000
+      internalID: 2774394601574215752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003e5c50fa7cf2190800000000000000
+      internalID: -7984944059774541056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75d35613a35f80c0800000000000000
+      internalID: -4571343136838396547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f6fd11727631960800000000000000
+      internalID: 7571508816041176835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_8
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5b257b69b4282f0800000000000000
+      internalID: -972131458865777185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_9
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db6fa85e7c14a230800000000000000
+      internalID: 3649072927056292818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_10
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8ba1d08351ade30800000000000000
+      internalID: 4528955705756661954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_11
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63ab2189c721fe40800000000000000
+      internalID: 5688371550754677615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_12
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345d60611a1309d80800000000000000
+      internalID: -8246036349786335933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_13
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc6197fc74c6ca0800000000000000
+      internalID: -6022359645285856245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_14
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1d15fe094a06310800000000000000
+      internalID: 1396296826882216391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_15
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bd446fed9dc0960800000000000000
+      internalID: 7569664625340636023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_16
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea2026d446bbe260800000000000000
+      internalID: 7127991242010405610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_executioner_17
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 2
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b83b71eae8945d0800000000000000
+      internalID: -3077771991957927062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cecilia_executioner_0: -2598029738616736766
+      cecilia_executioner_1: -642643919031241759
+      cecilia_executioner_10: 4528955705756661954
+      cecilia_executioner_11: 5688371550754677615
+      cecilia_executioner_12: -8246036349786335933
+      cecilia_executioner_13: -6022359645285856245
+      cecilia_executioner_14: 1396296826882216391
+      cecilia_executioner_15: 7569664625340636023
+      cecilia_executioner_16: 7127991242010405610
+      cecilia_executioner_17: -3077771991957927062
+      cecilia_executioner_2: -7881372971555947641
+      cecilia_executioner_3: 3670061718568279108
+      cecilia_executioner_4: 2774394601574215752
+      cecilia_executioner_5: -7984944059774541056
+      cecilia_executioner_6: -4571343136838396547
+      cecilia_executioner_7: 7571508816041176835
+      cecilia_executioner_8: -972131458865777185
+      cecilia_executioner_9: 3649072927056292818
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

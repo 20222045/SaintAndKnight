@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: c966049dc815cec4d9c9c5b3d2d962de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2270554875989674373
+    second: cecilia_pose_source_0
+  - first:
+      213: 6803515439635717495
+    second: cecilia_pose_source_1
+  - first:
+      213: 8524375811423909539
+    second: cecilia_pose_source_2
+  - first:
+      213: -9097184502594009336
+    second: cecilia_pose_source_3
+  - first:
+      213: -4257529434208559714
+    second: cecilia_pose_source_4
+  - first:
+      213: -5129039302867961296
+    second: cecilia_pose_source_5
+  - first:
+      213: -6136277982385166895
+    second: cecilia_pose_source_6
+  - first:
+      213: -953820187995590906
+    second: cecilia_pose_source_7
+  - first:
+      213: 2152781928695753059
+    second: cecilia_pose_source_8
+  - first:
+      213: -6445430654555764111
+    second: cecilia_pose_source_9
+  - first:
+      213: -512797470503914151
+    second: cecilia_pose_source_10
+  - first:
+      213: 7732672397535553990
+    second: cecilia_pose_source_11
+  - first:
+      213: -4435447254035738727
+    second: cecilia_pose_source_12
+  - first:
+      213: 6411724676826847399
+    second: cecilia_pose_source_13
+  - first:
+      213: 8844982798604994048
+    second: cecilia_pose_source_14
+  - first:
+      213: -3463995113989937869
+    second: cecilia_pose_source_15
+  - first:
+      213: 6255797573721870727
+    second: cecilia_pose_source_16
+  - first:
+      213: 4607927173461705848
+    second: cecilia_pose_source_17
+  - first:
+      213: -1625226300284675509
+    second: cecilia_pose_source_18
+  - first:
+      213: 3911062431056845406
+    second: cecilia_pose_source_19
+  - first:
+      213: 3728637916552465328
+    second: cecilia_pose_source_20
+  - first:
+      213: -608259531346387721
+    second: cecilia_pose_source_21
+  - first:
+      213: 2186417946254492711
+    second: cecilia_pose_source_22
+  - first:
+      213: 5532448068494177551
+    second: cecilia_pose_source_23
+  - first:
+      213: -5516165337289466773
+    second: cecilia_pose_source_24
+  - first:
+      213: -2915867405863393976
+    second: cecilia_pose_source_25
+  - first:
+      213: -8145933613838617409
+    second: cecilia_pose_source_26
+  - first:
+      213: 3174072776118718642
+    second: cecilia_pose_source_27
+  - first:
+      213: -5831417009566592798
+    second: cecilia_pose_source_28
+  - first:
+      213: -771894384601890497
+    second: cecilia_pose_source_29
+  - first:
+      213: 3450498986178388925
+    second: cecilia_pose_source_30
+  - first:
+      213: -8918983679170845692
+    second: cecilia_pose_source_31
+  - first:
+      213: 4188728811933837539
+    second: cecilia_pose_source_32
+  - first:
+      213: 1974972866935602691
+    second: cecilia_pose_source_33
+  - first:
+      213: 5376941086902366832
+    second: cecilia_pose_source_34
+  - first:
+      213: -4482741686950667252
+    second: cecilia_pose_source_35
+  - first:
+      213: 1043962564562824867
+    second: cecilia_pose_source_36
+  - first:
+      213: 705837062568680884
+    second: cecilia_pose_source_37
+  - first:
+      213: 2657008977373501707
+    second: cecilia_pose_source_38
+  - first:
+      213: -4309623024072177714
+    second: cecilia_pose_source_39
+  - first:
+      213: 3737821151087550863
+    second: cecilia_pose_source_40
+  - first:
+      213: 7913660326356285171
+    second: cecilia_pose_source_41
+  - first:
+      213: -6159725872769937650
+    second: cecilia_pose_source_42
+  - first:
+      213: 7894020913440615681
+    second: cecilia_pose_source_43
+  - first:
+      213: -1107576728282954730
+    second: cecilia_pose_source_44
+  - first:
+      213: -6962596789820877116
+    second: cecilia_pose_source_45
+  - first:
+      213: -8348876230752371190
+    second: cecilia_pose_source_46
+  - first:
+      213: -61731193743561510
+    second: cecilia_pose_source_47
+  - first:
+      213: -8678477398557113700
+    second: cecilia_pose_source_48
+  - first:
+      213: -8619278594017181965
+    second: cecilia_pose_source_49
+  - first:
+      213: -7551050819712051414
+    second: cecilia_pose_source_50
+  - first:
+      213: 684286920985450835
+    second: cecilia_pose_source_51
+  - first:
+      213: -44332196003933
+    second: cecilia_pose_source_52
+  - first:
+      213: 9132515279950832777
+    second: cecilia_pose_source_53
+  - first:
+      213: -7794138385365123287
+    second: cecilia_pose_source_54
+  - first:
+      213: 7674229133204663250
+    second: cecilia_pose_source_55
+  - first:
+      213: 1049280773314961221
+    second: cecilia_pose_source_56
+  - first:
+      213: 1968488315033012237
+    second: cecilia_pose_source_57
+  - first:
+      213: -6238384414262269199
+    second: cecilia_pose_source_58
+  - first:
+      213: -7001885427226059383
+    second: cecilia_pose_source_59
+  - first:
+      213: -6729191630451605026
+    second: cecilia_pose_source_60
+  - first:
+      213: 5425674006199042
+    second: cecilia_pose_source_61
+  - first:
+      213: -4904359604072086792
+    second: cecilia_pose_source_62
+  - first:
+      213: 5020559376136695455
+    second: cecilia_pose_source_63
+  - first:
+      213: -965982883919812257
+    second: cecilia_pose_source_64
+  - first:
+      213: 4296926529931929046
+    second: cecilia_pose_source_65
+  - first:
+      213: 4595904470537905294
+    second: cecilia_pose_source_66
+  - first:
+      213: -420652921136480892
+    second: cecilia_pose_source_67
+  - first:
+      213: 2105364617489912117
+    second: cecilia_pose_source_68
+  - first:
+      213: -5427063233330967049
+    second: cecilia_pose_source_69
+  - first:
+      213: 8468266138823905073
+    second: cecilia_pose_source_70
+  - first:
+      213: 1644425646156956968
+    second: cecilia_pose_source_71
+  - first:
+      213: 6243966577102555411
+    second: cecilia_pose_source_72
+  - first:
+      213: -3825895623596971899
+    second: cecilia_pose_source_73
+  - first:
+      213: 8025496701267270919
+    second: cecilia_pose_source_74
+  - first:
+      213: -6720810462408368555
+    second: cecilia_pose_source_75
+  - first:
+      213: 5681018349860516609
+    second: cecilia_pose_source_76
+  - first:
+      213: -7198201164768449323
+    second: cecilia_pose_source_77
+  - first:
+      213: -1501220988046037358
+    second: cecilia_pose_source_78
+  - first:
+      213: -8149411532497692077
+    second: cecilia_pose_source_79
+  - first:
+      213: -6406115350129086120
+    second: cecilia_pose_source_80
+  - first:
+      213: -5069267849264173501
+    second: cecilia_pose_source_81
+  - first:
+      213: 7540727510663875146
+    second: cecilia_pose_source_82
+  - first:
+      213: -1032488790834874521
+    second: cecilia_pose_source_83
+  - first:
+      213: 1598285508198070031
+    second: cecilia_pose_source_84
+  - first:
+      213: -4827835304553346969
+    second: cecilia_pose_source_85
+  - first:
+      213: -1464946830489315078
+    second: cecilia_pose_source_86
+  - first:
+      213: -293180663771402055
+    second: cecilia_pose_source_87
+  - first:
+      213: -2587802446348733845
+    second: cecilia_pose_source_88
+  - first:
+      213: 6171773294667570082
+    second: cecilia_pose_source_89
+  - first:
+      213: -7826247594622136683
+    second: cecilia_pose_source_90
+  - first:
+      213: -6748995610511177223
+    second: cecilia_pose_source_91
+  - first:
+      213: -3065804856709560417
+    second: cecilia_pose_source_92
+  - first:
+      213: -8061578864761768056
+    second: cecilia_pose_source_93
+  - first:
+      213: -6150030239359699839
+    second: cecilia_pose_source_94
+  - first:
+      213: -6037206764359281900
+    second: cecilia_pose_source_95
+  - first:
+      213: 1086870077158119179
+    second: cecilia_pose_source_96
+  - first:
+      213: -7254305530057893206
+    second: cecilia_pose_source_97
+  - first:
+      213: -5219795879617664219
+    second: cecilia_pose_source_98
+  - first:
+      213: 6644546410821360640
+    second: cecilia_pose_source_99
+  - first:
+      213: 7713813673261543235
+    second: cecilia_pose_source_100
+  - first:
+      213: 7689307157720047648
+    second: cecilia_pose_source_101
+  - first:
+      213: 6185833123701077244
+    second: cecilia_pose_source_102
+  - first:
+      213: 1944791779928067801
+    second: cecilia_pose_source_103
+  - first:
+      213: 5748042254104847378
+    second: cecilia_pose_source_104
+  - first:
+      213: 7754293955395763555
+    second: cecilia_pose_source_105
+  - first:
+      213: -7306260287892467907
+    second: cecilia_pose_source_106
+  - first:
+      213: 2458808998043729895
+    second: cecilia_pose_source_107
+  - first:
+      213: 8238487177267521806
+    second: cecilia_pose_source_108
+  - first:
+      213: -3866873628684099053
+    second: cecilia_pose_source_109
+  - first:
+      213: 6446779493232911884
+    second: cecilia_pose_source_110
+  - first:
+      213: -6725113968554434697
+    second: cecilia_pose_source_111
+  - first:
+      213: -8869449976534592827
+    second: cecilia_pose_source_112
+  - first:
+      213: -2388500312128854723
+    second: cecilia_pose_source_113
+  - first:
+      213: 7804354599518853520
+    second: cecilia_pose_source_114
+  - first:
+      213: -2024435519549834588
+    second: cecilia_pose_source_115
+  - first:
+      213: 5420965893957108899
+    second: cecilia_pose_source_116
+  - first:
+      213: 1383646453118568486
+    second: cecilia_pose_source_117
+  - first:
+      213: 1915882325066597808
+    second: cecilia_pose_source_118
+  - first:
+      213: -6242357031821832365
+    second: cecilia_pose_source_119
+  - first:
+      213: 7941383860610107994
+    second: cecilia_pose_source_120
+  - first:
+      213: 552463749030696920
+    second: cecilia_pose_source_121
+  - first:
+      213: 1842360784692376430
+    second: cecilia_pose_source_122
+  - first:
+      213: 356538394414948755
+    second: cecilia_pose_source_123
+  - first:
+      213: -8380891450655515021
+    second: cecilia_pose_source_124
+  - first:
+      213: 1243705563610962101
+    second: cecilia_pose_source_125
+  - first:
+      213: 8284753245844728901
+    second: cecilia_pose_source_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecilia_pose_source_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711
+        width: 173
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589456a31a1a28f10800000000000000
+      internalID: 2270554875989674373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 931
+        width: 133
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d5f5bee31fa6e50800000000000000
+      internalID: 6803515439635717495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 554
+        width: 289
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6badbe2aaac4670800000000000000
+      internalID: 8524375811423909539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 980
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80702b2d4ee40c180800000000000000
+      internalID: -9097184502594009336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 215
+        width: 632
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d9a3579873ae4c0800000000000000
+      internalID: -4257529434208559714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 993
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ab989cdedf1d8b0800000000000000
+      internalID: -5129039302867961296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_6
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 951
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5a1e8bfaf87daa0800000000000000
+      internalID: -6136277982385166895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_7
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 847
+        width: 131
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f2de2b79953c2f0800000000000000
+      internalID: -953820187995590906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 833
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3696aca12c730ed10800000000000000
+      internalID: 2152781928695753059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_9
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 965
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a4ac218fa3d86a0800000000000000
+      internalID: -6445430654555764111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_10
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 928
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95535e0ea6d22e8f0800000000000000
+      internalID: -512797470503914151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 401
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9239b7398ff4b60800000000000000
+      internalID: 7732672397535553990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 899
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fc733f8302272c0800000000000000
+      internalID: -4435447254035738727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 913
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8dedf6f950bf850800000000000000
+      internalID: 6411724676826847399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_14
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 879
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0068a4b1ef0bfba70800000000000000
+      internalID: 8844982798604994048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 899
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e0fefbca6defc0800000000000000
+      internalID: -3463995113989937869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_16
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 893
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7815178afbe01d650800000000000000
+      internalID: 6255797573721870727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_17
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 819
+        width: 123
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8740e05b955a2ff30800000000000000
+      internalID: 4607927173461705848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 862
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ad8eb6a490279e0800000000000000
+      internalID: -1625226300284675509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 887
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ad4813f82e64630800000000000000
+      internalID: 3911062431056845406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 845
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb89201e68ceb330800000000000000
+      internalID: 3728637916552465328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_21
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 822
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc5adecd270f87f0800000000000000
+      internalID: -608259531346387721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_22
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 851
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724c909b987b75e10800000000000000
+      internalID: 2186417946254492711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_23
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 817
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0534e4c43437cc40800000000000000
+      internalID: 5532448068494177551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_24
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 845
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cd9840ad4a273b0800000000000000
+      internalID: -5516165337289466773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_25
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 833
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8456f551b02c887d0800000000000000
+      internalID: -2915867405863393976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_26
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 831
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb43c378984d3fe80800000000000000
+      internalID: -8145933613838617409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_27
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 834
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b05bc77f529c0c20800000000000000
+      internalID: 3174072776118718642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_28
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 349
+        width: 387
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0dc9f3025a21fa0800000000000000
+      internalID: -5831417009566592798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 829
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f318fa9952ea945f0800000000000000
+      internalID: -771894384601890497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_30
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 832
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db32201eb82a2ef20800000000000000
+      internalID: 3450498986178388925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_31
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 815
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404e38d3997693480800000000000000
+      internalID: -8918983679170845692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 823
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8a2cf59aa512a30800000000000000
+      internalID: 4188728811933837539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_33
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 762
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e3bbecb53886b10800000000000000
+      internalID: 1974972866935602691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 789
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072b4072e6bbe9a40800000000000000
+      internalID: 5376941086902366832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_35
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 801
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c5871bf2a1ac1c0800000000000000
+      internalID: -4482741686950667252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_36
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 797
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aea29bdb66ec7e00800000000000000
+      internalID: 1043962564562824867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_37
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 783
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd16b79113abc900800000000000000
+      internalID: 705837062568680884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_38
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 751
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b091f5566979fd420800000000000000
+      internalID: 2657008977373501707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 743
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7455661b42134c0800000000000000
+      internalID: -4309623024072177714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_40
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 755
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81e38878886fd330800000000000000
+      internalID: 3737821151087550863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 727
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f671917328f2dd60800000000000000
+      internalID: 7913660326356285171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_42
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 679
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fc3cf44f1448aa0800000000000000
+      internalID: -6159725872769937650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 725
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10de12b42323d8d60800000000000000
+      internalID: 7894020913440615681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_44
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 705
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614843575d811a0f0800000000000000
+      internalID: -1107576728282954730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_45
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 577
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6937ceb13ef5f90800000000000000
+      internalID: -6962596789820877116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_46
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 581
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7d486d45d22c80800000000000000
+      internalID: -8348876230752371190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_47
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 551
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcaa5d6ecfa42ff0800000000000000
+      internalID: -61731193743561510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_48
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 517
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c924fbb59cadf8780800000000000000
+      internalID: -8678477398557113700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_49
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 525
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe3a7f19cb226880800000000000000
+      internalID: -8619278594017181965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_50
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 481
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2714226947453790800000000000000
+      internalID: -7551050819712051414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_51
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 511
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35998c144531f7900800000000000000
+      internalID: 684286920985450835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_52
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 529
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af743b1ea7dffff0800000000000000
+      internalID: -44332196003933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 471
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984eb4fc2463dbe70800000000000000
+      internalID: 9132515279950832777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_54
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 486
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f33120f68a5d390800000000000000
+      internalID: -7794138385365123287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 511
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db2e91acb6508a60800000000000000
+      internalID: 7674229133204663250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 489
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fd513dd4bcf8e00800000000000000
+      internalID: 1049280773314961221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 495
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08cc0a61b9715b10800000000000000
+      internalID: 1968488315033012237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_58
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 486
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa60977d6ecc69a0800000000000000
+      internalID: -6238384414262269199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_59
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 507
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dd4303d4e44de90800000000000000
+      internalID: -7001885427226059383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_60
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 499
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed186696ddb1d92a0800000000000000
+      internalID: -6729191630451605026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_61
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 473
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b7ecb2f96431000800000000000000
+      internalID: 5425674006199042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_62
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 461
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2028cace630fbb0800000000000000
+      internalID: -4904359604072086792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_63
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 471
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e626c072c9ca540800000000000000
+      internalID: 5020559376136695455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_64
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 399
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f592ad06fa32892f0800000000000000
+      internalID: -965982883919812257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_65
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 449
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d56b82b9efb1ab30800000000000000
+      internalID: 4296926529931929046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_66
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 449
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84aa0c04cee7cf30800000000000000
+      internalID: 4595904470537905294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_67
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 423
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dfded956a892af0800000000000000
+      internalID: -420652921136480892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_68
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 365
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531992407f1c73d10800000000000000
+      internalID: 2105364617489912117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_69
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 415
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd89bb3eb23fa4b0800000000000000
+      internalID: -5427063233330967049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_70
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 340
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f411cbf23558570800000000000000
+      internalID: 8468266138823905073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_71
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 399
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8254ab2a96c22d610800000000000000
+      internalID: 1644425646156956968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_72
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 305
+        width: 73
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3190c99158607a650800000000000000
+      internalID: 6243966577102555411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_73
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 407
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588e7c76330b7eac0800000000000000
+      internalID: -3825895623596971899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_74
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 383
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dda199aba406f60800000000000000
+      internalID: 8025496701267270919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_75
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 371
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e9b692e72eab2a0800000000000000
+      internalID: -6720810462408368555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_76
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 369
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10379e1071807de40800000000000000
+      internalID: 5681018349860516609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_77
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 373
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc6c28ad2ada1c90800000000000000
+      internalID: -7198201164768449323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_78
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 373
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ea72617779a2be0800000000000000
+      internalID: -1501220988046037358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_79
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 365
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ad00d736977ee80800000000000000
+      internalID: -8149411532497692077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_80
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 357
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851f065b708e817a0800000000000000
+      internalID: -6406115350129086120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_81
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 351
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eec4dcfb756a9b0800000000000000
+      internalID: -5069267849264173501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_82
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 361
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ac22de7bb06a860800000000000000
+      internalID: 7540727510663875146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_83
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 367
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767f6b34aecdba1f0800000000000000
+      internalID: -1032488790834874521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_84
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 367
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07fccd93304e2610800000000000000
+      internalID: 1598285508198070031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_85
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 367
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76802069e55100db0800000000000000
+      internalID: -4827835304553346969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_86
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 359
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af899d98e967babe0800000000000000
+      internalID: -1464946830489315078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_87
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 349
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b074e85db96eebf0800000000000000
+      internalID: -293180663771402055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_88
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 441
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b623f74c267461cd0800000000000000
+      internalID: -2587802446348733845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_89
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 351
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab17eeac1b86a550800000000000000
+      internalID: 6171773294667570082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_90
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 331
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eca462745936390800000000000000
+      internalID: -7826247594622136683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_91
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 349
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f98fccff30c652a0800000000000000
+      internalID: -6748995610511177223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_92
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 340
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97c825e9b21475d0800000000000000
+      internalID: -3065804856709560417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 301
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887f31d0cb48f1090800000000000000
+      internalID: -8061578864761768056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_94
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 295
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184fd01e414b6aaa0800000000000000
+      internalID: -6150030239359699839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_95
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 311
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41397ce2f68873ca0800000000000000
+      internalID: -6037206764359281900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_96
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 395
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d202a396551f00800000000000000
+      internalID: 1086870077158119179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_97
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 303
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa5fbc2e87835b90800000000000000
+      internalID: -7254305530057893206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_98
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 287
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b675b9d4f8f87b0800000000000000
+      internalID: -5219795879617664219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_99
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 291
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c9a9e91cb263c50800000000000000
+      internalID: 6644546410821360640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_100
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 309
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f2e429aa8fc0b60800000000000000
+      internalID: 7713813673261543235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_101
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 279
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020a5c8ce18e5ba60800000000000000
+      internalID: 7689307157720047648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_102
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 271
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf43c0ab37e78d550800000000000000
+      internalID: 6185833123701077244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_103
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 293
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de46b4e1d94dfa10800000000000000
+      internalID: 1944791779928067801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_104
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 255
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214ead5c9f525cf40800000000000000
+      internalID: 5748042254104847378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_105
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 263
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36db257b449cc9b60800000000000000
+      internalID: 7754293955395763555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_106
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 252
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f40a77af2fa9a90800000000000000
+      internalID: -7306260287892467907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_107
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 226
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef3ee2a1c17f1220800000000000000
+      internalID: 2458808998043729895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_108
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 135
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0924a7307cf45270800000000000000
+      internalID: 8238487177267521806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_109
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 175
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31265fa1cea165ac0800000000000000
+      internalID: -3866873628684099053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_110
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 145
+        width: 107
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06ab67eacf877950800000000000000
+      internalID: 6446779493232911884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_111
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 183
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f9b4e0a789ba2a0800000000000000
+      internalID: -6725113968554434697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_112
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 143
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c21f8b1d3269e480800000000000000
+      internalID: -8869449976534592827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_113
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 145
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3566a5fe975aded0800000000000000
+      internalID: -2388500312128854723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_114
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 111
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099d185b823ae4c60800000000000000
+      internalID: 7804354599518853520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_115
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 49
+        width: 119
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa7c82fe92c7e3e0800000000000000
+      internalID: -2024435519549834588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 49
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a442d052c32b3b40800000000000000
+      internalID: 5420965893957108899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_117
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 73
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6288cd44e13b33310800000000000000
+      internalID: 1383646453118568486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_118
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 65
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b54b09e2d4969a10800000000000000
+      internalID: 1915882325066597808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_119
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 55
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f091d5a51be59a0800000000000000
+      internalID: -6242357031821832365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 39
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a8fa4cb86753e60800000000000000
+      internalID: 7941383860610107994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_121
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 61
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d751484adebaa700800000000000000
+      internalID: 552463749030696920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_122
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 37
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63f2b75f51619910800000000000000
+      internalID: 1842360784692376430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_123
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 47
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39124ebd7cda2f400800000000000000
+      internalID: 356538394414948755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_124
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 25
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ed19621a711bb80800000000000000
+      internalID: -8380891450655515021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_125
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 23
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b85534ee97824110800000000000000
+      internalID: 1243705563610962101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_pose_source_126
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 15
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ce65ebe2b59f270800000000000000
+      internalID: 8284753245844728901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cecilia_pose_source_0: 2270554875989674373
+      cecilia_pose_source_1: 6803515439635717495
+      cecilia_pose_source_10: -512797470503914151
+      cecilia_pose_source_100: 7713813673261543235
+      cecilia_pose_source_101: 7689307157720047648
+      cecilia_pose_source_102: 6185833123701077244
+      cecilia_pose_source_103: 1944791779928067801
+      cecilia_pose_source_104: 5748042254104847378
+      cecilia_pose_source_105: 7754293955395763555
+      cecilia_pose_source_106: -7306260287892467907
+      cecilia_pose_source_107: 2458808998043729895
+      cecilia_pose_source_108: 8238487177267521806
+      cecilia_pose_source_109: -3866873628684099053
+      cecilia_pose_source_11: 7732672397535553990
+      cecilia_pose_source_110: 6446779493232911884
+      cecilia_pose_source_111: -6725113968554434697
+      cecilia_pose_source_112: -8869449976534592827
+      cecilia_pose_source_113: -2388500312128854723
+      cecilia_pose_source_114: 7804354599518853520
+      cecilia_pose_source_115: -2024435519549834588
+      cecilia_pose_source_116: 5420965893957108899
+      cecilia_pose_source_117: 1383646453118568486
+      cecilia_pose_source_118: 1915882325066597808
+      cecilia_pose_source_119: -6242357031821832365
+      cecilia_pose_source_12: -4435447254035738727
+      cecilia_pose_source_120: 7941383860610107994
+      cecilia_pose_source_121: 552463749030696920
+      cecilia_pose_source_122: 1842360784692376430
+      cecilia_pose_source_123: 356538394414948755
+      cecilia_pose_source_124: -8380891450655515021
+      cecilia_pose_source_125: 1243705563610962101
+      cecilia_pose_source_126: 8284753245844728901
+      cecilia_pose_source_13: 6411724676826847399
+      cecilia_pose_source_14: 8844982798604994048
+      cecilia_pose_source_15: -3463995113989937869
+      cecilia_pose_source_16: 6255797573721870727
+      cecilia_pose_source_17: 4607927173461705848
+      cecilia_pose_source_18: -1625226300284675509
+      cecilia_pose_source_19: 3911062431056845406
+      cecilia_pose_source_2: 8524375811423909539
+      cecilia_pose_source_20: 3728637916552465328
+      cecilia_pose_source_21: -608259531346387721
+      cecilia_pose_source_22: 2186417946254492711
+      cecilia_pose_source_23: 5532448068494177551
+      cecilia_pose_source_24: -5516165337289466773
+      cecilia_pose_source_25: -2915867405863393976
+      cecilia_pose_source_26: -8145933613838617409
+      cecilia_pose_source_27: 3174072776118718642
+      cecilia_pose_source_28: -5831417009566592798
+      cecilia_pose_source_29: -771894384601890497
+      cecilia_pose_source_3: -9097184502594009336
+      cecilia_pose_source_30: 3450498986178388925
+      cecilia_pose_source_31: -8918983679170845692
+      cecilia_pose_source_32: 4188728811933837539
+      cecilia_pose_source_33: 1974972866935602691
+      cecilia_pose_source_34: 5376941086902366832
+      cecilia_pose_source_35: -4482741686950667252
+      cecilia_pose_source_36: 1043962564562824867
+      cecilia_pose_source_37: 705837062568680884
+      cecilia_pose_source_38: 2657008977373501707
+      cecilia_pose_source_39: -4309623024072177714
+      cecilia_pose_source_4: -4257529434208559714
+      cecilia_pose_source_40: 3737821151087550863
+      cecilia_pose_source_41: 7913660326356285171
+      cecilia_pose_source_42: -6159725872769937650
+      cecilia_pose_source_43: 7894020913440615681
+      cecilia_pose_source_44: -1107576728282954730
+      cecilia_pose_source_45: -6962596789820877116
+      cecilia_pose_source_46: -8348876230752371190
+      cecilia_pose_source_47: -61731193743561510
+      cecilia_pose_source_48: -8678477398557113700
+      cecilia_pose_source_49: -8619278594017181965
+      cecilia_pose_source_5: -5129039302867961296
+      cecilia_pose_source_50: -7551050819712051414
+      cecilia_pose_source_51: 684286920985450835
+      cecilia_pose_source_52: -44332196003933
+      cecilia_pose_source_53: 9132515279950832777
+      cecilia_pose_source_54: -7794138385365123287
+      cecilia_pose_source_55: 7674229133204663250
+      cecilia_pose_source_56: 1049280773314961221
+      cecilia_pose_source_57: 1968488315033012237
+      cecilia_pose_source_58: -6238384414262269199
+      cecilia_pose_source_59: -7001885427226059383
+      cecilia_pose_source_6: -6136277982385166895
+      cecilia_pose_source_60: -6729191630451605026
+      cecilia_pose_source_61: 5425674006199042
+      cecilia_pose_source_62: -4904359604072086792
+      cecilia_pose_source_63: 5020559376136695455
+      cecilia_pose_source_64: -965982883919812257
+      cecilia_pose_source_65: 4296926529931929046
+      cecilia_pose_source_66: 4595904470537905294
+      cecilia_pose_source_67: -420652921136480892
+      cecilia_pose_source_68: 2105364617489912117
+      cecilia_pose_source_69: -5427063233330967049
+      cecilia_pose_source_7: -953820187995590906
+      cecilia_pose_source_70: 8468266138823905073
+      cecilia_pose_source_71: 1644425646156956968
+      cecilia_pose_source_72: 6243966577102555411
+      cecilia_pose_source_73: -3825895623596971899
+      cecilia_pose_source_74: 8025496701267270919
+      cecilia_pose_source_75: -6720810462408368555
+      cecilia_pose_source_76: 5681018349860516609
+      cecilia_pose_source_77: -7198201164768449323
+      cecilia_pose_source_78: -1501220988046037358
+      cecilia_pose_source_79: -8149411532497692077
+      cecilia_pose_source_8: 2152781928695753059
+      cecilia_pose_source_80: -6406115350129086120
+      cecilia_pose_source_81: -5069267849264173501
+      cecilia_pose_source_82: 7540727510663875146
+      cecilia_pose_source_83: -1032488790834874521
+      cecilia_pose_source_84: 1598285508198070031
+      cecilia_pose_source_85: -4827835304553346969
+      cecilia_pose_source_86: -1464946830489315078
+      cecilia_pose_source_87: -293180663771402055
+      cecilia_pose_source_88: -2587802446348733845
+      cecilia_pose_source_89: 6171773294667570082
+      cecilia_pose_source_9: -6445430654555764111
+      cecilia_pose_source_90: -7826247594622136683
+      cecilia_pose_source_91: -6748995610511177223
+      cecilia_pose_source_92: -3065804856709560417
+      cecilia_pose_source_93: -8061578864761768056
+      cecilia_pose_source_94: -6150030239359699839
+      cecilia_pose_source_95: -6037206764359281900
+      cecilia_pose_source_96: 1086870077158119179
+      cecilia_pose_source_97: -7254305530057893206
+      cecilia_pose_source_98: -5219795879617664219
+      cecilia_pose_source_99: 6644546410821360640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 6a8c7235b5e93e0419decaebd0dcdb33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2162595549757801830
+    second: adela_boss_grab_0
+  - first:
+      213: -4383775674122438453
+    second: adela_boss_grab_1
+  - first:
+      213: -8467701669326660250
+    second: adela_boss_grab_2
+  - first:
+      213: -1531256601350534367
+    second: adela_boss_grab_3
+  - first:
+      213: 2572695964040800494
+    second: adela_boss_grab_4
+  - first:
+      213: -8338226878700327291
+    second: adela_boss_grab_5
+  - first:
+      213: -2946421294778954218
+    second: adela_boss_grab_6
+  - first:
+      213: -1363310275949717962
+    second: adela_boss_grab_7
+  - first:
+      213: -2866570823363148024
+    second: adela_boss_grab_8
+  - first:
+      213: 853358935530348175
+    second: adela_boss_grab_9
+  - first:
+      213: 6576171267679268797
+    second: adela_boss_grab_10
+  - first:
+      213: -8835998118900599824
+    second: adela_boss_grab_11
+  - first:
+      213: -799318070403197873
+    second: adela_boss_grab_12
+  - first:
+      213: 661377602555713734
+    second: adela_boss_grab_13
+  - first:
+      213: 7310018681460424611
+    second: adela_boss_grab_14
+  - first:
+      213: -3381991159221956366
+    second: adela_boss_grab_15
+  - first:
+      213: -243828682569628050
+    second: adela_boss_grab_16
+  - first:
+      213: 4597108271766601142
+    second: adela_boss_grab_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adela_boss_grab_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a78df2ecaecf1e0800000000000000
+      internalID: -2162595549757801830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3
+        width: 87
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8fee82043b923c0800000000000000
+      internalID: -4383775674122438453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d5dcf023eac7a80800000000000000
+      internalID: -8467701669326660250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 3
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b8788eb32efbae0800000000000000
+      internalID: -1531256601350534367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8abbb395d04b320800000000000000
+      internalID: 2572695964040800494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ee376e4daa84c80800000000000000
+      internalID: -8338226878700327291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_6
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 3
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ecd0671753c17d0800000000000000
+      internalID: -2946421294778954218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 3
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6369063f68c841de0800000000000000
+      internalID: -1363310275949717962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_8
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c0fd1605e738d0800000000000000
+      internalID: -2866570823363148024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e113a3e6db7db00800000000000000
+      internalID: 853358935530348175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_10
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf27280de0434b50800000000000000
+      internalID: 6576171267679268797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_11
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3f8e6a68a306580800000000000000
+      internalID: -8835998118900599824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_12
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 2
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44111f237048e4f0800000000000000
+      internalID: -799318070403197873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_13
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c89bb6ec6fad2900800000000000000
+      internalID: 661377602555713734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_14
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 2
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3affae9b247627560800000000000000
+      internalID: 7310018681460424611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_15
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 2
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0501195f0c011d0800000000000000
+      internalID: -3381991159221956366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_16
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 2
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66c265ea1fbd9cf0800000000000000
+      internalID: -243828682569628050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_boss_grab_17
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 2
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd78acdd953ccf30800000000000000
+      internalID: 4597108271766601142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      adela_boss_grab_0: -2162595549757801830
+      adela_boss_grab_1: -4383775674122438453
+      adela_boss_grab_10: 6576171267679268797
+      adela_boss_grab_11: -8835998118900599824
+      adela_boss_grab_12: -799318070403197873
+      adela_boss_grab_13: 661377602555713734
+      adela_boss_grab_14: 7310018681460424611
+      adela_boss_grab_15: -3381991159221956366
+      adela_boss_grab_16: -243828682569628050
+      adela_boss_grab_17: 4597108271766601142
+      adela_boss_grab_2: -8467701669326660250
+      adela_boss_grab_3: -1531256601350534367
+      adela_boss_grab_4: 2572695964040800494
+      adela_boss_grab_5: -8338226878700327291
+      adela_boss_grab_6: -2946421294778954218
+      adela_boss_grab_7: -1363310275949717962
+      adela_boss_grab_8: -2866570823363148024
+      adela_boss_grab_9: 853358935530348175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

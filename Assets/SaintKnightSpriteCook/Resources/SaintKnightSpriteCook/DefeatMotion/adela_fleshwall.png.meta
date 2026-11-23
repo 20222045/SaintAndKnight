@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 2a87579379942a54f9574bf090bb84d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8714290048826092818
+    second: adela_fleshwall_0
+  - first:
+      213: 9223309362366683217
+    second: adela_fleshwall_1
+  - first:
+      213: 8666667815856182701
+    second: adela_fleshwall_2
+  - first:
+      213: 6633495476377450716
+    second: adela_fleshwall_3
+  - first:
+      213: 231964727786701738
+    second: adela_fleshwall_4
+  - first:
+      213: 8510208401887456755
+    second: adela_fleshwall_5
+  - first:
+      213: -328386352949735682
+    second: adela_fleshwall_6
+  - first:
+      213: 7138372724624423809
+    second: adela_fleshwall_7
+  - first:
+      213: 5259520625395836692
+    second: adela_fleshwall_8
+  - first:
+      213: 7752142777707059105
+    second: adela_fleshwall_9
+  - first:
+      213: -7570215843230753403
+    second: adela_fleshwall_10
+  - first:
+      213: -1362409989261810324
+    second: adela_fleshwall_11
+  - first:
+      213: -1076529593473143701
+    second: adela_fleshwall_12
+  - first:
+      213: -9139223625949617378
+    second: adela_fleshwall_13
+  - first:
+      213: -4153240084844081495
+    second: adela_fleshwall_14
+  - first:
+      213: -6720007284686782072
+    second: adela_fleshwall_15
+  - first:
+      213: -6262292379456381466
+    second: adela_fleshwall_16
+  - first:
+      213: -4800343449918185641
+    second: adela_fleshwall_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: adela_fleshwall_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2dff1fe5f901780800000000000000
+      internalID: -8714290048826092818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15896657ff6cfff70800000000000000
+      internalID: 9223309362366683217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51b66e570364870800000000000000
+      internalID: 8666667815856182701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd873a07df8ee0c50800000000000000
+      internalID: 6633495476377450716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa38520e0ba183300800000000000000
+      internalID: 231964727786701738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdeb07d3755a1670800000000000000
+      internalID: 8510208401887456755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe48531a56517bf0800000000000000
+      internalID: -328386352949735682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b739d1c28901360800000000000000
+      internalID: 7138372724624423809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_8
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4172f8584229df840800000000000000
+      internalID: 5259520625395836692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_9
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d651a8c4259b60800000000000000
+      internalID: 7752142777707059105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_10
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d523f9cc031f690800000000000000
+      internalID: -7570215843230753403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_11
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c652b97455fb71de0800000000000000
+      internalID: -1362409989261810324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_12
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c66d6d9066f01f0800000000000000
+      internalID: -1076529593473143701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_13
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e136a6ca884fa2180800000000000000
+      internalID: -9139223625949617378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_14
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae84fbc52abc56c0800000000000000
+      internalID: -4153240084844081495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_15
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881053c8afcbdb2a0800000000000000
+      internalID: -6720007284686782072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_16
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edddda824ed719a0800000000000000
+      internalID: -6262292379456381466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: adela_fleshwall_17
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 2
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd0cbc011c16db0800000000000000
+      internalID: -4800343449918185641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      adela_fleshwall_0: -8714290048826092818
+      adela_fleshwall_1: 9223309362366683217
+      adela_fleshwall_10: -7570215843230753403
+      adela_fleshwall_11: -1362409989261810324
+      adela_fleshwall_12: -1076529593473143701
+      adela_fleshwall_13: -9139223625949617378
+      adela_fleshwall_14: -4153240084844081495
+      adela_fleshwall_15: -6720007284686782072
+      adela_fleshwall_16: -6262292379456381466
+      adela_fleshwall_17: -4800343449918185641
+      adela_fleshwall_2: 8666667815856182701
+      adela_fleshwall_3: 6633495476377450716
+      adela_fleshwall_4: 231964727786701738
+      adela_fleshwall_5: 8510208401887456755
+      adela_fleshwall_6: -328386352949735682
+      adela_fleshwall_7: 7138372724624423809
+      adela_fleshwall_8: 5259520625395836692
+      adela_fleshwall_9: 7752142777707059105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

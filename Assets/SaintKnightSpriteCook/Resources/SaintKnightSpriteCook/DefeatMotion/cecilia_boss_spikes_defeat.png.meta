@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 90200efb015163e4eb26e4a5add061b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1224613661022207582
+    second: cecilia_boss_spikes_defeat_0
+  - first:
+      213: 6764441159685934004
+    second: cecilia_boss_spikes_defeat_1
+  - first:
+      213: 1973615828590338177
+    second: cecilia_boss_spikes_defeat_2
+  - first:
+      213: -7565431700349956444
+    second: cecilia_boss_spikes_defeat_3
+  - first:
+      213: 5362188448814361252
+    second: cecilia_boss_spikes_defeat_4
+  - first:
+      213: -2576130283875382769
+    second: cecilia_boss_spikes_defeat_5
+  - first:
+      213: -8523441881920119515
+    second: cecilia_boss_spikes_defeat_6
+  - first:
+      213: -7812533963041664703
+    second: cecilia_boss_spikes_defeat_7
+  - first:
+      213: -7859833492341749427
+    second: cecilia_boss_spikes_defeat_8
+  - first:
+      213: 3778293288123932842
+    second: cecilia_boss_spikes_defeat_9
+  - first:
+      213: -704830914709152613
+    second: cecilia_boss_spikes_defeat_10
+  - first:
+      213: 6867894290735360025
+    second: cecilia_boss_spikes_defeat_11
+  - first:
+      213: -8611745809171509137
+    second: cecilia_boss_spikes_defeat_12
+  - first:
+      213: -393712793934753827
+    second: cecilia_boss_spikes_defeat_13
+  - first:
+      213: 6568140955335400527
+    second: cecilia_boss_spikes_defeat_14
+  - first:
+      213: -7781077980403494178
+    second: cecilia_boss_spikes_defeat_15
+  - first:
+      213: 8966958552675163243
+    second: cecilia_boss_spikes_defeat_16
+  - first:
+      213: -5434993196703636864
+    second: cecilia_boss_spikes_defeat_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eb15ce2a3bef010800000000000000
+      internalID: 1224613661022207582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb8c1b256f10ed50800000000000000
+      internalID: 6764441159685934004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1802732b321b36b10800000000000000
+      internalID: 1973615828590338177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae4920b3ff220790800000000000000
+      internalID: -7565431700349956444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa684eebf15a6a40800000000000000
+      internalID: 5362188448814361252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a4b7ed72fbf3cd0800000000000000
+      internalID: -2576130283875382769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_6
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd67c74c6a6b980800000000000000
+      internalID: -8523441881920119515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1411a31d0cd449390800000000000000
+      internalID: -7812533963041664703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_8
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 0
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d498047f4134ce290800000000000000
+      internalID: -7859833492341749427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_9
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 0
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0aedf2ab13f6430800000000000000
+      internalID: 3778293288123932842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_10
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 0
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c1c067400f736f0800000000000000
+      internalID: -704830914709152613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_11
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 0
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918e6324879af4f50800000000000000
+      internalID: 6867894290735360025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_12
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 0
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f609f5440deec7880800000000000000
+      internalID: -8611745809171509137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_13
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 0
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf0ef5cc40498af0800000000000000
+      internalID: -393712793934753827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_14
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 0
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c167d3669b62b50800000000000000
+      internalID: 6568140955335400527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_15
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 0
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed29f608dce040490800000000000000
+      internalID: -7781077980403494178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_16
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 0
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c9adf6b49017c70800000000000000
+      internalID: 8966958552675163243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_spikes_defeat_17
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 0
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082a0d1cb760394b0800000000000000
+      internalID: -5434993196703636864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cecilia_boss_spikes_defeat_0: 1224613661022207582
+      cecilia_boss_spikes_defeat_1: 6764441159685934004
+      cecilia_boss_spikes_defeat_10: -704830914709152613
+      cecilia_boss_spikes_defeat_11: 6867894290735360025
+      cecilia_boss_spikes_defeat_12: -8611745809171509137
+      cecilia_boss_spikes_defeat_13: -393712793934753827
+      cecilia_boss_spikes_defeat_14: 6568140955335400527
+      cecilia_boss_spikes_defeat_15: -7781077980403494178
+      cecilia_boss_spikes_defeat_16: 8966958552675163243
+      cecilia_boss_spikes_defeat_17: -5434993196703636864
+      cecilia_boss_spikes_defeat_2: 1973615828590338177
+      cecilia_boss_spikes_defeat_3: -7565431700349956444
+      cecilia_boss_spikes_defeat_4: 5362188448814361252
+      cecilia_boss_spikes_defeat_5: -2576130283875382769
+      cecilia_boss_spikes_defeat_6: -8523441881920119515
+      cecilia_boss_spikes_defeat_7: -7812533963041664703
+      cecilia_boss_spikes_defeat_8: -7859833492341749427
+      cecilia_boss_spikes_defeat_9: 3778293288123932842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

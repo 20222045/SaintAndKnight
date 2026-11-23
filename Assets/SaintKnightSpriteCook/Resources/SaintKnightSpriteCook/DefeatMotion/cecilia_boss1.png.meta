@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 812452eb3ac2e0b41a1ea5b28fbd995c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7224696545328737538
+    second: cecilia_boss1_0
+  - first:
+      213: -4250843128667467265
+    second: cecilia_boss1_1
+  - first:
+      213: -6935651197575000568
+    second: cecilia_boss1_2
+  - first:
+      213: -8780556851819507746
+    second: cecilia_boss1_3
+  - first:
+      213: -2368948338276037473
+    second: cecilia_boss1_4
+  - first:
+      213: -8593353943936010077
+    second: cecilia_boss1_5
+  - first:
+      213: -4083252928631440124
+    second: cecilia_boss1_6
+  - first:
+      213: -5950754541691771719
+    second: cecilia_boss1_7
+  - first:
+      213: 1917636664698469676
+    second: cecilia_boss1_8
+  - first:
+      213: 3485685279961237758
+    second: cecilia_boss1_9
+  - first:
+      213: -1962393617157446940
+    second: cecilia_boss1_10
+  - first:
+      213: 9145363904786328907
+    second: cecilia_boss1_11
+  - first:
+      213: -8295356368034762538
+    second: cecilia_boss1_12
+  - first:
+      213: 7692982110971066605
+    second: cecilia_boss1_13
+  - first:
+      213: 4594928651216029397
+    second: cecilia_boss1_14
+  - first:
+      213: -6256101090229303156
+    second: cecilia_boss1_15
+  - first:
+      213: -7958384603844644872
+    second: cecilia_boss1_16
+  - first:
+      213: -7236119979247191261
+    second: cecilia_boss1_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecilia_boss1_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef250b525c8bcbb90800000000000000
+      internalID: -7224696545328737538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff19dd742b8f105c0800000000000000
+      internalID: -4250843128667467265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e87828bfd9fbf90800000000000000
+      internalID: -6935651197575000568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0d2d8012352680800000000000000
+      internalID: -8780556851819507746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c0ecd990ecf1fd0800000000000000
+      internalID: -2368948338276037473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8fd761e164eb880800000000000000
+      internalID: -8593353943936010077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_6
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d79dc681f5557c0800000000000000
+      internalID: -4083252928631440124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b46be4d54caa6da0800000000000000
+      internalID: -5950754541691771719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_8
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dfd9fe260dc9a10800000000000000
+      internalID: 1917636664698469676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_9
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8c5ee4b44af5030800000000000000
+      internalID: 3485685279961237758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_10
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 2
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e226d3076d24c4e0800000000000000
+      internalID: -1962393617157446940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_11
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4de776640cdaee70800000000000000
+      internalID: 9145363904786328907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_12
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0730e7559f0ec80800000000000000
+      internalID: -8295356368034762538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_13
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de87dd38876f2ca60800000000000000
+      internalID: 7692982110971066605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_14
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d60ff7634774cf30800000000000000
+      internalID: 4594928651216029397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_15
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88c2f5643ddd29a0800000000000000
+      internalID: -6256101090229303156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_16
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 2
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffe6ed3e532e8190800000000000000
+      internalID: -7958384603844644872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss1_17
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 2
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b3ddca733249b90800000000000000
+      internalID: -7236119979247191261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cecilia_boss1_0: -7224696545328737538
+      cecilia_boss1_1: -4250843128667467265
+      cecilia_boss1_10: -1962393617157446940
+      cecilia_boss1_11: 9145363904786328907
+      cecilia_boss1_12: -8295356368034762538
+      cecilia_boss1_13: 7692982110971066605
+      cecilia_boss1_14: 4594928651216029397
+      cecilia_boss1_15: -6256101090229303156
+      cecilia_boss1_16: -7958384603844644872
+      cecilia_boss1_17: -7236119979247191261
+      cecilia_boss1_2: -6935651197575000568
+      cecilia_boss1_3: -8780556851819507746
+      cecilia_boss1_4: -2368948338276037473
+      cecilia_boss1_5: -8593353943936010077
+      cecilia_boss1_6: -4083252928631440124
+      cecilia_boss1_7: -5950754541691771719
+      cecilia_boss1_8: 1917636664698469676
+      cecilia_boss1_9: 3485685279961237758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

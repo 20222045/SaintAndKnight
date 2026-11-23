@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: b44e27e56210d0a488896ece4f7d7dd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1189370488084019964
+    second: cecilia_tentacle_0
+  - first:
+      213: -7672974199080365553
+    second: cecilia_tentacle_1
+  - first:
+      213: 618315284762740172
+    second: cecilia_tentacle_2
+  - first:
+      213: 1908578232551332347
+    second: cecilia_tentacle_3
+  - first:
+      213: 3668965888530147804
+    second: cecilia_tentacle_4
+  - first:
+      213: 290662844181135111
+    second: cecilia_tentacle_5
+  - first:
+      213: 8521747623356234946
+    second: cecilia_tentacle_6
+  - first:
+      213: 2694539846725998324
+    second: cecilia_tentacle_7
+  - first:
+      213: 5702274053375869985
+    second: cecilia_tentacle_8
+  - first:
+      213: -3505731710164023312
+    second: cecilia_tentacle_9
+  - first:
+      213: -1565027892513144690
+    second: cecilia_tentacle_10
+  - first:
+      213: -6755579801217607959
+    second: cecilia_tentacle_11
+  - first:
+      213: 6787739322995267447
+    second: cecilia_tentacle_12
+  - first:
+      213: -6884738855628342121
+    second: cecilia_tentacle_13
+  - first:
+      213: 7146673606657216962
+    second: cecilia_tentacle_14
+  - first:
+      213: 5784912621128900175
+    second: cecilia_tentacle_15
+  - first:
+      213: 343881817225446109
+    second: cecilia_tentacle_16
+  - first:
+      213: 8604835826404302227
+    second: cecilia_tentacle_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecilia_tentacle_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4054b67b7d18e7fe0800000000000000
+      internalID: -1189370488084019964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02d31d7e9e148590800000000000000
+      internalID: -7672974199080365553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc54a7bb972b49800800000000000000
+      internalID: 618315284762740172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d3495ac1ac7a10800000000000000
+      internalID: 1908578232551332347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd96dde5909cae230800000000000000
+      internalID: 3668965888530147804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f32d81154a80400800000000000000
+      internalID: 290662844181135111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc7da33054534670800000000000000
+      internalID: 8521747623356234946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f61d3dd6bde46520800000000000000
+      internalID: 2694539846725998324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_8
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12445632a0c822f40800000000000000
+      internalID: 5702274053375869985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_9
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 0
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7c9d17593295fc0800000000000000
+      internalID: -3505731710164023312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_10
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 0
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e800d237c67e74ae0800000000000000
+      internalID: -1565027892513144690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_11
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 0
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6de90a6fb5f32a0800000000000000
+      internalID: -6755579801217607959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_12
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 0
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777551783f4e23e50800000000000000
+      internalID: 6787739322995267447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 0
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c71fadc7e7470a0800000000000000
+      internalID: -6884738855628342121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_14
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 0
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c19672d7c51e2360800000000000000
+      internalID: 7146673606657216962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_15
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 0
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4edf0f0163284050800000000000000
+      internalID: 5784912621128900175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_16
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd24078d0b6b5c400800000000000000
+      internalID: 343881817225446109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_tentacle_17
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 0
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d126ff7948a6770800000000000000
+      internalID: 8604835826404302227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cecilia_tentacle_0: -1189370488084019964
+      cecilia_tentacle_1: -7672974199080365553
+      cecilia_tentacle_10: -1565027892513144690
+      cecilia_tentacle_11: -6755579801217607959
+      cecilia_tentacle_12: 6787739322995267447
+      cecilia_tentacle_13: -6884738855628342121
+      cecilia_tentacle_14: 7146673606657216962
+      cecilia_tentacle_15: 5784912621128900175
+      cecilia_tentacle_16: 343881817225446109
+      cecilia_tentacle_17: 8604835826404302227
+      cecilia_tentacle_2: 618315284762740172
+      cecilia_tentacle_3: 1908578232551332347
+      cecilia_tentacle_4: 3668965888530147804
+      cecilia_tentacle_5: 290662844181135111
+      cecilia_tentacle_6: 8521747623356234946
+      cecilia_tentacle_7: 2694539846725998324
+      cecilia_tentacle_8: 5702274053375869985
+      cecilia_tentacle_9: -3505731710164023312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

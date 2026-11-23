@@ -1,0 +1,108 @@
+{
+  "pixelsPerUnit": 48,
+  "facing": "right",
+  "cellCoordinates": "top-left",
+  "sets": {
+    "monk": {
+      "cell": [
+        128,
+        96
+      ],
+      "pivotX": 64,
+      "lastFootPixelY": 92,
+      "groundY": 93,
+      "frames": {
+        "walk.png": 4,
+        "idle.png": 2,
+        "claw-windup.png": 1,
+        "claw-strike.png": 1,
+        "claw-recovery.png": 1,
+        "grab-windup.png": 1,
+        "grab-miss.png": 1,
+        "hit.png": 1,
+        "defeat.png": 2
+      }
+    },
+    "executioner": {
+      "cell": [
+        192,
+        112
+      ],
+      "pivotX": 64,
+      "lastFootPixelY": 108,
+      "groundY": 109,
+      "frames": {
+        "walk.png": 4,
+        "idle.png": 2,
+        "windup.png": 3,
+        "strike.png": 2,
+        "recovery.png": 1,
+        "hit.png": 1,
+        "armor-break.png": 1,
+        "defeat.png": 2
+      }
+    },
+    "grab-cecilia": {
+      "cell": [
+        160,
+        96
+      ],
+      "pivotX": 64,
+      "lastFootPixelY": 92,
+      "groundY": 93,
+      "frames": {
+        "pounce.png": 2,
+        "hold.png": 2,
+        "resist.png": 2,
+        "escape.png": 1,
+        "throw.png": 1
+      }
+    },
+    "grab-adela": {
+      "cell": [
+        160,
+        96
+      ],
+      "pivotX": 64,
+      "lastFootPixelY": 92,
+      "groundY": 93,
+      "frames": {
+        "pounce.png": 2,
+        "hold.png": 2,
+        "resist.png": 2,
+        "escape.png": 1,
+        "throw.png": 1
+      }
+    }
+  },
+  "checks": {
+    "clawTipFromBodyPx": 60,
+    "executionerIdleHeightPx": 80,
+    "executionerStrike": [
+      {
+        "frame": 1,
+        "forwardPixelsFromX": 120,
+        "tipX": 150,
+        "tipFromBodyPx": 86,
+        "bladeAboveFloorPx": [
+          52,
+          59
+        ]
+      },
+      {
+        "frame": 2,
+        "forwardPixelsFromX": 120,
+        "tipX": 150,
+        "tipFromBodyPx": 86,
+        "bladeAboveFloorPx": [
+          52,
+          58
+        ]
+      }
+    ],
+    "crouchSpriteHeightPx": {
+      "cecilia": 42,
+      "adela": 48
+    }
+  }
+}

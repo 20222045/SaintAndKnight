@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "character": "adela",
+  "frameWidth": 128,
+  "frameHeight": 96,
+  "columns": 4,
+  "rows": 3,
+  "usedFrames": 11,
+  "ppu": 48,
+  "pivotX": 0.5,
+  "pivotY": 0.26625,
+  "groundPixelY": 92,
+  "standingHeight": 62,
+  "footLiftPixels": [
+    0,
+    12,
+    3,
+    0,
+    12,
+    12,
+    12,
+    12,
+    0,
+    0,
+    0
+  ],
+  "clips": {
+    "BossSweep": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "BossLift": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "BossEscape": [
+      8
+    ],
+    "BossDeath": [
+      9,
+      10
+    ]
+  }
+}

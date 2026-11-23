@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 3a502ef291deb934bb62d9fdccb2b78b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1055146516796880949
+    second: cecilia_boss_grab_defeat_0
+  - first:
+      213: 4578927464667648604
+    second: cecilia_boss_grab_defeat_1
+  - first:
+      213: 9113434830024876013
+    second: cecilia_boss_grab_defeat_2
+  - first:
+      213: 767750813480804334
+    second: cecilia_boss_grab_defeat_3
+  - first:
+      213: -8808317495727669319
+    second: cecilia_boss_grab_defeat_4
+  - first:
+      213: 4582687221092006483
+    second: cecilia_boss_grab_defeat_5
+  - first:
+      213: -6053453623301576105
+    second: cecilia_boss_grab_defeat_6
+  - first:
+      213: -5239888356340808484
+    second: cecilia_boss_grab_defeat_7
+  - first:
+      213: 3196411485091830529
+    second: cecilia_boss_grab_defeat_8
+  - first:
+      213: 6174636183481514810
+    second: cecilia_boss_grab_defeat_9
+  - first:
+      213: -2767175311404259492
+    second: cecilia_boss_grab_defeat_10
+  - first:
+      213: -7793031737827475671
+    second: cecilia_boss_grab_defeat_11
+  - first:
+      213: 2012532811192198230
+    second: cecilia_boss_grab_defeat_12
+  - first:
+      213: 5646570474725072322
+    second: cecilia_boss_grab_defeat_13
+  - first:
+      213: -8634494133181291534
+    second: cecilia_boss_grab_defeat_14
+  - first:
+      213: -737781123280611155
+    second: cecilia_boss_grab_defeat_15
+  - first:
+      213: -804360210421629181
+    second: cecilia_boss_grab_defeat_16
+  - first:
+      213: -1200934714214306686
+    second: cecilia_boss_grab_defeat_17
+  - first:
+      213: -5699127028153685485
+    second: cecilia_boss_grab_defeat_18
+  - first:
+      213: -4722770856821915089
+    second: cecilia_boss_grab_defeat_19
+  - first:
+      213: 108279066789151150
+    second: cecilia_boss_grab_defeat_20
+  - first:
+      213: -728560362014031964
+    second: cecilia_boss_grab_defeat_21
+  - first:
+      213: 7722936125921192880
+    second: cecilia_boss_grab_defeat_22
+  - first:
+      213: -7117901085057154383
+    second: cecilia_boss_grab_defeat_23
+  - first:
+      213: -1093221011757514218
+    second: cecilia_boss_grab_defeat_24
+  - first:
+      213: -5419119511688128772
+    second: cecilia_boss_grab_defeat_25
+  - first:
+      213: -3610912331173308249
+    second: cecilia_boss_grab_defeat_26
+  - first:
+      213: -7058334479477775079
+    second: cecilia_boss_grab_defeat_27
+  - first:
+      213: -1393901545917410422
+    second: cecilia_boss_grab_defeat_28
+  - first:
+      213: -697305023345775663
+    second: cecilia_boss_grab_defeat_29
+  - first:
+      213: -1226810540513548815
+    second: cecilia_boss_grab_defeat_30
+  - first:
+      213: -332285064420569225
+    second: cecilia_boss_grab_defeat_31
+  - first:
+      213: 6358259581931229949
+    second: cecilia_boss_grab_defeat_32
+  - first:
+      213: -7166754377838393623
+    second: cecilia_boss_grab_defeat_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5383ba7aa22a4ae00800000000000000
+      internalID: 1055146516796880949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c529bc7d44e9b8f30800000000000000
+      internalID: 4578927464667648604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def1e4f51bc697e70800000000000000
+      internalID: 9113434830024876013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef5a811c4997aa00800000000000000
+      internalID: 767750813480804334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 4
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf3b46f7e192c580800000000000000
+      internalID: -8808317495727669319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 4
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a39e95fb9f89f30800000000000000
+      internalID: 4582687221092006483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aeece8000ddfba0800000000000000
+      internalID: -6053453623301576105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4c9915d4d2847b0800000000000000
+      internalID: -5239888356340808484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_8
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b90e47f4feb5c20800000000000000
+      internalID: 3196411485091830529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_9
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b70bde4e6b0b550800000000000000
+      internalID: 6174636183481514810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_10
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57a48427b40999d0800000000000000
+      internalID: -2767175311404259492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_11
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fb2777ce699d390800000000000000
+      internalID: -7793031737827475671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_12
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654ededcde3fdeb10800000000000000
+      internalID: 2012532811192198230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_13
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd52311ee5ac5e40800000000000000
+      internalID: 5646570474725072322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_14
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3e888555d1c2880800000000000000
+      internalID: -8634494133181291534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_15
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8ded03affd2c5f0800000000000000
+      internalID: -737781123280611155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_16
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f3c5a76a656d4f0800000000000000
+      internalID: -804360210421629181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_17
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c22d08d3c655fe0800000000000000
+      internalID: -1200934714214306686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_18
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a6215c922a8e0b0800000000000000
+      internalID: -5699127028153685485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_19
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2200939de8557eb0800000000000000
+      internalID: -4722770856821915089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_20
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea10490dc3fa08100800000000000000
+      internalID: 108279066789151150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_21
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af39b8f532a3e5f0800000000000000
+      internalID: -728560362014031964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_22
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 0
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb60981d716d2b60800000000000000
+      internalID: 7722936125921192880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_23
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 0
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b20dc6eca2283d90800000000000000
+      internalID: -7117901085057154383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_24
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 0
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612433d284914d0f0800000000000000
+      internalID: -1093221011757514218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_25
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 0
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6d07e048b6bc4b0800000000000000
+      internalID: -5419119511688128772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_26
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 0
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a85651cd5673edc0800000000000000
+      internalID: -3610912331173308249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_27
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 0
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915e5d40032cb0e90800000000000000
+      internalID: -7058334479477775079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_28
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 0
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8399bfddedd7ace0800000000000000
+      internalID: -1393901545917410422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_29
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 0
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db216796cca256f0800000000000000
+      internalID: -697305023345775663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_30
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 0
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f52cf5305e79fee0800000000000000
+      internalID: -1226810540513548815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_31
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 0
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f4b039e7c736bf0800000000000000
+      internalID: -332285064420569225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_32
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 0
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df21cbaf6631d3850800000000000000
+      internalID: 6358259581931229949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecilia_boss_grab_defeat_33
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 0
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6877c4dd29a8c90800000000000000
+      internalID: -7166754377838393623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cecilia_boss_grab_defeat_0: 1055146516796880949
+      cecilia_boss_grab_defeat_1: 4578927464667648604
+      cecilia_boss_grab_defeat_10: -2767175311404259492
+      cecilia_boss_grab_defeat_11: -7793031737827475671
+      cecilia_boss_grab_defeat_12: 2012532811192198230
+      cecilia_boss_grab_defeat_13: 5646570474725072322
+      cecilia_boss_grab_defeat_14: -8634494133181291534
+      cecilia_boss_grab_defeat_15: -737781123280611155
+      cecilia_boss_grab_defeat_16: -804360210421629181
+      cecilia_boss_grab_defeat_17: -1200934714214306686
+      cecilia_boss_grab_defeat_18: -5699127028153685485
+      cecilia_boss_grab_defeat_19: -4722770856821915089
+      cecilia_boss_grab_defeat_2: 9113434830024876013
+      cecilia_boss_grab_defeat_20: 108279066789151150
+      cecilia_boss_grab_defeat_21: -728560362014031964
+      cecilia_boss_grab_defeat_22: 7722936125921192880
+      cecilia_boss_grab_defeat_23: -7117901085057154383
+      cecilia_boss_grab_defeat_24: -1093221011757514218
+      cecilia_boss_grab_defeat_25: -5419119511688128772
+      cecilia_boss_grab_defeat_26: -3610912331173308249
+      cecilia_boss_grab_defeat_27: -7058334479477775079
+      cecilia_boss_grab_defeat_28: -1393901545917410422
+      cecilia_boss_grab_defeat_29: -697305023345775663
+      cecilia_boss_grab_defeat_3: 767750813480804334
+      cecilia_boss_grab_defeat_30: -1226810540513548815
+      cecilia_boss_grab_defeat_31: -332285064420569225
+      cecilia_boss_grab_defeat_32: 6358259581931229949
+      cecilia_boss_grab_defeat_33: -7166754377838393623
+      cecilia_boss_grab_defeat_4: -8808317495727669319
+      cecilia_boss_grab_defeat_5: 4582687221092006483
+      cecilia_boss_grab_defeat_6: -6053453623301576105
+      cecilia_boss_grab_defeat_7: -5239888356340808484
+      cecilia_boss_grab_defeat_8: 3196411485091830529
+      cecilia_boss_grab_defeat_9: 6174636183481514810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

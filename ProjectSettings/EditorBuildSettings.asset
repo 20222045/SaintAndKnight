@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SaintKnightDay26/Scenes/Title.unity
+    guid: 70cb35fac917a5b45a34cd9c1e83f365
+  - enabled: 1
+    path: Assets/SaintKnightLobby/Scenes/Lobby_Sanctuary.unity
+    guid: 76b8e25b62c405543a5574b0b365a3cd
+  - enabled: 1
+    path: Assets/SaintKnightDay09/Scenes/Day09_Stage1.unity
+    guid: e72c582e5cea1fe45a5ba3fdce4e8054
+  - enabled: 1
+    path: Assets/SaintKnightDay09/Scenes/Day09_BossChapel.unity
+    guid: 447589f01dbae354e80fee7f6df06c4b
+  - enabled: 1
+    path: Assets/SaintKnightDay08/Scenes/Day08_Scrolling.unity
+    guid: fd7402eef47b42529a387335e2bd8bc4
+  - enabled: 1
+    path: Assets/SaintKnightDay04/Scenes/Day05_EnemyPatterns.unity
+    guid: a54544cc0dd3f52479ef76688216ebf0
+  - enabled: 1
+    path: Assets/SaintKnightDay04/Scenes/Day04_EnemyPatrol.unity
+    guid: c37a765e291a56d479b052ac2b7ad4d8
+  - enabled: 1
+    path: Assets/SaintKnightDay02/Scenes/Day02_CombatTraining.unity
+    guid: eebd2b71de98ef445af36dcbf56c3939
+  - enabled: 1
+    path: Assets/SaintKnightDay01/Scenes/Day01_Prototype.unity
+    guid: fc359c174ed485d4792061509ee594c6
+  - enabled: 1
+    path: Assets/SaintKnightLobby/Scenes/Village.unity
+    guid: 5ea59353e4fe7cd46b9fec522f828033
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

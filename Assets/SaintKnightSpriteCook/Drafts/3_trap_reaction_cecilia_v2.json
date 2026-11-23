@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "character": "cecilia",
+  "frameWidth": 128,
+  "frameHeight": 96,
+  "columns": 3,
+  "rows": 3,
+  "usedFrames": 9,
+  "ppu": 48,
+  "pivotX": 0.5,
+  "pivotY": 0.26625,
+  "groundPixelY": 92,
+  "standingHeight": 55,
+  "footLiftPixels": [
+    2,
+    5,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "clips": {
+    "SpikeHurt": [
+      0,
+      1,
+      2
+    ],
+    "SlimeWalk": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "SlimeIdle": [
+      7,
+      8
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+ "ppu": 48,
+ "width": 2560,
+ "height": 360,
+ "solids": [
+  {
+   "name": "Ground_West",
+   "x0": 0,
+   "y0": 310,
+   "x1": 1360,
+   "y1": 360
+  },
+  {
+   "name": "Stair_Step",
+   "x0": 1360,
+   "y0": 280,
+   "x1": 1500,
+   "y1": 360
+  },
+  {
+   "name": "Stair_Upper",
+   "x0": 1500,
+   "y0": 250,
+   "x1": 1760,
+   "y1": 360
+  },
+  {
+   "name": "Low_Ceiling",
+   "x0": 1440,
+   "y0": 0,
+   "x1": 1800,
+   "y1": 170
+  },
+  {
+   "name": "Ground_East",
+   "x0": 1760,
+   "y0": 310,
+   "x1": 2560,
+   "y1": 360
+  }
+ ],
+ "spawn": [
+  120,
+  310
+ ],
+ "enemies": [
+  {
+   "name": "Enemy_A1_Monk",
+   "kind": "A",
+   "x": 470,
+   "floor": 310
+  },
+  {
+   "name": "Enemy_B1_Executioner",
+   "kind": "B",
+   "x": 1000,
+   "floor": 310
+  },
+  {
+   "name": "Enemy_A2_Monk",
+   "kind": "A",
+   "x": 1630,
+   "floor": 250
+  },
+  {
+   "name": "Enemy_A3_Monk",
+   "kind": "A",
+   "x": 2150,
+   "floor": 310
+  },
+  {
+   "name": "Enemy_B2_Executioner",
+   "kind": "B",
+   "x": 2380,
+   "floor": 310
+  }
+ ],
+ "trapDay10": [
+  1120,
+  1300
+ ],
+ "doorDay11": 2500
+}

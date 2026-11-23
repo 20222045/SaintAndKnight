@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "frameWidth": 128,
+  "frameHeight": 96,
+  "columns": 3,
+  "rows": 1,
+  "usedFrames": 3,
+  "ppu": 48,
+  "pivotX": 0.5,
+  "pivotY": 0.5,
+  "components": [
+    "glass",
+    "cecilia_ornament",
+    "adela_ornament"
+  ],
+  "commonCenter": [
+    64,
+    49
+  ],
+  "glassDiameter": 40,
+  "apertureDiameter": 44,
+  "overlapPixels": 0
+}

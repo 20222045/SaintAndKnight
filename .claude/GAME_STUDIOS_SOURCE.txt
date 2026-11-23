@@ -1,0 +1,1 @@
+Claude Code Game Studios (github.com/Donchitos/Claude-Code-Game-Studios @ abc0de7, MIT). 스킬·에이전트만 복사, 훅은 등록하지 않음(settings.json·rules·statusline·CLAUDE.md 제외).

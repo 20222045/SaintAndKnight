@@ -1,0 +1,22 @@
+[
+  {
+    "asset_id": "2d6860c3-59c0-45f6-b493-2d93eecd434f",
+    "sha12": "f87dcdf742cc",
+    "label": "adela_motion canonical atlas (verified pixels)"
+  },
+  {
+    "asset_id": "8742f526-a4fe-47bb-b9ab-cd43a15c2218",
+    "sha12": "9ab32982cb56",
+    "label": "cecilia_motion canonical atlas (verified pixels)"
+  },
+  {
+    "asset_id": "4123e049-82e3-4ae5-99bf-9856c59ea5cc",
+    "sha12": "5c104bfb7588",
+    "label": "4_enemy_death_adela_v2 - Nano Banana Pro 1K raw"
+  },
+  {
+    "asset_id": "2d92070c-6a58-4ca6-a12f-f94cd8aa3f29",
+    "sha12": "e3dc30c87ead",
+    "label": "REJECTED design drift - Cecilia v2; do not reuse as identity reference"
+  }
+]

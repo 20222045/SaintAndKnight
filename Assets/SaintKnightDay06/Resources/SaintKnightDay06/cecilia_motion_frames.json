@@ -1,0 +1,19 @@
+{
+  "clips": [
+    {"motion":"Idle","frames":[{"cell":0,"ms":360}, {"cell":1,"ms":210}, {"cell":2,"ms":240}, {"cell":3,"ms":270}]},
+    {"motion":"Run","frames":[{"cell":4,"ms":34}, {"cell":5,"ms":35}, {"cell":6,"ms":34}, {"cell":7,"ms":34}, {"cell":8,"ms":35}, {"cell":9,"ms":34}, {"cell":10,"ms":34}, {"cell":11,"ms":35}, {"cell":12,"ms":34}, {"cell":13,"ms":34}, {"cell":14,"ms":35}, {"cell":15,"ms":34}]},
+    {"motion":"Windup","frames":[{"cell":16,"ms":20}, {"cell":17,"ms":22}, {"cell":18,"ms":18}]},
+    {"motion":"Attack","frames":[{"cell":19,"ms":55}, {"cell":20,"ms":55}, {"cell":21,"ms":50}]},
+    {"motion":"FollowThrough","frames":[{"cell":22,"ms":31}, {"cell":23,"ms":27}, {"cell":24,"ms":20}, {"cell":25,"ms":22}]},
+    {"motion":"Hurt","frames":[{"cell":26,"ms":24}, {"cell":27,"ms":47}, {"cell":28,"ms":29}, {"cell":29,"ms":34}, {"cell":30,"ms":26}]},
+    {"motion":"Jump","frames":[{"cell":31,"ms":63}, {"cell":32,"ms":73}, {"cell":33,"ms":81}, {"cell":34,"ms":100}, {"cell":35,"ms":100}, {"cell":36,"ms":81}, {"cell":37,"ms":79}, {"cell":38,"ms":73}]},
+    {"motion":"Pounced","frames":[{"cell":43,"ms":34}, {"cell":44,"ms":46}, {"cell":45,"ms":53}, {"cell":46,"ms":53}, {"cell":47,"ms":55}, {"cell":48,"ms":63}, {"cell":49,"ms":76}]},
+    {"motion":"Held","frames":[{"cell":39,"ms":170}, {"cell":40,"ms":140}, {"cell":41,"ms":150}, {"cell":42,"ms":140}]},
+    {"motion":"Resist","frames":[{"cell":50,"ms":74}, {"cell":51,"ms":59}, {"cell":52,"ms":58}, {"cell":53,"ms":57}, {"cell":54,"ms":62}, {"cell":55,"ms":68}, {"cell":56,"ms":58}, {"cell":57,"ms":59}, {"cell":58,"ms":64}]},
+    {"motion":"Escape","frames":[{"cell":59,"ms":38}, {"cell":60,"ms":44}, {"cell":61,"ms":48}, {"cell":62,"ms":52}, {"cell":63,"ms":46}, {"cell":64,"ms":55}, {"cell":65,"ms":65}, {"cell":66,"ms":74}, {"cell":67,"ms":90}]},
+    {"motion": "Crouch", "frames": [{"cell": 31, "ms": 200}]},
+    {"motion":"SpikeHurt","frames":[{"cell":72,"ms":40}, {"cell":73,"ms":70}, {"cell":74,"ms":50}]},
+    {"motion":"SlimeWalk","frames":[{"cell":75,"ms":120}, {"cell":76,"ms":120}, {"cell":77,"ms":120}, {"cell":78,"ms":120}]},
+    {"motion":"SlimeIdle","frames":[{"cell":79,"ms":320}, {"cell":80,"ms":320}]}
+  ]
+}

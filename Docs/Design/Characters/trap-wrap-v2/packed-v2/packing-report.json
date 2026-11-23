@@ -1,0 +1,436 @@
+{
+  "operation": "Nearest-neighbor resampling and cell packing; no painted or generated pixels",
+  "source_sheet": "C:\\UnityProject\\SaintAndKnight\\Docs\\Design\\Characters\\trap-wrap-v2\\full_body_wrap_concept.png",
+  "source_sha256": "DD73E4FCD39C8E1058ADA831CC1200DB8D79A9AB3B915EE1088F6D3D74ED0B0D",
+  "tentacle_sheet": "C:\\UnityProject\\SaintAndKnight\\Docs\\Design\\Characters\\trap-wrap-v2\\tentacle_struggle_sheet.png",
+  "tentacle_sha256": "83AD20FAFBAE13F3829B8D8584134A85E86BAE2C90B68C145FFA53EC41DE5D82",
+  "tentacle_fallback": false,
+  "normalization": "One common scale per character per source sheet; pose proportions within a sheet stay unchanged",
+  "input_atlases": [
+    {
+      "path": "C:\\UnityProject\\SaintAndKnight\\Assets\\SaintKnightDay06\\Resources\\SaintKnightDay06\\cecilia_motion.png",
+      "sha256": "9AB32982CB56643CB50640591DFBC0C364987B4C566C83D54B63CA00A1D57935"
+    },
+    {
+      "path": "C:\\UnityProject\\SaintAndKnight\\Assets\\SaintKnightDay06\\Resources\\SaintKnightDay06\\adela_motion.png",
+      "sha256": "F87DCDF742CC4CAAF4404B4684853885BC976CBFEA5F50A8E5784A11EB036BAA"
+    }
+  ],
+  "alpha_threshold": 128,
+  "ground_last_pixel_y": 93,
+  "atlas_metadata_files_modified": false,
+  "characters": [
+    {
+      "Character": "cecilia",
+      "AtlasWidth": 1536,
+      "AtlasHeight": 672,
+      "MaximumSourceHeight": 437,
+      "MaximumSourceWidth": 458,
+      "TargetMaximumHeight": 55,
+      "SlimeScale": 0.14864864864864866,
+      "TentacleScale": 0.12585812356979406,
+      "SlimeMaximumSourceHeight": 370,
+      "SlimeMaximumSourceWidth": 458,
+      "TentacleMaximumSourceHeight": 437,
+      "TentacleMaximumSourceWidth": 426,
+      "PreservedPixelsVerified": 921600,
+      "ChangedCells": 9,
+      "SemiTransparentReplacementPixels": 0,
+      "Frames": [
+        {
+          "Cell": 72,
+          "SourceRow": 0,
+          "SourceColumn": 0,
+          "Scale": 0.12585812356979406,
+          "Motion": "SpikeHurt",
+          "Source": "tentacle_struggle_sheet.png",
+          "SourceBounds": {
+            "X": 73,
+            "Y": 91,
+            "Width": 409,
+            "Height": 400
+          },
+          "DestinationBounds": {
+            "X": 39,
+            "Y": 44,
+            "Width": 51,
+            "Height": 50
+          }
+        },
+        {
+          "Cell": 73,
+          "SourceRow": 0,
+          "SourceColumn": 1,
+          "Scale": 0.12585812356979406,
+          "Motion": "SpikeHurt",
+          "Source": "tentacle_struggle_sheet.png",
+          "SourceBounds": {
+            "X": 555,
+            "Y": 53,
+            "Width": 426,
+            "Height": 437
+          },
+          "DestinationBounds": {
+            "X": 37,
+            "Y": 39,
+            "Width": 54,
+            "Height": 55
+          }
+        },
+        {
+          "Cell": 74,
+          "SourceRow": 0,
+          "SourceColumn": 2,
+          "Scale": 0.12585812356979406,
+          "Motion": "SpikeHurt",
+          "Source": "tentacle_struggle_sheet.png",
+          "SourceBounds": {
+            "X": 1044,
+            "Y": 104,
+            "Width": 423,
+            "Height": 387
+          },
+          "DestinationBounds": {
+            "X": 38,
+            "Y": 45,
+            "Width": 53,
+            "Height": 49
+          }
+        },
+        {
+          "Cell": 75,
+          "SourceRow": 0,
+          "SourceColumn": 0,
+          "Scale": 0.14864864864864866,
+          "Motion": "SlimeWalk",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 132,
+            "Y": 45,
+            "Width": 369,
+            "Height": 370
+          },
+          "DestinationBounds": {
+            "X": 37,
+            "Y": 39,
+            "Width": 55,
+            "Height": 55
+          }
+        },
+        {
+          "Cell": 76,
+          "SourceRow": 0,
+          "SourceColumn": 1,
+          "Scale": 0.14864864864864866,
+          "Motion": "SlimeWalk",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 639,
+            "Y": 95,
+            "Width": 458,
+            "Height": 319
+          },
+          "DestinationBounds": {
+            "X": 30,
+            "Y": 47,
+            "Width": 68,
+            "Height": 47
+          }
+        },
+        {
+          "Cell": 77,
+          "SourceRow": 0,
+          "SourceColumn": 0,
+          "Scale": 0.14864864864864866,
+          "Motion": "SlimeWalk",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 132,
+            "Y": 45,
+            "Width": 369,
+            "Height": 370
+          },
+          "DestinationBounds": {
+            "X": 37,
+            "Y": 39,
+            "Width": 55,
+            "Height": 55
+          }
+        },
+        {
+          "Cell": 78,
+          "SourceRow": 0,
+          "SourceColumn": 1,
+          "Scale": 0.14864864864864866,
+          "Motion": "SlimeWalk",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 639,
+            "Y": 95,
+            "Width": 458,
+            "Height": 319
+          },
+          "DestinationBounds": {
+            "X": 30,
+            "Y": 47,
+            "Width": 68,
+            "Height": 47
+          }
+        },
+        {
+          "Cell": 79,
+          "SourceRow": 0,
+          "SourceColumn": 0,
+          "Scale": 0.14864864864864866,
+          "Motion": "SlimeIdle",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 132,
+            "Y": 45,
+            "Width": 369,
+            "Height": 370
+          },
+          "DestinationBounds": {
+            "X": 37,
+            "Y": 39,
+            "Width": 55,
+            "Height": 55
+          }
+        },
+        {
+          "Cell": 80,
+          "SourceRow": 0,
+          "SourceColumn": 1,
+          "Scale": 0.14864864864864866,
+          "Motion": "SlimeIdle",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 639,
+            "Y": 95,
+            "Width": 458,
+            "Height": 319
+          },
+          "DestinationBounds": {
+            "X": 30,
+            "Y": 47,
+            "Width": 68,
+            "Height": 47
+          }
+        }
+      ]
+    },
+    {
+      "Character": "adela",
+      "AtlasWidth": 1536,
+      "AtlasHeight": 768,
+      "MaximumSourceHeight": 453,
+      "MaximumSourceWidth": 455,
+      "TargetMaximumHeight": 62,
+      "SlimeScale": 0.16847826086956522,
+      "TentacleScale": 0.1368653421633554,
+      "SlimeMaximumSourceHeight": 368,
+      "SlimeMaximumSourceWidth": 455,
+      "TentacleMaximumSourceHeight": 453,
+      "TentacleMaximumSourceWidth": 440,
+      "PreservedPixelsVerified": 1069056,
+      "ChangedCells": 9,
+      "SemiTransparentReplacementPixels": 0,
+      "Frames": [
+        {
+          "Cell": 84,
+          "SourceRow": 1,
+          "SourceColumn": 0,
+          "Scale": 0.1368653421633554,
+          "Motion": "SpikeHurt",
+          "Source": "tentacle_struggle_sheet.png",
+          "SourceBounds": {
+            "X": 63,
+            "Y": 584,
+            "Width": 412,
+            "Height": 399
+          },
+          "DestinationBounds": {
+            "X": 36,
+            "Y": 39,
+            "Width": 56,
+            "Height": 55
+          }
+        },
+        {
+          "Cell": 85,
+          "SourceRow": 1,
+          "SourceColumn": 1,
+          "Scale": 0.1368653421633554,
+          "Motion": "SpikeHurt",
+          "Source": "tentacle_struggle_sheet.png",
+          "SourceBounds": {
+            "X": 533,
+            "Y": 531,
+            "Width": 435,
+            "Height": 453
+          },
+          "DestinationBounds": {
+            "X": 34,
+            "Y": 32,
+            "Width": 60,
+            "Height": 62
+          }
+        },
+        {
+          "Cell": 86,
+          "SourceRow": 1,
+          "SourceColumn": 2,
+          "Scale": 0.1368653421633554,
+          "Motion": "SpikeHurt",
+          "Source": "tentacle_struggle_sheet.png",
+          "SourceBounds": {
+            "X": 1032,
+            "Y": 587,
+            "Width": 440,
+            "Height": 395
+          },
+          "DestinationBounds": {
+            "X": 34,
+            "Y": 40,
+            "Width": 60,
+            "Height": 54
+          }
+        },
+        {
+          "Cell": 87,
+          "SourceRow": 1,
+          "SourceColumn": 0,
+          "Scale": 0.16847826086956522,
+          "Motion": "SlimeWalk",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 106,
+            "Y": 484,
+            "Width": 399,
+            "Height": 368
+          },
+          "DestinationBounds": {
+            "X": 31,
+            "Y": 32,
+            "Width": 67,
+            "Height": 62
+          }
+        },
+        {
+          "Cell": 88,
+          "SourceRow": 1,
+          "SourceColumn": 1,
+          "Scale": 0.16847826086956522,
+          "Motion": "SlimeWalk",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 629,
+            "Y": 522,
+            "Width": 455,
+            "Height": 332
+          },
+          "DestinationBounds": {
+            "X": 26,
+            "Y": 38,
+            "Width": 77,
+            "Height": 56
+          }
+        },
+        {
+          "Cell": 89,
+          "SourceRow": 1,
+          "SourceColumn": 0,
+          "Scale": 0.16847826086956522,
+          "Motion": "SlimeWalk",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 106,
+            "Y": 484,
+            "Width": 399,
+            "Height": 368
+          },
+          "DestinationBounds": {
+            "X": 31,
+            "Y": 32,
+            "Width": 67,
+            "Height": 62
+          }
+        },
+        {
+          "Cell": 90,
+          "SourceRow": 1,
+          "SourceColumn": 1,
+          "Scale": 0.16847826086956522,
+          "Motion": "SlimeWalk",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 629,
+            "Y": 522,
+            "Width": 455,
+            "Height": 332
+          },
+          "DestinationBounds": {
+            "X": 26,
+            "Y": 38,
+            "Width": 77,
+            "Height": 56
+          }
+        },
+        {
+          "Cell": 91,
+          "SourceRow": 1,
+          "SourceColumn": 0,
+          "Scale": 0.16847826086956522,
+          "Motion": "SlimeIdle",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 106,
+            "Y": 484,
+            "Width": 399,
+            "Height": 368
+          },
+          "DestinationBounds": {
+            "X": 31,
+            "Y": 32,
+            "Width": 67,
+            "Height": 62
+          }
+        },
+        {
+          "Cell": 92,
+          "SourceRow": 1,
+          "SourceColumn": 1,
+          "Scale": 0.16847826086956522,
+          "Motion": "SlimeIdle",
+          "Source": "full_body_wrap_concept.png",
+          "SourceBounds": {
+            "X": 629,
+            "Y": 522,
+            "Width": 455,
+            "Height": 332
+          },
+          "DestinationBounds": {
+            "X": 26,
+            "Y": 38,
+            "Width": 77,
+            "Height": 56
+          }
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "name": "cecilia_motion.png",
+      "sha256": "AA9E2AC9865E9D2D4EE7DB5CF2B5217FEA5E552206E7306A42A7B0437C68D24C"
+    },
+    {
+      "name": "adela_motion.png",
+      "sha256": "ED4C1FA6CB1824FD57638AF45167057F374296EC98177CAF34FB0FB1A5E66A9C"
+    },
+    {
+      "name": "trap_reactions_preview.png",
+      "sha256": "A1AB3801797441E05838B34A6390EF283CEDE04C07E78B550ADEFF568C108D70"
+    }
+  ]
+}

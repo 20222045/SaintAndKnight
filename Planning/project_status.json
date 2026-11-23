@@ -1,0 +1,578 @@
+{
+  "project": "SaintAndKnight",
+  "village_wide_20261122": {
+    "status": "done",
+    "summary": "마을 거리 기존 그림 좌우를 NovelAI 인페인트로 늘림(640→1260px, 옛 그림 x=310 그대로, SKHorizontalCamera 따라감)",
+    "tests": "Play Mode 199 통과/실패 0 (전체 225, Explicit 26) Logs/VillageWide20261122/Full2/",
+    "not_done": "직접 플레이"
+  },
+  "shops_walk_20261122": {
+    "date": "2026-11-22",
+    "result": "Docs/Design/NEXT_TODO_20261122.md",
+    "playmode": 199,
+    "failed": 0,
+    "total": 225,
+    "explicit": 26,
+    "log": "Logs/Shops20261122/Spring/",
+    "novelai_pending": 7
+  },
+  "boss_grab_2d_20261119": {
+    "date": "2026-11-20",
+    "result": "Docs/Design/DeathScenes-20261117/BossReference/CLAUDE_2D_HANDOFF.md",
+    "key_drawings": 8,
+    "playmode": 198,
+    "failed": 0,
+    "graphics": 17
+  },
+  "village_20261119": {
+    "date": "2026-11-19",
+    "status": "applied_verified_captured",
+    "result": "Planning/CHANGELOG.md (2026-11-19 마을)",
+    "scene": "Assets/SaintKnightLobby/Scenes/Village.unity",
+    "changes": "boss clear exit -> Village; hot spring and salon moved from lobby to village; NovelAI street pixelized; SKVillageSky day cycle (8 min); pixelfx chimney smoke x6",
+    "playmode": "Logs/Village/Full3/playmode-results.xml: 198 passed/224 total/26 explicit/0 failed",
+    "captures": "Logs/Village/Screens/",
+    "not_done": [
+      "manual review",
+      "build",
+      "final village art review by user"
+    ]
+  },
+  "boss_character_poses_20261119": {
+    "date": "2026-11-19",
+    "status": "applied_verified_captured_built",
+    "result": "Docs/Design/DeathScenes-20261117/BossReference/CharacterPoses/README.md",
+    "character_poses": 14,
+    "frames": 280,
+    "playmode": 191,
+    "graphics": 16,
+    "validation": "Logs/BossCharacters20261119"
+  },
+  "boss_reference_deaths_20261118": {
+    "date": "2026-11-19",
+    "status": "applied_verified_captured_built",
+    "result": "Docs/Design/DeathScenes-20261117/BossReference/RESULT.md",
+    "changes": "2 characters x (3 fatal patterns + 4 ordered common endings); 14 sheets, 280 frames; 4-second boss grab with world tether",
+    "playmode": 185,
+    "graphics": 16,
+    "validation": "Logs/BossReference20261118/"
+  },
+  "corridor_3d_preview_20261119": {
+    "status": "preview_auto_verified_captured",
+    "date": "2026-11-19",
+    "scene": "Assets/SaintKnightDay09/Scenes/Corridor3DPreview.unity",
+    "scope": "One real-time rendered stone arch and two piers in an isolated corridor scene. Original walk, sprites and 2D terrain used for paired comparison.",
+    "full_results": "Logs/Corridor3D/full-regression.xml (191 passed, 213 total, 22 explicit, 0 failed)",
+    "graphics_results": "Logs/Corridor3D/graphics-final.xml (1/1, 32 paired frames, maximum permitted contour difference 3 pixels per shifted frame pair)",
+    "doc": "Docs/Design/Stage/CORRIDOR_3D_PREVIEW.md"
+  },
+  "story_title_prologue_20261119": {
+    "status": "applied_auto_verified_captured",
+    "date": "2026-11-19",
+    "doc": "Docs/Design/STORY.md",
+    "scope": "Story option A (church sacrifice ritual). Pixel title: 640x360 altar scene at exact 2x (chapel + Madonna v4 + broken chains + both heroines' in-game idle cells), prologue on black, chain-snap flash, blood-tear drops, embers on the pixel grid, logo above the rose window with a broken-link mark, menu column right of the Madonna",
+    "full_results": "Logs/Story/PixelFull/playmode-results.xml: 186 passed/206 total/20 explicit/0 failed",
+    "graphics_results": "Logs/Story/PixelTitle: TitleSceneIsFirst + CaptureNewScreens 2/2; Logs/Day17_30/Screens/0_title_prologue, 0b_title_snap, 1_title, 1b_title_menu checked",
+    "not_done": "Adela title illustration (none exists); manual review; build; sound",
+    "art": "Assets/SaintKnightDay26/Resources/SaintKnightDay26/title_scene.png from Docs/Design/Title/make_title_scene.py (existing art only, no generation credits)"
+  },
+  "stage_defeat_reference_20261118": {
+    "status": "applied_auto_verified_captured_built",
+    "date": "2026-11-18",
+    "doc": "Docs/Design/DeathScenes-20261117/StageRevision/RESULT_20261118.md",
+    "scope": "Both characters x4 remaining scenes: monk upper-arm hold, executioner sideways fold, floor vertical swallow, wall horizontal swallow; completed boss and ordinary slime unchanged",
+    "art": "Original full-body native atlas plus enemy arms/hands, grounded dropped gear; 8 revised sheets/144 cells; total26/468",
+    "source_proof": "41 original PNG and25 protected boss/slime PNG hashes unchanged;13 current source paths/hashes verified; no generated character guides",
+    "contacts": "144 stage frames;82 held frames/164 contacts; max gap0.00px",
+    "full_results": "Logs/EnemyDefeat20261118/final-full.xml: 185 passed/204 total/19 explicit/0 failed",
+    "graphics_results": "Logs/EnemyDefeat20261118/final-graphics.xml: 16/16",
+    "captures": "New12 cases/216 motion/36 full; complete32 cases/576 motion/96 full",
+    "previews": [
+      "Docs/Design/DeathScenes-20261117/StageRevision/stage-enemies.gif",
+      "Docs/Design/DeathScenes-20261117/StageRevision/stage-traps.gif"
+    ],
+    "build": "Builds/Win64_NativeDefeat/SaintAndKnight.exe; final-build.log exit0; hidden15s smoke",
+    "not_done": "Windowed manual feel review; quantified95 percent reference match"
+  },
+  "boss_delivery_20261118": {
+    "status": "applied_auto_verified_captured_built",
+    "date": "2026-11-18",
+    "doc": "Docs/Design/DeathScenes-20261117/BossRevision/CARRY_RESULT_20261118.md",
+    "scope": "Original native kneeling figure carried to actual boss; visual layers only; three contact tendrils; stationary dropped gear",
+    "source_proof": "41 original PNG SHA256 unchanged; 36 current inputs; zero generated character guides",
+    "full_results": "Logs/BossCarry20261118/final-full.xml: 182 passed/201 total/19 explicit/0 failed",
+    "graphics_results": "Logs/BossCarry20261118/final-graphics.xml: 13/13",
+    "captures": "4 delivery cases/192 motion/16 full +32 existing cases/576 motion/96 full",
+    "preview": "Docs/Design/DeathScenes-20261117/boss-delivery.gif",
+    "build": "Builds/Win64_NativeDefeat/SaintAndKnight.exe; final-build.log exit0; hidden15s smoke",
+    "not_done": "Windowed manual feel review; quantified 95 percent reference match"
+  },
+  "native_contact_reference_20261118": {
+    "status": "applied_auto_verified_captured_built",
+    "date": "2026-11-18",
+    "doc": "Docs/Design/DeathScenes-20261117/BossRevision/CONTACT_RESULT_20261118.md",
+    "scope": "26 sheets/468 cells; six common keys share latest reference kneeling pose with minor phase variants",
+    "character_art": "original Day06 full sprites, native arm/equipment parts; generated pose guides excluded",
+    "source_proof": "35 original sources unchanged; generated character source count0",
+    "contacts": "160 loop frames, two characters x8 holds x10 cells; upper arms/wrists compared against actual vine and actor raster",
+    "full_results": "Logs/TentacleFit20261118/final-full.xml: 180 passed/198 total/18 explicit/0 failed",
+    "graphics_results": "Logs/TentacleFit20261118/finish-graphics.xml: 10/10",
+    "screens": "Logs/TentacleFit20261118/Screens/index.csv:32 cases/96 full/576 motion",
+    "preview": "Docs/Design/DeathScenes-20261117/boss-common-kneeling.gif",
+    "build": "Builds/Win64_NativeDefeat/SaintAndKnight.exe; finish-build.log exit0; 15s hidden smoke",
+    "not_done": "Windowed manual feel review; quantified 95 percent reference match"
+  },
+  "boss_defeat_revision_20261117": {
+    "status": "applied_auto_verified_captured_built",
+    "date": "2026-11-17",
+    "doc": "Docs/Design/DeathScenes-20261117/BossRevision/RESULT.md",
+    "scope": "2 characters x13 scenes;26 sheets/468 frames;boss3 patterns+6 common scenes; ordinary slime and sweep retained",
+    "identity": "Original PNGs unchanged; native height and Idle palette, original head pixels; AI-assisted pose guide sources retained separately",
+    "full_results": "Logs/BossRevision20261117/full-final.xml: 178 passed/196 total/18 explicit/0 failed",
+    "graphics_results": "Logs/BossRevision20261117/graphics-display-final.xml:8/8;26 death+6 live capture cases",
+    "screens": "Logs/BossRevision20261117/Screens/index.csv:96 full screens/576 motion crops",
+    "preview": "Docs/Design/DeathScenes-20261117/actual-game-preview.gif",
+    "prompts": "Docs/Design/DeathScenes-20261117/BossRevision/POSE_PROMPTS.md",
+    "build": "Builds/Win64_NativeDefeat/SaintAndKnight.exe; build-final.log exit0; alive_after_15_seconds",
+    "not_done": "Windowed manual input/feel review; quantified reference-match percentage"
+  },
+  "native_defeat_20261117": {
+    "status": "applied_auto_verified_captured_built",
+    "date": "2026-11-17",
+    "doc": "Docs/Design/DeathScenes-20261117/DESIGN.md",
+    "resources": "Assets/SaintKnightSpriteCook/Resources/SaintKnightSpriteCook/DefeatMotion/",
+    "scope": "2 characters x 12 scenes; 24 sheets, 432 cells; ordinary slime and boss sweep retained",
+    "method": "Existing game poses/materials copied without character repaint, scaling or recolouring; no quantified 90 percent motion-match claim",
+    "full_results": "Logs/NativeDefeat20261117/full-final.xml: 180 passed, 197 total, 17 explicit, 0 failed",
+    "graphics_results": "Logs/NativeDefeat20261117/graphics-final.xml: 8/8; 24 defeat and 6 live capture cases",
+    "screens": "Logs/NativeDefeat20261117/Screens/index.csv: 90 full screens and 540 motion crops",
+    "preview": "Docs/Design/DeathScenes-20261117/actual-game-preview.gif",
+    "prompts": "Docs/Design/DeathScenes-20261117/MOTION_PROMPTS.md",
+    "build": "Builds/Win64_NativeDefeat/SaintAndKnight.exe; build2.log exit 0; player-smoke.log alive 15s, no startup exceptions",
+    "not_done": "Windowed manual feel review; bespoke new joint poses beyond existing game poses"
+  },
+  "agent_entrypoint": "CLAUDE.md",
+  "implementation_handoff": "Docs/CLAUDE_HANDOFF.md",
+  "as_of": "2026-11-17",
+  "timezone": "Asia/Seoul",
+  "unity": "6000.0.81f1",
+  "completed_day": 30,
+  "completion_note": "Day 15: HP regeneration, unresisted trap holds drain HP to 0 (consumed = game over), per-cause game-over screen with cutscene slot, per-character HP orb; full Play Mode 146/146; cutscene art and manual review pending",
+  "next_day": 16,
+  "current_implementation": "dedicated_trap_motion_native_composites",
+  "reference_application": "Docs/REFERENCE_APPLY.md",
+  "next_task": "Art and sound pending (user): death scenes/HUD art, gallery 3D illustrations, Day 19 audio; manual feel review on Builds/Win64_Day30",
+  "days17_30": {
+    "status": "implemented_auto_verified_built_art_audio_manual_pending",
+    "date": "2026-11-16",
+    "doc": "Docs/DAY17_30.md",
+    "full_results": "Logs/UiRestyle/full/playmode-results.xml (165/165, 179 total, 14 explicit, exit 0) after the 2026-11-16 UI restyle (play-field shadow, new Esc panel style, new title screen; screens Logs/UiRestyle/Screens)",
+    "probe": "Logs/Day17_30/Probe (4/4)",
+    "build": "Builds/Win64_Day30/SaintAndKnight.exe; Logs/Day30/build.log; batch launch 15s",
+    "git": "main; repository is 15+ only (see .gitignore, README.md)",
+    "not_done": "Day 19 audio, art, windowed/manual feel review"
+  },
+  "death_scenes": {
+    "status": "native_24_scenes_applied_auto_verified_captured",
+    "date": "2026-11-17",
+    "doc": "Docs/Design/DeathScenes-20261117/DESIGN.md",
+    "tests": "PlayMode180/180 (Logs/NativeDefeat20261117/full-final.xml); graphics8/8",
+    "not_done": "Windowed manual feel review; bespoke redrawing for closer joint-pose matching"
+  },
+  "spritecook_applied": {
+    "status": "connected_auto_verified_manual_review_pending",
+    "date": "2026-11-13",
+    "doc": "Docs/SPRITECOOK_APPLIED.md",
+    "scope": "trap reactions, monk/executioner/boss death, boss lift/struggle/escape, boss knockdown, boss spit slime sheet, HP orb parts; display only",
+    "full_results": "Logs/SpriteCookApply/Full3/playmode-results.xml (151/151, 164 total, 13 explicit, exit 0; 2026-11-14 after trap-reaction revert and HP 0 defeat-portrait hookup)",
+    "defeat_portraits": "SKDay01HUD shows Resources/SaintKnightDay15/DefeatPortraits/<character>_hud_<cause> at HP 0 when present, else stage 4; art pending (user-made)",
+    "screens": "Logs/SpriteCookApply/Screens (28, graphics batch)",
+    "backup": "Logs/SpriteCookApply/Before",
+    "not_done": "manual feel review, new Windows build, get-up frames after knockdown"
+  },
+  "day16_prework": {
+    "status": "prework_done_adela_art_pending",
+    "date": "2026-11-12",
+    "explicit_tests": "13/13 in graphics batch: Logs/Day16/Explicit1 (11 passed, 2 failed) then Logs/Day16/Explicit2 (2/2 after fixes)",
+    "test_fixes": "TrapConsumptionVisualTests struggle assertion follows the Day 15 rule (pause, no HP restore); PlaytestProbe.FightBots Timeout 600000",
+    "trap_captures": "Logs/TrapDedicatedMotion/Captures/20261112_080308_006_b3da66f8 (138 retaken; only 2 images opened, full image review not done)",
+    "full_results": "Logs/Day16/Full/playmode-results.xml (146/146, 159 total, 13 explicit, exit 0)",
+    "build": "Builds/Win64_Day16/SaintAndKnight.exe; Logs/Day16/Win64/build.log; batch launch 15s",
+    "runtime_scene_art_changes": false,
+    "backup": "Logs/Day16/BeforeCaptures; Logs/Day16/BeforeDocs",
+    "not_done": "Adela HUD illustrations, full review of the new captures, windowed/manual feel review"
+  },
+  "day15": {
+    "status": "implemented_auto_verified_cutscene_art_pending",
+    "date": "2026-11-12",
+    "doc": "Docs/DAY15.md",
+    "decision": "user 2026-11-12: no separate mental stat; collapse is the depiction of HP loss; HP regenerates over time; HP 0 in a trap = consumed = game over with a per-monster cutscene",
+    "regen": "player only in Day09 scenes: 5 HP/s after 3 s unhurt; none while held or dead",
+    "trap_hold": "unresisted: MaximumHp/4 per second, each struggle press pauses 0.35 s; HP 0 consumes; AbsorptionProgress = lost HP fraction (replaces 4 s quiet timer and tick drain)",
+    "game_over_display": "no text; world view dims to 50% black (GameOver_Dim on the world camera), overlay HUD stays lit; user decision 2026-11-12",
+    "art_request": "Docs/Design/ART_REQUEST_DAY15.md; per-cause side HUD image direction only; sexual content left undecided, to be settled in conversation with the user",
+    "game_over": "SKGameOverScreen; keys MONK EXECUTIONER BOSS SLIME TENTACLE FLESHWALL; cutscene sprite at Resources/SaintKnightDay15/DeathCutscenes/<KEY> holds retry until R; no art yet",
+    "hud_orb": "SKDay01HUD HP_ORB per character, blue stage 0 / yellow 1-2 / red 3 / off 4; procedural placeholder art",
+    "tests": "Day15HealthTests 4 new; 7 existing assertions updated; full Play Mode 146/146 (159 total, 13 explicit) Logs/Day15/Full",
+    "not_done": "cutscene art, explicit capture tests, build, manual review; enemy A and boss grabs unchanged"
+  },
+  "trap_late_stage_occlusion": {
+    "status": "applied_auto_verified_manual_review_pending",
+    "date": "2026-11-12",
+    "change": "slime/tentacle dedicated sheets (4 PNG), cells 4,5,14-17 only: at the last two depths the body shows only through real gaps of the trap material",
+    "builder": "Docs/Design/Characters/trap-downscale-claude/builder-clip (patched copy; Codex original untouched)",
+    "tests": "TrapDedicatedAnimationTests 4/4 Logs/TrapClip/Targeted; full Play Mode 142/142 (155 total, 13 explicit) Logs/TrapClip/Full",
+    "before": "Logs/TrapClip/Before",
+    "not_done": "graphics capture, build, manual review"
+  },
+  "trap_consumption": {
+    "status": "implemented_auto_verified_capture_images_reviewed_manual_feel_pending",
+    "date": "2026-11-12",
+    "doc": "Docs/TRAP_CONSUMPTION.md",
+    "request": "Existing pixel characters are enveloped and swallowed by slime and tentacles; a flesh wall completely swallows a player who stops resisting; detailed design delegated after document review",
+    "runtime": "Assets/SaintKnightDay10/Runtime/SKEnvironmentalCapture.cs",
+    "visual": "Dedicated native PNG composites now supply all trap capture motions; initial procedural overlay remains a fallback when resources are absent. See trap_dedicated_motion.",
+    "generated_character_art": "AI character concepts and packed-v2 were not applied to Assets",
+    "slime": {
+      "walk_multiplier": 0.5,
+      "continuous_ground_dwell_seconds": 1.25,
+      "dwell_reset": "leave the pool or jump"
+    },
+    "tentacle": {
+      "capture_trigger": "SKHitbox.HitAccepted after this tentacle's accepted 15 damage; rejected damage never captures",
+      "damage": 15,
+      "existing_tell_and_strike_timing_preserved": true
+    },
+    "environment_capture_rules": {
+      "time_owner": "trap-side SKEnvironmentalCapture; existing SKDay01Player / SKGrabState struggle input preserved",
+      "quiet_absorption_seconds": 4,
+      "quiet_deadline_from": "last valid struggle, or HeldSince if none",
+      "drain_hp": 4,
+      "drain_interval_seconds": 0.75,
+      "struggle_threshold": 6,
+      "struggle_decay_per_second": 2.5,
+      "escape_immunity_seconds": 0.6,
+      "recapture_rest_seconds": 1.5
+    },
+    "flesh_wall": "existing 4 HP / 0.5s drain retained; quiet-time absorption replaces the old timed throw; valid resistance extends the deadline",
+    "consumed_state": "HP 0, grab released, solo player renderer hidden, closed mass held; INCAPACITATED and mental-state separation preserved",
+    "cleanup": "R, automatic retry after 1.6s, disable/reset/recovery; timed pools retain an owned capture past expiry; clear/spawn/disable/destroy releases ownership; overlapping traps cannot own one player twice",
+    "tests": "FleshWallAbsorptionTests (6) + EnvironmentalCaptureTests (7) + Explicit TrapConsumptionVisualTests (1); existing Day14 tests (2) adapted to escape before ordinary-hit verification and wait out hit-stop",
+    "full_results": "Logs/TrapConsumption/Full/playmode-results.xml",
+    "targeted_visual_results": "Logs/TrapConsumption/TargetedVisual/playmode-results.xml (16/16, exit 0)",
+    "final_visual_results": "Logs/TrapConsumption/VisualFinal/playmode-results.xml (1/1, exit 0)",
+    "capture_index": "Logs/TrapConsumption/Captures/20261112_000151/index.md",
+    "capture_images": 18,
+    "capture_image_review": "all 18 reviewed: readable faces/poses, floor/wall anchors, no leftover or duplicate face/body after complete absorption",
+    "asset_preservation": "Logs/TrapConsumption/asset-preservation.json (21 unchanged: original motion PNGs, PNG metas, frame JSONs, existing scenes and related GUID files)",
+    "validation_inputs": "Logs/TrapConsumption/validation-inputs.json (16 source hashes)",
+    "final_docs_backup": "Logs/TrapConsumption/BeforeFinalDocs",
+    "not_done": "manual feel review; new Windows build",
+    "evidence_scope": "The 136-pass results and 18 captures below are historical evidence before dedicated motion sheets."
+  },
+  "day13_damage_stages": {
+    "status": "implemented_auto_verified_manual_review_pending",
+    "date": "2026-11-11~12",
+    "doc": "Docs/DAY13.md",
+    "owner": "SKHealth.DamageStage / DamageStageFor(currentHp, maximumHp)",
+    "thresholds": "HP >75%=0; >50% to75%=1; >25% to50%=2; >0 to25%=3; <=0=4 INCAPACITATED",
+    "policy": "unrounded current HP relative to maximum HP; healing reverses stages; reset returns stage 0; separate from mental state",
+    "consumers": [
+      "SKDay01HUD",
+      "SKCharacterSpriteView"
+    ],
+    "tests": "Day13DamageStageRulesTests (5) + Day13DamageStageTests (3)",
+    "targeted_passed": 8,
+    "targeted_results": "Logs/Day13/TargetedHost/playmode-results.xml",
+    "integrated_results": "Logs/Day14/Full/playmode-results.xml",
+    "boss_test_stabilization": "existing jump-avoidance test now observes ascent, foot height at the strike, attack end and landing; runtime and combat tuning unchanged; passed in the integrated full suite",
+    "backup": "Logs/Day13/Before; Logs/Day13/BeforeLatest; Logs/Day13/BeforeLatest2; Logs/Day13/BeforeLatest3",
+    "inputs": "Logs/Day13/IntegratedValidationInputs.json",
+    "not_done": "manual feel/rendering review; no new capture or Windows build"
+  },
+  "day14_trap_reactions": {
+    "status": "initial_reactions_verified_followed_by_dedicated_trap_motion",
+    "date": "2026-11-12",
+    "doc": "Docs/DAY14.md",
+    "art": "Initial SpikeHurt/SlimeWalk/SlimeIdle unchanged; capture now uses six dedicated native composite atlases. See trap_dedicated_motion.",
+    "tests": "Day14TrapReactionTests (2); initial 123/123 and previous capture 136/136 preserved; latest dedicated-motion full 142/142 (155 total, 13 Explicit) in Logs/TrapDedicatedMotion/Full",
+    "not_done": "slime-stained overlay after escape, new Windows build, manual feel review",
+    "note": "Initial Day 13/14 and capture/consumption results preserved; latest dedicated frame checks and 138 scene images recorded in trap_dedicated_motion."
+  },
+  "day12_validation": {
+    "status": "auto_verified_manual_review_pending",
+    "doc": "Docs/DAY12.md",
+    "tests": "Day12AbilityTests (3) + Day12SwitchTests (7); boss chapel added to the existing attack-profile comparison",
+    "scenes": [
+      "Day09_Stage1",
+      "Day09_BossChapel"
+    ],
+    "verified": "traits after Tab, preserved counter armor, attack cancellation and cooldown, shared HP and HUD, crouch and air, slime, hurt/hit-stop/death/disable, real flesh-wall hold and R recovery",
+    "runtime_scene_art_changes": false,
+    "backup": "Logs/Day12/Before; Logs/Day12/BeforeLatest",
+    "not_done": "manual feel/rendering review; no new capture or Windows build"
+  },
+  "day7_traits": {
+    "status": "implemented_auto_verified_manual_review_pending",
+    "adela": "breaksArmor (cuts strikeArmored / grabWindupArmored, not post-hit counter)",
+    "cecilia": "interruptDelay 0.2s when a hit cancels an enemy tell; hits during that wait do not change it",
+    "feedback_vfx_sfx": "deferred_to_day18_user_decision",
+    "scenes": [
+      "Day05_EnemyPatterns",
+      "Lobby_Sanctuary",
+      "Day08_Scrolling"
+    ],
+    "tests": "CombatDecisionTests +3",
+    "backup": "Logs/Day07Traits/Before"
+  },
+  "day8_camera": {
+    "status": "implemented_auto_verified_manual_review_pending",
+    "script": "Assets/SaintKnightDay08/Runtime/SKHorizontalCamera.cs",
+    "training_reference_scene": "Assets/SaintKnightDay04/Scenes/Day05_EnemyPatterns.unity",
+    "tests": "Day08CameraTests (2) and LobbyTests.DoorLoadsTheTrainingScene",
+    "backup": "Logs/Day08/Before"
+  },
+  "design_handoff": "Docs/DAY06_DESIGN_HANDOFF.md",
+  "design_work_started": true,
+  "waiting_for": "madonna_playable_sprites_from_user",
+  "playmode_validation": {
+    "passed": 142,
+    "failed": 0,
+    "skipped": 13,
+    "total": 155,
+    "skipped_reason": "13 existing Explicit probe/capture tests; dedicated graphics captured all 138 frames separately",
+    "exit_code": 0,
+    "result_file": "Logs/TrapDedicatedMotion/Full/playmode-results.xml",
+    "note": "Previous 136 plus six dedicated art/playback/state tests passed; targeted graphics 22/22 passed with 138 scene captures reviewed",
+    "mode": "batchmode_nographics_burst_compilation_disabled"
+  },
+  "manual_visual_and_feel_review": false,
+  "windows_build_verified": "built_2026-11-12 through Day 15 (Builds/Win64_Day16/SaintAndKnight.exe; Logs/Day16/Win64/build.log); batch launch 15s; no windowed/manual check",
+  "play_scene": "Assets/SaintKnightLobby/Scenes/Lobby_Sanctuary.unity",
+  "character_design_policy": "notify_user_before_design_work_then_wait_for_design_preparation",
+  "character_health_policy": "shared_100_hp_training_placeholder",
+  "hud_3d_connected": false,
+  "archive_policy": "original_master_zips_preserved_local_status_is_newer",
+  "reference_upgrade": "Docs/REFERENCE_UPGRADE_20261108.md",
+  "pending_user_decisions": [
+    "ground_attack_roots_movement_revisit_when_more_enemy_types",
+    "tab_switch_breaks_grab_revisit_when_more_enemy_types",
+    "enemy_timing_randomness_revisit_when_more_enemy_types"
+  ],
+  "simulated_playtest": "Assets/Tests/PlayMode/PlaytestProbe.cs; Logs/ClaudeRuns/20261108_005037_playtest",
+  "lobby_concept": {
+    "version": "v6",
+    "doc": "Docs/Design/Lobby/LOBBY_CONCEPT.md",
+    "unity_connected": true,
+    "status": "unity_scene_implemented_auto_verified",
+    "v2_output": "Docs/Design/Lobby/v2",
+    "v2_scope": "background_and_props_only",
+    "v3_output": "Docs/Design/Lobby/v3",
+    "lobby_sword": "character_switch_cecilia_adela_user_decision",
+    "v4_output": "Docs/Design/Lobby/v4",
+    "v5_output": "Docs/Design/Lobby/v5",
+    "external_assets": "GothicVania Church Pack (ansimuz, CC0) partially used; see Docs/Design/Lobby/external/gothicvania_church/SOURCE.md",
+    "v6_output": "Docs/Design/Lobby/v6"
+  },
+  "combat_scene": "Assets/SaintKnightDay09/Scenes/Day09_Stage1.unity",
+  "day6_sprites": {
+    "source": "Docs/Design/Characters/reference (user-provided sheets)",
+    "generator": "Docs/Design/Characters/make_characters_v5.py",
+    "output": "Docs/Design/Characters/v5",
+    "unity_art": "Assets/SaintKnightDay06/Art/Characters",
+    "view": "Assets/SaintKnightDay06/Runtime/SKCharacterSpriteView.cs",
+    "attach_menu": "Tools > SaintKnight > Day 06 > Attach Character Sprites To Player",
+    "scenes": [
+      "Day05_EnemyPatterns",
+      "Lobby_Sanctuary"
+    ],
+    "height_px": {
+      "cecilia": 55,
+      "adela": 62
+    },
+    "motion_atlas": "Assets/SaintKnightDay06/Resources/SaintKnightDay06",
+    "motion_atlas_cells": {
+      "cecilia": 68,
+      "adela": 78
+    },
+    "motion_source": "output/imagegen/day06-native-motion",
+    "known_gap": "manual review pending; all six active strike frames verified against the existing hitbox reach (cecilia 1.02u, adela 0.85u)",
+    "manual_review": false,
+    "look": "v4 settings (user choice 2026-11-10); v5 denoise/face polish and v6 hand-drawn rejected"
+  },
+  "hud_mode": "2d_illustration_by_damage_stage (user decision 2026-11-10); cecilia stages 0-4 connected, adela pending",
+  "day6_run_foot_slide": "fixed_by_retime: cecilia Run 500->412ms (~5px/step forward slide removed); adela within measurement error; cecilia cell 13 toe stall remains (art)",
+  "resolved_decisions_2026_11_10": {
+    "point_blank_mashing": "counterArmorAfterHit on A/B, hurtRecovery A 0.2 / B 0.3, kill counts unchanged",
+    "jump_during_attack": "blocked in windup/strike (jumpDuringAttack=false in Day 5 and lobby)",
+    "crouch": "S/Down, crouchHeight 0.72, no walking; B heavy swing is high (attackHeight 0.475, size y 0.5)"
+  },
+  "day9_stage": {
+    "status": "implemented_auto_verified_manual_review_pending",
+    "scene": "Assets/SaintKnightDay09/Scenes/Day09_Stage1.unity",
+    "builder": "Assets/SaintKnightDay09/Editor/SKStage1SceneBuilder.cs (Tools > SaintKnight > Day 09 > Create Stage 1 Scene, overwrites Day 9 only)",
+    "art_generator": "Docs/Design/Stage/make_day09_art.py now only the source of stage1_layout.json (do not copy its v2 bg)",
+    "layout": "Assets/SaintKnightDay09/Art/stage1_layout.json",
+    "enemies": [
+      "A1",
+      "B1",
+      "A2 (upper floor)",
+      "A3",
+      "B2"
+    ],
+    "enemy_art": "user sprites Docs/Design/Enemies/Day09 -> Assets/SaintKnightDay09/Art/Enemies (split_day09_frames.py); view SKEnemySpriteView incl. merged escape 0.15s / throw 0.25s",
+    "tests": "Day09StageTests (9) + CaptureEachSection (Explicit)",
+    "day11_door": "SKSceneDoor loads the boss chapel when the player is within reach 0.6 (no prompt, no lever); backup Logs/Day11/Before; results Logs/ClaudeRuns/20261111_230942_day11_autodoor_full; capture Logs/ClaudeRuns/20261111_231431_day11_autodoor_capture",
+    "lobby_door": "Day09_Stage1",
+    "backup": "Logs/Day09/Before",
+    "background": "Docs/Design/Stage/pixel-redraw-v1/stage1_bg.png (user/other tool, aligned to stage1_layout.json); Claude v2 far/front layers removed",
+    "boss_chapel": {
+      "scene": "Assets/SaintKnightDay09/Scenes/Day09_BossChapel.unity",
+      "art": "Docs/Design/Stage/boss-chapel-v1/boss_chapel.png",
+      "door": "SKSceneDoor at stage x2500, W/Up",
+      "boss": "Rose Window Madonna with reference-based full-body sprite art v4",
+      "carry_over": "HP and selected character reset on scene load (known gap until Day 20-21)"
+    }
+  },
+  "boss_plan": {
+    "decision": "A Rose Window Madonna (user 2026-11-10)",
+    "doc": "Docs/Design/Boss/BOSS_ROSE_MADONNA.md",
+    "status": "implemented_reference_art_manual_review_pending",
+    "days": "22-25; Day 10 traps built as reusable parts",
+    "script": "Assets/SaintKnightDay09/Runtime/SKBossAgent.cs",
+    "art": "v4 full-body sprite fitted to the game by Docs/Design/Boss/RoseMadonna-v4/fit_to_game.py (graded, flesh roots, heart nest, phase-2 corruption); parts by make_boss_sprites.py + flesh_tools.py",
+    "tests": "Day09BossTests (8) + CaptureBossFight (Explicit)",
+    "missing": [
+      "clear/door after defeat (Day 25)",
+      "HP/character carry-over (Day 20-21)",
+      "merged grab sprites",
+      "VFX/SFX",
+      "manual difficulty review"
+    ],
+    "tuning": "HP 360 (was 600), closed shell x0.3 (was 0.2), standing 130 px (~2.2x heroines, was 240)"
+  },
+  "playable_madonna": {
+    "decision": "ranged halo-thorn attack; unlock on boss defeat into the Tab cycle (PlayerPrefs until Day 21 save); art first (user, non-explicit)",
+    "doc": "Docs/Design/Characters/MADONNA_PLAYABLE.md",
+    "status": "waiting_for_art_no_code"
+  },
+  "day10_traps": {
+    "status": "implemented_auto_verified_manual_review_pending",
+    "scripts": [
+      "Assets/SaintKnightDay10/Runtime/SKFloorSpike.cs",
+      "Assets/SaintKnightDay10/Runtime/SKSlimePool.cs",
+      "Assets/SaintKnightDay10/Runtime/SKFleshWall.cs"
+    ],
+    "stage": "Day09_Stage1 trapDay10 1120-1300px: slime 1135-1285, cracks 1170/1250 period 2.4s offset 1.2s",
+    "boss": "Day09_BossChapel uses the same animated tentacle and slime assets",
+    "art": "24 sprites in Assets/SaintKnightDay10/Art: tentacle 7, slime 3, wall 4, Cecilia and Adela composites 5 each; capture/consumption now uses six 23-frame Resources trap motion atlases, previous wall 2/2/1 composites remain fallback",
+    "art_generators": [
+      "Docs/Design/Stage/make_day10_floor_art.py",
+      "Docs/Design/Stage/make_flesh_wall.py"
+    ],
+    "tests": "Day10TrapTests (9)",
+    "not_done": "slime-stained overlay after escape, Day 17 HUD state variants, manual feel review and new build",
+    "backup": "Logs/Day10Art/Before",
+    "flesh_wall": "SKFleshWall at Day09_Stage1 x1945px; dedicated 6 swallow / 12 resist / 3 escape / 2 consumed composite frames per character; native body pulls sideways into the wall",
+    "visual_capture": "Logs/Day10Capture_*.png (11); red training box hidden on floor tentacles 2026-11-11; open point: small crack tell"
+  },
+  "trap_dedicated_motion": {
+    "status": "implemented_auto_verified_capture_images_reviewed_manual_feel_pending",
+    "date": "2026-11-12",
+    "doc": "Docs/TRAP_DEDICATED_MOTION.md",
+    "resources": "Assets/SaintKnightDay10/Resources/SaintKnightDay10/TrapMotion",
+    "atlases": 6,
+    "frames": 138,
+    "frames_per_pair": {
+      "swallow": 6,
+      "resist": 12,
+      "escape": 3,
+      "consumed": 2
+    },
+    "reference_mapping": "Photo 1 tentacle spiral wrap; photo 2 lateral pull into wall; approved slime materials retained",
+    "native_body": "Original Pounced/Held/Resist/Escape pixels with integer translation and occlusion; no rescale or recolor; AI material-only generation",
+    "runtime": "SKTrapAnimationLibrary + SKTrapAnimationPlayback; body/consumed child/wall renderers; procedural fallback only when resources missing",
+    "gameplay_rules": "Existing damage, capture, resistance, four-second quiet deadline and retry unchanged",
+    "targeted_results": "Logs/TrapDedicatedMotion/TargetedVisual/playmode-results.xml (22/22, exit 0)",
+    "full_results": "Logs/TrapDedicatedMotion/Full/playmode-results.xml",
+    "capture_index": "Logs/TrapDedicatedMotion/Captures/20261112_044531_553_0b3e2027/index.md",
+    "capture_images": 138,
+    "capture_image_review": "All 138 scene images and six final sheets reviewed for native identity, anchors, progressive occlusion, resistance/escape frames, consumed state and duplicate rendering",
+    "asset_preservation": "Logs/TrapDedicatedMotion/asset-preservation.json (42 originals unchanged)",
+    "validation_inputs": "Logs/TrapDedicatedMotion/validation-inputs.json",
+    "applied_assets": "Logs/TrapDedicatedMotion/applied-assets.json",
+    "source_and_builder": "Docs/Design/Characters/trap-dedicated-motion",
+    "final_docs_backup": "Logs/TrapDedicatedMotion/BeforeFinalDocs",
+    "not_done": "manual feel review; new Windows build"
+  },
+  "spritecook_drafts_review": {
+    "date": "2026-11-13",
+    "status": "seven_sheets_normalized_59_sprites_imported_game_not_connected",
+    "doc": "Docs/SPRITECOOK_DRAFTS_COMPLETED.md",
+    "drafts": "Assets/SaintKnightSpriteCook/Drafts",
+    "changed_art": "Seven normalized draft sheets/JSON plus 59 Single Sprites; earlier polished slime composites retained; production resources/runtime/scenes unchanged",
+    "changes": [
+      "continuous narrow stream",
+      "drip-shaped lower edges",
+      "first drop contacts head",
+      "late-stage equipment occluded outside primary mound"
+    ],
+    "local_checks": "84 reproducible PNG/JSON/GIF files; protected Assets35 hashes unchanged; slime compositor6/6; canonical design side-by-side, all seven contact sheets reviewed",
+    "unity_regression": "149/149 passed; 162 total, 13 Explicit, 0 failed, exit0; new3 checks verify actual59 Sprite imports and settings/pivots, lifted foot gap and UI overlap; Logs/SpriteCookCompletion/20261113/PlayMode/playmode-results.xml",
+    "spritecook_connection": "Connected and callable; model catalog, balance and owned references verified",
+    "regeneration_plan": "Docs/Design/Stage/spritecook/regeneration-plan.json; actual results and rejection tracked",
+    "not_done": "state-specific game integration; in-game visual/timing/manual feel review; new Windows build",
+    "backup": "Logs/SpriteCookReview/20261113/Before (50 files)",
+    "current_credits": 0,
+    "spent_credits": 32,
+    "raw_generated_assets": {
+      "adela": "4123e049-82e3-4ae5-99bf-9856c59ea5cc",
+      "cecilia_rejected_design_drift": "2d92070c-6a58-4ca6-a12f-f94cd8aa3f29"
+    },
+    "identity_fix": {
+      "tool": "builtin_image_gen_edit",
+      "edit_request": "Logs/SpriteCookIdentityFix/20261113/edit-request.json",
+      "canonical": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/cecilia_motion.png",
+      "draft": "Assets/SaintKnightSpriteCook/Drafts/4_enemy_death_cecilia_v3.png",
+      "cells": "128x96, 4x2, 8 frames, 48 PPU, first standing pose 55px, original 32 colours",
+      "user_constraint": "preserve original face, long silver hair, ornate outfit, proportions and chain weapon; do not reuse rejected v2 as reference"
+    },
+    "followup_backup": "Logs/SpriteCookCompletion/20261113/Before (44 files)",
+    "completion": {
+      "sheetCount": 7,
+      "characterFrames": 56,
+      "uiComponents": 3,
+      "slicedSprites": 59,
+      "cellSize": [
+        128,
+        96
+      ],
+      "ceciliaStandingHeight": 55,
+      "adelaStandingHeight": 62,
+      "additionalSpriteCookSpend": 0,
+      "remainingFiveEngine": "builtin_image_gen_edit",
+      "output": "Docs/Design/Stage/spritecook/completed-pack",
+      "slicedFolder": "Assets/SaintKnightSpriteCook/Drafts/Sliced"
+    }
+  },
+  "reference_unreasonx": {
+    "status": "implemented_auto_verified_art_partial",
+    "date": "2026-11-17",
+    "doc": "Docs/Design/REFERENCE_UNREASONX.md",
+    "features": "sanctuary hot spring + village tavern unlocked after stage 1 clear (SKHotSpring, SKTavern), one-time hot spring epilogue (SKEpilogue), Cecilia stage illustrations as 2x/128-colour dot art, expression close-up on a worse damage stage (SKExpressionCutIn); body-part roulette removed by user decision",
+    "full_results": "Logs/RestInjury/Full4/playmode-results.xml (178/178, 196 total, 18 explicit, exit 0)",
+    "not_done": "salon host CGs salon_rune/greta/sorel/bg (no credits), redo ep_feet/ep_bed as anime-illustration pixel art, salon screen capture, Adela stage illustrations, manual review, new build"
+  },
+  "inari_dialogue_atmosphere_20261119": {
+    "status": "applied_auto_verified_captured",
+    "date": "2026-11-19",
+    "scope": "Over-the-head dialogue laid out like the user's INARI screenshot (SKDialogue) and per-scene URP colour grade (SKAtmosphere)",
+    "full_results": "Logs/Story/InariFull2/playmode-results.xml: 191 passed/212 total/21 explicit/0 failed",
+    "captures": "Logs/Story/InariCaptures/",
+    "not_done": [
+      "Adela bust illustration",
+      "manual review",
+      "build"
+    ]
+  }
+}

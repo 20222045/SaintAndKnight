@@ -1,0 +1,14 @@
+{
+  "name": "SaintKnight.NativeDefeat.Editor",
+  "rootNamespace": "SaintKnight.SpriteCook.Editor",
+  "references": ["SaintKnight.Runtime"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

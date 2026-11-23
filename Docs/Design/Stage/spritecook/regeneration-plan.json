@@ -1,0 +1,251 @@
+{
+  "status": "seven_sheets_normalized_and_59_sprites_import_ready_game_not_connected",
+  "priority": "Requested seven sheets finished. Next: state-specific game integration and in-game visual review.",
+  "live_model_catalog_verified": true,
+  "current_credit_balance": 0,
+  "note": "Adela enemy defeat uses the retained SpriteCook Pro 1K output. Cecilia enemy defeat v3 is the reviewed built-in edit, preserved unchanged. The remaining five sheets were completed with built-in ImageGen reference edits; no further SpriteCook credit spend. Do not reuse rejected Cecilia v2 as reference.",
+  "entries": [
+    {
+      "output_file": "4_enemy_death_adela_v2.png",
+      "source_file": "Docs/Design/Stage/spritecook/4_enemy_death_adela_v1.png",
+      "canonical_reference_file": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/adela_motion.png",
+      "reference_asset_id": "2d6860c3-59c0-45f6-b493-2d93eecd434f",
+      "parameters": {
+        "pixel": true,
+        "bg_mode": "transparent",
+        "smart_crop": false,
+        "variations": 1,
+        "model": "gemini-3-pro-image",
+        "resolution": "1K",
+        "mode": "assets",
+        "width": 512,
+        "height": 192,
+        "aspect_ratio": "16:9"
+      },
+      "prompt": "A production-ready low-resolution side-view pixel-art motion sheet for an adult fantasy action-game character. Use the uploaded canonical motion sheet as the identity and pixel-density reference. Keep the same face, hair, fully worn clothes/armour, equipment, limited palette and crisp outline. Improve pose clarity and clean pixel clusters rather than adding finer-resolution painted detail. Fixed camera and consistent body scale across cells, one complete pose per cell, generous transparent margins, no text, labels, grid lines, enemies or scene background. The character is Adela; body height in the final normalized game art is 62 pixels. Sheet layout 4 columns by 2 rows. Row 1, four successive frames: stunned upright with arms pulled back, losing balance while restrained from behind, collapsing to knees, falling onto side. Row 2, four successive frames: braced against a heavy overhead impact, impact and knees buckling, thrown down, motionless on ground. Make transitions readable. Fully clothed throughout. Do not depict the attacker.",
+      "normalization": {
+        "columns": 4,
+        "rows": 2,
+        "frameWidth": 128,
+        "frameHeight": 96,
+        "bodyHeight": 62,
+        "ppu": 48
+      },
+      "status": "normalized_and_sliced_draft_game_not_connected",
+      "asset_id": "4123e049-82e3-4ae5-99bf-9856c59ea5cc",
+      "draft_file": "Assets/SaintKnightSpriteCook/Drafts/4_enemy_death_adela_v2.png",
+      "sliced_folder": "Assets/SaintKnightSpriteCook/Drafts/Sliced/4_enemy_death_adela_v2"
+    },
+    {
+      "output_file": "4_enemy_death_cecilia_v3.png",
+      "source_file": "Docs/Design/Stage/spritecook/4_enemy_death_cecilia_v1.png",
+      "canonical_reference_file": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/cecilia_motion.png",
+      "reference_asset_id": "8742f526-a4fe-47bb-b9ab-cd43a15c2218",
+      "prompt": "A production-ready low-resolution side-view pixel-art motion sheet for an adult fantasy action-game character. Use the uploaded canonical motion sheet as the identity and pixel-density reference. Keep the same face, hair, fully worn clothes/armour, equipment, limited palette and crisp outline. Improve pose clarity and clean pixel clusters rather than adding finer-resolution painted detail. Fixed camera and consistent body scale across cells, one complete pose per cell, generous transparent margins, no text, labels, grid lines, enemies or scene background. The character is Cecilia; body height in the final normalized game art is 55 pixels. Sheet layout 4 columns by 2 rows. Row 1, four successive frames: stunned upright with arms pulled back, losing balance while restrained from behind, collapsing to knees, falling onto side. Row 2, four successive frames: braced against a heavy overhead impact, impact and knees buckling, thrown down, motionless on ground. Make transitions readable. Fully clothed throughout. Do not depict the attacker.",
+      "normalization": {
+        "columns": 4,
+        "rows": 2,
+        "frameWidth": 128,
+        "frameHeight": 96,
+        "bodyHeight": 55,
+        "ppu": 48
+      },
+      "status": "normalized_and_sliced_draft_game_not_connected",
+      "tool": "builtin_image_gen_edit",
+      "rejected_asset_id": "2d92070c-6a58-4ca6-a12f-f94cd8aa3f29",
+      "edit_request": "Logs/SpriteCookIdentityFix/20261113/edit-request.json",
+      "draft_file": "Assets/SaintKnightSpriteCook/Drafts/4_enemy_death_cecilia_v3.png",
+      "sliced_folder": "Assets/SaintKnightSpriteCook/Drafts/Sliced/4_enemy_death_cecilia_v3",
+      "accepted_png_and_json_preserved_byte_for_byte": true
+    },
+    {
+      "output_file": "2_boss_pattern_cecilia_v2.png",
+      "source_file": "Docs/Design/Stage/spritecook/2_boss_pattern_cecilia_v1.png",
+      "canonical_reference_file": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/cecilia_motion.png",
+      "reference_asset_id": null,
+      "prompt": "Edit the supplied existing Cecilia boss-reaction sheet, using image 1 as the edit target and image 2 as the exact approved in-game character design. Preserve her original small face, delicate proportions, very long pale silver hair, ornate fitted pale/dark bodice, original shoulder and arm ornaments, long layered pale/lavender skirt panels, footwear and chain weapon. No redesign, short hair, plain cream robe, broad replacement waistband or new outfit. Improve clean pixel clusters and readable motion at the same low-resolution game scale. Exactly 11 sprites on a regular 4-column by 3-row layout, last cell empty, transparent background and generous gaps. Row 1, four poses: sweep-hit recoil standing, visibly falling backward airborne, impact landing on her back, lying knocked down. Row 2, four poses: held around the WAIST by an unseen grip and lifted well above the floor. Her pelvis is the support point, both feet visibly dangle well above the standing baseline with at least a quarter-head-height gap underneath. Pose 1 slumped torso with bent hanging knees; pose 2 arms pushing outward against restraint and toes pointed down; pose 3 legs kicking with knees bent; pose 4 torso twisting and arms straining. These MUST look suspended from the waist, not standing, walking or sitting. Keep the full long hair and clothing design in all four suspended poses. Do not draw the grip, captor or any tentacle. Row 3: one breaking-free landing pose, one defeated kneeling collapse, one lying defeated pose, last cell completely empty. Keep complete bodies and equipment inside separate cells. Same character, head size, body scale, colours and pixel density in every pose. Use the reference's chunky low-resolution pixel style, not a finely painted reinterpretation. No text, labels, grid, backdrop, scenery or other characters. Fully dressed throughout. Output only the corrected sheet with genuine alpha transparency.",
+      "normalization": {
+        "columns": 4,
+        "rows": 3,
+        "frameWidth": 128,
+        "frameHeight": 96,
+        "bodyHeight": 55,
+        "ppu": 48
+      },
+      "status": "normalized_and_sliced_draft_game_not_connected",
+      "draft_file": "Assets/SaintKnightSpriteCook/Drafts/2_boss_pattern_cecilia_v2.png",
+      "sliced_folder": "Assets/SaintKnightSpriteCook/Drafts/Sliced/2_boss_pattern_cecilia_v2",
+      "previous_unexecuted_spritecook_parameters": {
+        "pixel": true,
+        "bg_mode": "transparent",
+        "smart_crop": false,
+        "variations": 1,
+        "model": "gemini-3-pro-image",
+        "resolution": "1K",
+        "mode": "assets",
+        "width": 512,
+        "height": 288,
+        "aspect_ratio": "16:9",
+        "edit_asset_id": "414c15d8-f114-4ea8-8b58-7e6dac2b1e46",
+        "style_asset_ids": [
+          "8742f526-a4fe-47bb-b9ab-cd43a15c2218"
+        ]
+      },
+      "previous_unexecuted_spritecook_prompt": "A production-ready low-resolution side-view pixel-art motion sheet for an adult fantasy action-game character. Use the uploaded canonical motion sheet as the identity and pixel-density reference. Keep the same face, hair, fully worn clothes/armour, equipment, limited palette and crisp outline. Improve pose clarity and clean pixel clusters rather than adding finer-resolution painted detail. Fixed camera and consistent body scale across cells, one complete pose per cell, generous transparent margins, no text, labels, grid lines, enemies or scene background. The character is Cecilia; body height in the final normalized game art is 55 pixels. Sheet layout 4 columns by 3 rows. Row 1: four frames of a sweeping hit, airborne backward fall, landing, lying knocked down. Row 2: four frames with the waist held visibly above the floor; both feet dangling with a clear gap below them, bent knees and tense arms; alternate two clear resistance poses. Do not make these standing or ordinary walking poses. Row 3: one escape/landing frame followed by two defeated lying frames; leave the last cell empty. Do not draw a captor or holding limb.",
+      "tool": "builtin_image_gen_edit",
+      "reference_file": "C:/UnityProject/SaintAndKnight/Logs/SpriteCookIdentityFix/20261113/cecilia_canonical_idle_8x.png",
+      "edit_request": "Logs/SpriteCookCompletion/20261113/edit-requests.json"
+    },
+    {
+      "output_file": "2_boss_pattern_adela_v2.png",
+      "source_file": "Docs/Design/Stage/spritecook/2_boss_pattern_adela_v1.png",
+      "canonical_reference_file": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/adela_motion.png",
+      "reference_asset_id": null,
+      "prompt": "Edit the supplied existing Adela boss-reaction sheet. Image 1 is the sheet to edit; image 2 is the authoritative approved in-game character design. Preserve exactly her small profile face, long burgundy high ponytail, original dark fitted armour with pale trim, burgundy cape, straight sword, tall shield, proportions, palette and chunky low-resolution pixel density. Do not redesign her hair, armour, face, weapons or clothing. Improve pixel clarity and pose transitions. Exactly 11 full sprites in a regular 4-column by 3-row layout with the last cell empty, generous transparent spacing, no labels. Row 1, four poses: sweep-hit recoil standing, backward airborne fall, impact landing on her back, knocked down on the floor. Row 2, four poses: lifted by an unseen grip at her WAIST, pelvis supported and torso strained, both feet dangling clearly ABOVE the standing baseline with a substantial visible gap underneath. Pose 1 limp hanging torso and bent knees; pose 2 arms pushing out against the grip and boots pointing down; pose 3 knees kicking forward; pose 4 twisting her waist and shoulders hard to resist. Make the suspended body weight and hanging legs unmistakable; do not reuse four standing or walking poses. Keep sword, shield and cape with the original design. Do not draw a captor, extra arms, tentacles or any other person. Row 3: escape-and-land pose; defeated kneeling collapse; lying defeated pose; an entirely empty last cell. All sprites must share the same reference-accurate design, scale and pixel size. Whole bodies, hair, cape and weapons remain within their respective cells without overlap. Crisp small pixel clusters and original limited palette; no smooth painted detail, new armour or extra decorations. Fully armoured in every frame. Output the sheet only on genuine transparency, with no background or visible grid.",
+      "normalization": {
+        "columns": 4,
+        "rows": 3,
+        "frameWidth": 128,
+        "frameHeight": 96,
+        "bodyHeight": 62,
+        "ppu": 48
+      },
+      "status": "normalized_and_sliced_draft_game_not_connected",
+      "draft_file": "Assets/SaintKnightSpriteCook/Drafts/2_boss_pattern_adela_v2.png",
+      "sliced_folder": "Assets/SaintKnightSpriteCook/Drafts/Sliced/2_boss_pattern_adela_v2",
+      "previous_unexecuted_spritecook_parameters": {
+        "pixel": true,
+        "bg_mode": "transparent",
+        "smart_crop": false,
+        "variations": 1,
+        "model": "gemini-3-pro-image",
+        "resolution": "1K",
+        "mode": "assets",
+        "width": 512,
+        "height": 288,
+        "aspect_ratio": "16:9",
+        "edit_asset_id": "82bf4341-5d7a-4dbb-be07-f08d062821af",
+        "style_asset_ids": [
+          "2d6860c3-59c0-45f6-b493-2d93eecd434f"
+        ]
+      },
+      "previous_unexecuted_spritecook_prompt": "A production-ready low-resolution side-view pixel-art motion sheet for an adult fantasy action-game character. Use the uploaded canonical motion sheet as the identity and pixel-density reference. Keep the same face, hair, fully worn clothes/armour, equipment, limited palette and crisp outline. Improve pose clarity and clean pixel clusters rather than adding finer-resolution painted detail. Fixed camera and consistent body scale across cells, one complete pose per cell, generous transparent margins, no text, labels, grid lines, enemies or scene background. The character is Adela; body height in the final normalized game art is 62 pixels. Sheet layout 4 columns by 3 rows. Row 1: four frames of a sweeping hit, airborne backward fall, landing, lying knocked down. Row 2: four frames with the waist held visibly above the floor; both feet dangling with a clear gap below them, bent knees and tense arms; alternate two clear resistance poses. Do not make these standing or ordinary walking poses. Row 3: one escape/landing frame followed by two defeated lying frames; leave the last cell empty. Do not draw a captor or holding limb.",
+      "tool": "builtin_image_gen_edit",
+      "reference_file": "C:/UnityProject/SaintAndKnight/Logs/SpriteCookCompletion/20261113/References/adela_canonical_idle_8x.png",
+      "edit_request": "Logs/SpriteCookCompletion/20261113/edit-requests.json"
+    },
+    {
+      "output_file": "5_hp_orb_ornaments_v2.png",
+      "source_file": "Docs/Design/Stage/spritecook/5_hp_orb_ornaments_v1.png",
+      "prompt": "Edit this existing gothic pixel-art HP HUD sheet, retaining its established materials and the identities of its three components. Make exactly three separate complete components in one horizontal row with wide empty transparent gaps, same front view and matching circle centres/scales. LEFT: the empty grey/silver clear-glass HP orb, with gentle grey internal glass shading and crisp small highlights, no liquid. REMOVE its ornate gold exterior frame completely; give the glass only a very thin neutral dark-grey outline so it can sit inside either separate ornament without two gold frames colliding. MIDDLE: the saint's separate ornate dark-gold halo ring with the original delicate chains; its central circular opening stays entirely transparent and contains no glass orb. RIGHT: the knight's separate ring ornament with a straight longsword and a small kite-shield motif around the outside; its central circular opening stays entirely transparent and contains no glass orb. Keep the opening diameter and location identical in the two ornaments so one shared glass orb fits either. Preserve the gothic dark-gold and iron palette and crisp low-resolution pixel-art style; clean up clusters and small details rather than adding finely painted texture. One component per regular cell, do not join them together, do not bake a glass orb into either ornament, no extra icons, text, labels, visible grid, backdrop, drop-shadow ground or scenery. Output only these three assets on a genuinely transparent background.",
+      "normalization": {
+        "components": 3,
+        "ppu": 48,
+        "separate_layers": true
+      },
+      "status": "normalized_and_sliced_draft_game_not_connected",
+      "draft_file": "Assets/SaintKnightSpriteCook/Drafts/5_hp_orb_ornaments_v2.png",
+      "sliced_folder": "Assets/SaintKnightSpriteCook/Drafts/Sliced/5_hp_orb_ornaments_v2",
+      "previous_unexecuted_spritecook_parameters": {
+        "pixel": true,
+        "bg_mode": "transparent",
+        "smart_crop": false,
+        "variations": 1,
+        "model": "gemini-3-pro-image",
+        "resolution": "1K",
+        "mode": "ui",
+        "width": 384,
+        "height": 128,
+        "aspect_ratio": "16:9",
+        "edit_asset_id": "1a9ef17b-a90c-4450-9ea6-cb7152df6e5e"
+      },
+      "previous_unexecuted_spritecook_prompt": "Three separate matching low-resolution gothic pixel-art UI components in a single horizontal row, generous transparent spacing, no text or characters. Left: an empty clear-glass HP orb with a very thin neutral rim, no elaborate gold outer frame. Middle: a separate saint ornament with halo ring and delicate chains, sized to surround the orb. Right: a separate knight ornament with sword and shield, sized to surround the same orb. Keep the orb rim visually light so it does not collide with the two optional outer ornaments when layered. Consistent palette and pixel size. Transparent centres in the ornaments. Do not bake an orb into the ornament components.",
+      "tool": "builtin_image_gen_edit",
+      "reference_file": null,
+      "edit_request": "Logs/SpriteCookCompletion/20261113/edit-requests.json"
+    },
+    {
+      "output_file": "3_trap_reaction_cecilia_v2.png",
+      "source_file": "Docs/Design/Stage/spritecook/3_trap_reaction_cecilia_v1.png",
+      "canonical_reference_file": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/cecilia_motion.png",
+      "reference_asset_id": null,
+      "prompt": "Image 1 is the EXISTING SHEET TO EDIT; image 2 is the EXACT APPROVED in-game character design. Preserve the actual face, hairstyle and hair length, outfit/armour shapes, proportions, equipment and palette shown in image 2. Do not reinterpret or redesign the character. Improve deliberate crisp low-resolution pixel clusters and pose clarity while preserving the original small character scale. Exactly nine complete sprites in a regular three-column by three-row layout, generous transparent gaps, no overlap or cropped equipment. This is Cecilia: keep her very long pale silver hair and trailing pale strands, small profile face, original ornate fitted bodice and shoulder/arm details, long layered pale/lavender skirt panels, original footwear and small chain weapon. Do not shorten the hair or change her into a plain cream robe with a broad dark waistband. The dress stays the same length and design as it moves; show the walking rhythm in the feet and flowing lower panels without replacing the outfit. Reading order: cells 1,2,3 are three distinct reactions to a floor spike below the feet: sharp flinch, recoiling with back arched, recovering balance. Do not put slime under these three. Cells 4,5,6,7 are FOUR CLEARLY DIFFERENT slow-walking poses through ankle-deep olive-green slime: right-foot forward contact with the other foot behind, passing pose with the rear foot lifted and moving forward, left-foot forward contact with the other foot behind, opposite passing pose with that foot lifted. Alternate the leading leg and the arm swing, change the feet and lower-body/skirt folds visibly. Do not repeat four nearly identical standing or bracing silhouettes. Keep the torso's identity and outfit design stable. Facing right in ALL nine frames, never mirror the character to fake the walk. Only feet and ankles touch the green slime, with small sticky drips trailing the moving foot. Cells 8,9 are two subtle idle breathing poses in ankle-deep slime. Fully clothed throughout. No enemy, extra person, text, labels, grid lines, floor scenery or coloured backdrop. Output the sheet only, with actual transparent alpha.",
+      "normalization": {
+        "columns": 3,
+        "rows": 3,
+        "frameWidth": 128,
+        "frameHeight": 96,
+        "bodyHeight": 55,
+        "ppu": 48
+      },
+      "status": "normalized_and_sliced_draft_game_not_connected",
+      "draft_file": "Assets/SaintKnightSpriteCook/Drafts/3_trap_reaction_cecilia_v2.png",
+      "sliced_folder": "Assets/SaintKnightSpriteCook/Drafts/Sliced/3_trap_reaction_cecilia_v2",
+      "previous_unexecuted_spritecook_parameters": {
+        "pixel": true,
+        "bg_mode": "transparent",
+        "smart_crop": false,
+        "variations": 1,
+        "model": "gemini-3-pro-image",
+        "resolution": "1K",
+        "mode": "assets",
+        "width": 384,
+        "height": 288,
+        "aspect_ratio": "1:1",
+        "edit_asset_id": "6dbee400-1dcc-4362-a0a5-cc6f991e6ab8",
+        "style_asset_ids": [
+          "8742f526-a4fe-47bb-b9ab-cd43a15c2218"
+        ]
+      },
+      "previous_unexecuted_spritecook_prompt": "A production-ready low-resolution side-view pixel-art motion sheet for an adult fantasy action-game character. Use the uploaded canonical motion sheet as the identity and pixel-density reference. Keep the same face, hair, fully worn clothes/armour, equipment, limited palette and crisp outline. Improve pose clarity and clean pixel clusters rather than adding finer-resolution painted detail. Fixed camera and consistent body scale across cells, one complete pose per cell, generous transparent margins, no text, labels, grid lines, enemies or scene background. The character is Cecilia; body height in the final normalized game art is 55 pixels. Sheet layout 3 columns by 3 rows. Nine frames in reading order: three distinct floor-spike hurt/recovery poses, then four distinct walking steps through ankle-deep slime, then two idle poses standing in ankle-deep slime. The four walk poses must clearly alternate leading leg and arm with planted and passing phases; avoid repeating the same stance. Slime stays confined to ankles. Fully clothed throughout.",
+      "tool": "builtin_image_gen_edit",
+      "reference_file": "C:/UnityProject/SaintAndKnight/Logs/SpriteCookIdentityFix/20261113/cecilia_canonical_idle_8x.png",
+      "edit_request": "Logs/SpriteCookCompletion/20261113/edit-requests.json"
+    },
+    {
+      "output_file": "3_trap_reaction_adela_v2.png",
+      "source_file": "Docs/Design/Stage/spritecook/3_trap_reaction_adela_v1.png",
+      "canonical_reference_file": "Assets/SaintKnightDay06/Resources/SaintKnightDay06/adela_motion.png",
+      "reference_asset_id": null,
+      "prompt": "Image 1 is the EXISTING SHEET TO EDIT; image 2 is the EXACT APPROVED in-game character design. Preserve the actual face, hairstyle and hair length, outfit/armour shapes, proportions, equipment and palette shown in image 2. Do not reinterpret or redesign the character. Improve deliberate crisp low-resolution pixel clusters and pose clarity while preserving the original small character scale. Exactly nine complete sprites in a regular three-column by three-row layout, generous transparent gaps, no overlap or cropped equipment. This is Adela: retain her long burgundy high ponytail, small face, original dark fitted armour with pale trim, burgundy cape, straight sword and tall shield. Keep all these exact designs and compact proportions in every frame. Make the four slow-walking boot positions genuinely different while keeping her sword and shield recognizably the same equipment. Reading order: cells 1,2,3 are three distinct reactions to a floor spike below the feet: sharp flinch, recoiling with back arched, recovering balance. Do not put slime under these three. Cells 4,5,6,7 are FOUR CLEARLY DIFFERENT slow-walking poses through ankle-deep olive-green slime: right-foot forward contact with the other foot behind, passing pose with the rear foot lifted and moving forward, left-foot forward contact with the other foot behind, opposite passing pose with that foot lifted. Alternate the leading leg and the arm swing, change the feet and lower-body/skirt folds visibly. Do not repeat four nearly identical standing or bracing silhouettes. Keep the torso's identity and outfit design stable. Facing right in ALL nine frames, never mirror the character to fake the walk. Only feet and ankles touch the green slime, with small sticky drips trailing the moving foot. Cells 8,9 are two subtle idle breathing poses in ankle-deep slime. Fully clothed throughout. No enemy, extra person, text, labels, grid lines, floor scenery or coloured backdrop. Output the sheet only, with actual transparent alpha.",
+      "normalization": {
+        "columns": 3,
+        "rows": 3,
+        "frameWidth": 128,
+        "frameHeight": 96,
+        "bodyHeight": 62,
+        "ppu": 48
+      },
+      "status": "normalized_and_sliced_draft_game_not_connected",
+      "draft_file": "Assets/SaintKnightSpriteCook/Drafts/3_trap_reaction_adela_v2.png",
+      "sliced_folder": "Assets/SaintKnightSpriteCook/Drafts/Sliced/3_trap_reaction_adela_v2",
+      "previous_unexecuted_spritecook_parameters": {
+        "pixel": true,
+        "bg_mode": "transparent",
+        "smart_crop": false,
+        "variations": 1,
+        "model": "gemini-3-pro-image",
+        "resolution": "1K",
+        "mode": "assets",
+        "width": 384,
+        "height": 288,
+        "aspect_ratio": "1:1",
+        "edit_asset_id": "ae8b3ef5-a422-4b5f-99c6-ccabacc84e71",
+        "style_asset_ids": [
+          "2d6860c3-59c0-45f6-b493-2d93eecd434f"
+        ]
+      },
+      "previous_unexecuted_spritecook_prompt": "A production-ready low-resolution side-view pixel-art motion sheet for an adult fantasy action-game character. Use the uploaded canonical motion sheet as the identity and pixel-density reference. Keep the same face, hair, fully worn clothes/armour, equipment, limited palette and crisp outline. Improve pose clarity and clean pixel clusters rather than adding finer-resolution painted detail. Fixed camera and consistent body scale across cells, one complete pose per cell, generous transparent margins, no text, labels, grid lines, enemies or scene background. The character is Adela; body height in the final normalized game art is 62 pixels. Sheet layout 3 columns by 3 rows. Nine frames in reading order: three distinct floor-spike hurt/recovery poses, then four distinct walking steps through ankle-deep slime, then two idle poses standing in ankle-deep slime. The four walk poses must clearly alternate leading leg and arm with planted and passing phases; avoid repeating the same stance. Slime stays confined to ankles. Fully clothed throughout.",
+      "tool": "builtin_image_gen_edit",
+      "reference_file": "C:/UnityProject/SaintAndKnight/Logs/SpriteCookCompletion/20261113/References/adela_canonical_idle_8x.png",
+      "edit_request": "Logs/SpriteCookCompletion/20261113/edit-requests.json"
+    }
+  ],
+  "estimated_remaining_cost": 0,
+  "estimated_remaining_cost_note": "No generation pending in this completion pack; future SpriteCook jobs require fresh pricing and balance verification.",
+  "actual_additional_spritecook_spend": 0,
+  "completion_report": "Docs/SPRITECOOK_DRAFTS_COMPLETED.md",
+  "estimated_total_cost_for_original_spritecook_plan": 112,
+  "last_used_spritecook_model": "gemini-3-pro-image",
+  "completion_engine_for_remaining_five": "builtin_image_gen_edit"
+}
